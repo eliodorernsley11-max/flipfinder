@@ -26,7 +26,7 @@
   "type": "MLS",
   "note": "Fire damage, cash only.",
   "spread": 8900,
-  "status": "Pending \u2013 likely gone",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-20"
  },
  {
@@ -146,7 +146,7 @@
   "type": "MLS",
   "note": "Full gut rehab, cash only.",
   "spread": -23698,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-20"
  },
  {
@@ -223,5 +223,50 @@
   "spread": null,
   "status": "Active",
   "foundDate": "2026-10-20"
+ },
+ {
+  "address": "3133 Maltby Rd, Oakfield, NY 14125",
+  "url": "https://usdaproperties.com/property/ny/14125/4893403946/",
+  "price": 75900,
+  "value": 168834,
+  "valueSource": "Avg of 3 AVMs, $140k\u2013$195k (usdaproperties.com)",
+  "beds": 2,
+  "baths": 2,
+  "sqft": 1080,
+  "type": "MLS \u2013 estate sale",
+  "note": "Estate sale, as-is, cash or rehab financing, no repairs. Almost half an acre. 48 hrs for offer review.",
+  "spread": 17284,
+  "status": "Active",
+  "foundDate": "2026-10-21"
+ },
+ {
+  "address": "2002 Moscow Ave, Hickman, KY 42050",
+  "url": "https://usdaproperties.com/property/ky/42050/4221943352/",
+  "price": 49000,
+  "value": 84070,
+  "valueSource": "Avg of 3 AVMs, split $51k vs $136.5k (usdaproperties.com)",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1800,
+  "type": "MLS",
+  "note": "Handyman special, needs repairs and cosmetics. Cash only, as-is. Built 1925.",
+  "spread": -10151,
+  "status": "Active",
+  "foundDate": "2026-10-21"
+ },
+ {
+  "address": "8094 Highway 393, Laurel Hill, FL 32567",
+  "url": "https://usdaproperties.com/property/fl/32567/6879989980/",
+  "price": 49000,
+  "value": 88850,
+  "valueSource": "Avg of 2 AVMs, split $47.7k vs $130k (usdaproperties.com)",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1452,
+  "type": "MLS",
+  "note": "Needs renovation, cash only. Deep well, paved road.",
+  "spread": -11805,
+  "status": "Active",
+  "foundDate": "2026-10-21"
  }
 ]
