@@ -1,0 +1,89 @@
+/* FlipFinder AI – Get This Under Contract + My Info. Profile stays in this browser (localStorage); nothing is sent anywhere. */
+(function(){
+const KEY='ff_myinfo_v1';
+const F=[['name','Full name'],['company','Company / LLC (optional)'],['phone','Phone'],['email','Email'],['addr','Mailing address'],['state','Your state'],['tname','Title company name'],['temail','Title company email'],['tphone','Title company phone'],['emd','Default EMD amount ($)'],['insp','Inspection period (days)'],['close','Days to close']];
+const DEF={emd:'500',insp:'10',close:'30'};
+const get=()=>{try{return Object.assign({},DEF,JSON.parse(localStorage.getItem(KEY)||'{}'))}catch(e){return Object.assign({},DEF)}};
+const has=()=>{const p=get();return !!(p.name&&p.phone)};
+const M=n=>'$'+Math.round(Math.max(0,+n||0)).toLocaleString('en-US');
+const E=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const B=(v,l)=>v?E(v):`<mark>[${l}]</mark>`; // highlighted blank
+const css=`.gc-open{margin-top:6px;background:linear-gradient(135deg,#d4b062,#b8913a);border:0;color:#15161a;font:700 14px Inter,system-ui,sans-serif;padding:11px;border-radius:12px;cursor:pointer;width:100%}
+.gc-bg{position:fixed;inset:0;background:rgba(10,11,14,.55);backdrop-filter:blur(4px);z-index:1000;display:none;align-items:center;justify-content:center}.gc-bg.on{display:flex}
+.gc{background:#fff;width:min(560px,100%);max-height:92vh;overflow:auto;border-radius:20px;padding:22px;box-sizing:border-box;font-family:Inter,system-ui,sans-serif;color:#15161a;box-shadow:0 20px 60px rgba(0,0,0,.3)}
+@media(max-width:600px){.gc-bg{align-items:flex-end}.gc{border-radius:20px 20px 0 0;max-height:92vh}}
+.gc h3{margin:0 0 4px;font-size:19px}.gc .sub{font-size:12.5px;color:#6b7280;margin-bottom:12px}.gc .x{float:right;border:0;background:#f3f1ec;border-radius:999px;width:32px;height:32px;font-size:18px;cursor:pointer}
+.gc label{display:block;font-size:11.5px;font-weight:600;color:#6b7280;margin:9px 0 4px;text-transform:uppercase;letter-spacing:.05em}
+.gc input,.gc textarea{width:100%;box-sizing:border-box;border:1px solid #e5e2da;border-radius:10px;padding:10px 12px;font:500 16px Inter,system-ui;background:#fbfaf7}.gc textarea{font-size:14px;min-height:150px}
+.gc .two{display:grid;grid-template-columns:1fr 1fr;gap:10px}.gc .step{border-top:1px solid #eee;padding-top:12px;margin-top:14px}.gc .sn{display:inline-block;background:#15161a;color:#d4b062;border-radius:999px;width:22px;height:22px;text-align:center;font-size:12px;line-height:22px;margin-right:6px;font-weight:700}
+.gc .h{font-weight:700;font-size:15px}.gc .acts{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:10px}.gc .acts a,.gc .acts button,.gc .b2{display:block;text-align:center;background:#15161a;color:#fff;border:0;border-radius:10px;padding:10px 4px;font:600 13px Inter,system-ui;text-decoration:none;cursor:pointer}
+.gc .ct{background:#f7f5ef;border-radius:12px;padding:12px;font-size:13.5px;margin-top:8px}.gc .ct a.big{display:block;margin-top:8px;text-align:center;background:#d4b062;color:#15161a;font-weight:700;padding:11px;border-radius:10px;text-decoration:none}
+.gc .docs{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:8px}.gc .docs button{background:#fff;color:#15161a;border:1px solid #15161a;border-radius:10px;padding:10px;font:600 13px Inter,system-ui;cursor:pointer}
+.gc .note{font-size:11.5px;color:#6b7280;margin-top:10px;line-height:1.45}.gc .row{display:flex;gap:8px;margin-top:14px}.gc .row .b2{flex:1}.gc .b2.lt{background:#f3f1ec;color:#15161a}`;
+let bg;
+function shell(){if(bg)return bg;const s=document.createElement('style');s.textContent=css;document.head.appendChild(s);bg=document.createElement('div');bg.className='gc-bg';bg.innerHTML='<div class="gc" role="dialog" aria-modal="true"></div>';document.body.appendChild(bg);
+ bg.addEventListener('click',e=>{if(e.target==bg||e.target.classList.contains('x'))bg.classList.remove('on')});document.addEventListener('keydown',e=>{if(e.key=='Escape')bg.classList.remove('on')});return bg}
+function show(html){const b=shell();b.firstChild.innerHTML='<button class="x" aria-label="Close">×</button>'+html;b.classList.add('on');b.firstChild.scrollTop=0;return b.firstChild}
+function profile(then){const p=get();const box=show(`<h3>My Info</h3><div class="sub">Entered once, saved only in this browser on this device. Never uploaded or sent anywhere. Used to fill your offers and documents.</div>
+${F.map(([k,l])=>`<label>${l}</label><input data-p="${k}" value="${E(p[k]||'')}" ${/emd|insp|close/.test(k)?'inputmode="numeric"':''} ${k=='email'||k=='temail'?'type="email"':''}>`).join('')}
+<div class="row"><button class="b2" data-s>Save</button><button class="b2 lt" data-c>Clear my info</button></div>`);
+ box.querySelector('[data-s]').onclick=()=>{const o={};box.querySelectorAll('[data-p]').forEach(i=>o[i.dataset.p]=i.value.trim());localStorage.setItem(KEY,JSON.stringify(o));if(then)then();else bg.classList.remove('on')};
+ box.querySelector('[data-c]').onclick=()=>{if(confirm('Clear your saved info from this browser?')){localStorage.removeItem(KEY);profile(then)}}}
+const buyer=p=>(p.company?`${p.company}`:p.name)||'';
+function msg(d,p,offer){return `Hi, I'm ${p.name||'[your name]'}${p.company?' with '+p.company:''}. I'm interested in ${d.address||'the property'} and would like to make a cash offer of ${M(offer)}, as-is, closing in about ${p.close||30} days through ${p.tname||'my title company'}, with a ${p.insp||10}-day inspection period. The buyer on the contract would be "${buyer(p)||'[buyer]'} and/or assigns". To be upfront: I'm a real estate wholesaler and may assign this contract to another cash buyer before closing. Is the seller open to an offer? You can reach me at ${p.phone||'[phone]'}${p.email?' or '+p.email:''}. Thank you!`}
+const today=()=>new Date().toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric'});
+function docs(d,p,offer){const by=buyer(p)?E(buyer(p))+' and/or assigns':'<mark>[Buyer name / LLC]</mark> and/or assigns',addr=B(d.address,'Property address'),seller=B(d.seller,'Seller full legal name');
+ const tc=`${B(p.tname,'Title company')}${p.temail?', '+E(p.temail):''}${p.tphone?', '+E(p.tphone):''}`;
+ return {
+ 'Purchase & Sale Agreement':`<h1>Real Estate Purchase and Sale Agreement</h1><p>Date: ${today()}</p>
+<p><b>Seller:</b> ${seller}<br><b>Buyer:</b> ${by}<br><b>Property:</b> ${addr}, including all improvements and fixtures. Parcel/APN: <mark>[APN]</mark></p>
+<p><b>1. Purchase price.</b> ${M(offer)}, paid in cash at closing. No financing contingency.</p>
+<p><b>2. Earnest money.</b> Buyer will deposit ${M(p.emd||500)} with ${tc} within 3 business days of acceptance. The deposit is fully refundable to Buyer if Buyer cancels during the inspection period.</p>
+<p><b>3. Inspection period.</b> Buyer has ${E(p.insp||10)} days from acceptance to inspect the property, with reasonable access. Buyer may cancel for any reason during this period by written notice and receive the full deposit back.</p>
+<p><b>4. Closing.</b> On or before ${E(p.close||30)} days from acceptance, at ${tc}. Seller delivers marketable title by general warranty deed, free of liens. Closing costs split per local custom unless stated: <mark>[cost split]</mark>.</p>
+<p><b>5. Condition.</b> Property is purchased as-is.</p>
+<p><b>6. Assignment.</b> Buyer may assign this Agreement, in whole or part, without Seller's consent. Seller acknowledges Buyer may be a real estate wholesaler who intends to assign this Agreement for a fee.</p>
+<p><b>7. Access.</b> Seller will give Buyer and its assigns reasonable access to show the property before closing.</p>
+<p><b>8. Default.</b> If Buyer defaults, Seller's sole remedy is to keep the earnest money.</p>
+<p><b>9. Additional terms:</b> <mark>[any]</mark></p>
+<p>Seller: ____________________ Date: ______<br>Buyer: ${by} — By: ${B(p.name,'Your name')} ____________ Date: ______<br>Buyer contact: ${B(p.phone,'phone')} · ${B(p.email,'email')} · ${B(p.addr,'mailing address')}</p>`,
+ 'Offer Letter':`<h1>Cash Offer</h1><p>${today()}</p><p>To: ${seller} / Listing agent ${B(d.agent,'agent name')}</p><p>Re: ${addr}</p>
+<p>Thank you for considering my offer. I'm offering <b>${M(offer)}</b> in cash for the property as-is, with no financing contingency and no repair requests.</p>
+<ul><li>Earnest money: ${M(p.emd||500)}, held by ${tc}</li><li>Inspection period: ${E(p.insp||10)} days</li><li>Closing: within ${E(p.close||30)} days</li><li>Buyer: ${by}</li></ul>
+<p>Disclosure: I am a real estate investor/wholesaler and may assign my rights under the contract to another buyer before closing.</p>
+<p>Sincerely,<br>${B(p.name,'Your name')}${p.company?'<br>'+E(p.company):''}<br>${B(p.phone,'phone')} · ${B(p.email,'email')}</p>`,
+ 'Assignment of Contract':`<h1>Assignment of Real Estate Purchase and Sale Agreement</h1><p>Date: <mark>[date]</mark></p>
+<p><b>Assignor:</b> ${by.replace(' and/or assigns','')}<br><b>Assignee:</b> <mark>[Cash buyer name / LLC]</mark><br><b>Property:</b> ${addr}<br><b>Original agreement:</b> dated <mark>[date]</mark> between ${seller} (Seller) and Assignor, price ${M(offer)}.</p>
+<p><b>1.</b> Assignor assigns all rights and interest in the Agreement to Assignee. Assignee assumes all of Buyer's obligations under it.</p>
+<p><b>2. Assignment fee:</b> <mark>[$ amount]</mark>, paid to Assignor at closing through ${tc}. Assignee deposits a <b>non-refundable</b> deposit of <mark>[$ amount]</mark> with the title company within 2 business days, credited at closing.</p>
+<p><b>3.</b> Assignee accepts the property as-is and will close by the Agreement's closing date.</p>
+<p>Assignor: ____________________ Date: ______<br>Assignee: ____________________ Date: ______</p>`,
+ 'Title Company Email':`<h1>Email to title company</h1><p><b>To:</b> ${B(p.temail,'title company email')}<br><b>Subject:</b> New assignment file – ${addr}</p>
+<p>Hi ${B(p.tname,'title company')},</p><p>I have a signed purchase agreement on ${addr} at ${M(offer)}, buyer "${by}". I plan to assign the contract to a cash buyer and would like to open a file.</p>
+<ul><li>Earnest money: ${M(p.emd||500)} (refundable during the ${E(p.insp||10)}-day inspection period)</li><li>Closing: within ${E(p.close||30)} days</li><li>Assignment fee to be paid to me at closing on the settlement statement</li></ul>
+<p>Attached: purchase agreement, and the assignment once signed. Please confirm you handle assignments, and send wiring instructions and a title search. I'll verify any wiring instructions by phone before sending funds.</p>
+<p>Thanks,<br>${B(p.name,'Your name')}<br>${B(p.phone,'phone')} · ${B(p.email,'email')}</p>`}}
+function docView(title,html){const w=window.open('','_blank');if(!w){alert('Allow pop-ups to open the document.');return}
+ w.document.write(`<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${E(title)}</title><style>body{font:15px/1.55 Georgia,serif;max-width:760px;margin:auto;padding:24px;color:#111}h1{font:700 22px Inter,system-ui,sans-serif}mark{background:#fde68a;padding:0 3px}.bar{position:sticky;top:0;background:#fff;padding:8px 0;display:flex;gap:8px;border-bottom:1px solid #eee;margin-bottom:12px}.bar button{font:600 14px system-ui;padding:9px 14px;border-radius:10px;border:0;background:#15161a;color:#fff}.d{font:12px system-ui;color:#666;border-top:1px solid #eee;margin-top:24px;padding-top:10px}@media print{.bar{display:none}mark{background:none;border-bottom:1px solid #000}}</style></head><body><div class="bar"><button onclick="print()">Print / Save as PDF</button><button onclick="navigator.clipboard.writeText(document.getElementById('doc').innerText).then(()=>this.textContent='Copied')">Copy</button></div><div id="doc">${html}</div><div class="d">Template only, not legal advice. Wholesaling rules vary by state: some require a license or specific written disclosures. Have your title company or a real estate attorney review before signing. Yellow fields are blanks to fill in.</div></body></html>`);w.document.close()}
+function open(d,offer){if(!has()){profile(()=>open(d,offer));const s=bg.querySelector('.sub');s.innerHTML='<b>First, your info.</b> Enter it once and every offer and document fills itself in. '+s.innerHTML;return}
+ const p=get();d=d||{};if(offer==null){offer=d.value&&window.PF?Math.max(0,Math.round(PF.calc({arv:d.value,pct:70,rep:PF.repairs(d),contract:d.price||0,target:10000}).maxOffer)):(d.price||0);if(d.price&&offer>d.price)offer=d.price}
+ const ph=d.agentPhone||d.phone||'',em=d.agentEmail||d.email||'',who=d.agent||d.seller||'';
+ const box=show(`<h3>Get This Under Contract</h3><div class="sub">${E(d.address||'Your property')} · nothing is sent automatically. Buttons open your own phone apps.</div>
+<div class="step"><span class="sn">1</span><span class="h">Contact the seller</span><div class="ct">${who||ph||em?`<b>${E(who||'Contact')}</b><br>${ph?'📞 '+E(ph)+'<br>':''}${em?'✉️ '+E(em):''}`:'No agent or seller contact is saved for this lead.'}${d.url?`<a class="big" href="${E(d.url)}" target="_blank" rel="noopener">Open listing to find the agent ↗</a>`:''}<div class="note" style="margin-top:6px">Listings on usdaproperties.com and the MLS go through the listing agent. Call or email the agent named on the listing.</div></div>
+<label>Your message (edit freely)</label><textarea data-m></textarea>
+<div class="acts"><a data-call>Call</a><a data-sms>Text</a><a data-mail>Email</a><button data-copy>Copy</button></div>
+<div class="note">Fair dealing: the message says you're a wholesaler who may assign the contract. Several states (e.g. OH, PA, IL, OK, SC) require written disclosure or a license to market contracts, so keep it in.</div></div>
+<div class="step"><span class="sn">2</span><span class="h">Offer amount</span><label>Offer to seller (from the calculator's max offer for a $10k fee)</label><input data-o inputmode="numeric" value="${Math.round(offer)}"></div>
+<div class="step"><span class="sn">3</span><span class="h">Your documents, filled in</span><div class="docs" data-docs></div><div class="note">Template only, not legal advice. Have your title company or attorney review before signing. Highlighted fields are blanks the app can't know.</div></div>
+<div class="row"><button class="b2 lt" data-edit>Edit My Info</button></div>`);
+ const ta=box.querySelector('[data-m]'),oi=box.querySelector('[data-o]');let dirty=false;ta.oninput=()=>dirty=true;
+ function sync(){const o=+oi.value.replace(/[^0-9]/g,'')||0;if(!dirty)ta.value=msg(d,p,o);const t=ta.value,sub='Cash offer – '+(d.address||'your property');
+  const c=box.querySelector('[data-call]'),s=box.querySelector('[data-sms]'),m=box.querySelector('[data-mail]');
+  c.href=ph?'tel:'+ph.replace(/[^0-9+]/g,''):(d.url||'#');s.href='sms:'+(ph?ph.replace(/[^0-9+]/g,''):'')+'?&body='+encodeURIComponent(t);m.href='mailto:'+encodeURIComponent(em)+'?subject='+encodeURIComponent(sub)+'&body='+encodeURIComponent(t);if(!ph)c.target='_blank';
+  const D=docs(d,p,o),dd=box.querySelector('[data-docs]');dd.innerHTML='';Object.keys(D).forEach(k=>{const b=document.createElement('button');b.textContent=k;b.onclick=()=>docView(k+' – '+(d.address||''),docs(d,p,+oi.value.replace(/[^0-9]/g,'')||0)[k]);dd.appendChild(b)})}
+ oi.oninput=sync;sync();
+ box.querySelector('[data-copy]').onclick=e=>navigator.clipboard.writeText(ta.value).then(()=>e.target.textContent='Copied');
+ box.querySelector('[data-edit]').onclick=()=>profile(()=>open(d,+oi.value||offer))}
+document.addEventListener("DOMContentLoaded",shell);
+window.GC={open,profile,get,docs};
+})();

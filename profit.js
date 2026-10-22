@@ -39,7 +39,7 @@ function form(id){return `<div class="pf-form" id="${id}">
 <label>Fee you want</label><input type="number" inputmode="numeric" data-k="target" value="10000">
 <div class="out"><div style="font-size:12px;color:#a9a59c;text-transform:uppercase;letter-spacing:.08em">Your assignment fee</div><div class="big" data-o="fee">—</div><span class="vd" data-o="vd"></span>
 <div class="r"><span>Max cash-buyer price</span><b data-o="mb">—</b></div><div class="r"><span>Max offer to seller for your fee</span><b data-o="mo">—</b></div><div class="ex" data-o="ex">Enter the ARV, repairs and your contract price.</div></div>
-<div class="note">Rough numbers. Lead values are automated listing estimates, not true after-repair values, and repairs are guesses. Verify with real sold comps and a walkthrough before you sign anything. Formula: max buyer price = ARV × % − repairs − buyer closing costs; fee = max buyer price − your contract price.</div></div>`}
+<button type="button" class="gc-open" data-gc style="margin-top:12px">Get This Under Contract</button><div class="note">Rough numbers. Lead values are automated listing estimates, not true after-repair values, and repairs are guesses. Verify with real sold comps and a walkthrough before you sign anything. Formula: max buyer price = ARV × % − repairs − buyer closing costs; fee = max buyer price − your contract price.</div></div>`}
 function wire(root){
   const q=k=>root.querySelector(`[data-k="${k}"]`),o=k=>root.querySelector(`[data-o="${k}"]`);
   function up(){const i={arv:num(q('arv').value),rep:num(q('rep').value),pct:num(q('pct').value),contract:num(q('contract').value),cc:num(q('cc').value),target:num(q('target').value)};
@@ -50,18 +50,18 @@ function wire(root){
     o('fee').textContent=M(r.fee);o('vd').className='vd '+r.v;o('vd').textContent=r.v=='good'?'Good deal':r.v=='thin'?'Thin deal':'No deal';
     o('ex').textContent=r.fee>0?`Contract it at ${M(i.contract)}, assign it to a cash buyer at ${M(r.maxBuyer)}, and you keep about ${M(r.fee)}. To make ${M(i.target)}, offer the seller ${M(r.maxOffer)} or less.`
       :`At ${M(i.contract)} there's no room for a fee: a cash buyer only pays about ${M(r.maxBuyer)}. You'd need the seller at ${M(r.maxOffer)} or less to make ${M(i.target)}.`}
-  root.querySelectorAll('input').forEach(e=>e.addEventListener('input',up));root._up=up;root._set=v=>{for(const k in v){const e=q(k);if(e)e.value=v[k]}up()};up();return root}
+  const gb=root.querySelector('[data-gc]');if(gb)gb.onclick=()=>{const i={arv:num(q('arv').value),rep:num(q('rep').value),pct:num(q('pct').value),contract:num(q('contract').value),cc:num(q('cc').value),target:num(q('target').value)};const r=calc(i);const d=Object.assign({},root._lead||{},{address:q('addr').value||(root._lead||{}).address});if(root.closest('.pf-bg'))root.closest('.pf-bg').classList.remove('on');GC.open(d,i.arv?Math.max(0,Math.round(i.contract?Math.min(r.maxOffer,i.contract):r.maxOffer)):(i.contract||0))};root.querySelectorAll('input').forEach(e=>e.addEventListener('input',up));root._up=up;root._set=v=>{for(const k in v){const e=q(k);if(e)e.value=v[k]}up()};up();return root}
 let sheet;
 function ensure(){if(sheet)return sheet;const st=document.createElement('style');st.textContent=css;document.head.appendChild(st);
   const bg=document.createElement('div');bg.className='pf-bg';bg.innerHTML=`<div class="pf" role="dialog" aria-modal="true"><button class="x" aria-label="Close">×</button><h3>What can I make?</h3><div class="sub" data-t></div>${form('pf-modal')}</div>`;
   document.body.appendChild(bg);bg.addEventListener('click',e=>{if(e.target==bg||e.target.classList.contains('x'))bg.classList.remove('on')});
   document.addEventListener('keydown',e=>{if(e.key=='Escape')bg.classList.remove('on')});
   sheet={bg,f:wire(bg.querySelector('.pf-form'))};return sheet}
-function open(n){const d=REG[n];const s=ensure();s.bg.querySelector('[data-t]').textContent='Wholesale estimate: you contract it and assign it to a cash buyer.';
+function open(n){const d=REG[n];const s=ensure();s.f._lead=d;s.bg.querySelector('[data-t]').textContent='Wholesale estimate: you contract it and assign it to a cash buyer.';
   s.f._set({addr:d.address||'',arv:d.value||'',rep:d.value?repairs(d):'',pct:70,contract:d.price||'',cc:'',target:10000});s.bg.classList.add('on')}
 function cardHTML(d){const n=REG.push(d)-1;const f=fee(d);
   const b=f==null?'':`<span class="pf-badge pf-${f>=10000?'good':f>=3000?'thin':'no'}">Est. fee at asking: ${M(f)}</span>`;
-  return `${b}<button type="button" class="pf-open" onclick="PF.open(${n})">What can I make?</button>`}
+  return `${b}<button type="button" class="pf-open" onclick="PF.open(${n})">What can I make?</button><button type="button" class="gc-open" onclick="GC.open(PF.lead(${n}))">Get This Under Contract</button>`}
 document.addEventListener('DOMContentLoaded',()=>{if(!document.querySelector('.pf-bg'))ensure();const c=document.getElementById('pf-standalone');if(c){c.innerHTML=form('pf-page');wire(c.firstElementChild)}});
-window.PF={open,card:cardHTML,calc,fee,repairs};
+window.PF={lead:n=>REG[n],open,card:cardHTML,calc,fee,repairs};
 })();
