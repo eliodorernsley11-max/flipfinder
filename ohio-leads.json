@@ -1,5 +1,21 @@
 [
  {
+  "address": "8480 Dixie Hwy, Ira Township, MI 48023",
+  "url": "https://usdaproperties.com/property/mi/48023/3881999235/",
+  "price": 124900,
+  "value": 255501,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 2.0,
+  "sqft": 1236,
+  "type": "MLS – Single Family",
+  "note": "Macomb Co., across from Anchor Bay. Needs cosmetic updates; roof 2013, newer gutters and windows. A bit over $120k. Repair guess $15k.",
+  "spread": 38951,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Detroit"
+ },
+ {
   "address": "10830 Silica Rd, North Jackson, OH 44451",
   "url": "https://usdaproperties.com/property/oh/44451/4113058627/",
   "price": 115000,
@@ -206,6 +222,22 @@
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Pittsburgh"
+ },
+ {
+  "address": "5649 Park Rd, Leavittsburg, OH 44430",
+  "url": "https://usdaproperties.com/property/oh/44430/3970208119/",
+  "price": 59900,
+  "value": 110317,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 2.0,
+  "sqft": 1230,
+  "type": "MLS – Single Family",
+  "note": "Trumbull Co. Needs a little TLC; roof 2017, updated septic. Pitched to owner-occupants or investors. Repair guess $15k.",
+  "spread": 2322,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Youngstown"
  },
  {
   "address": "229 McLister Ave, Mingo Junction, OH 43938",
@@ -448,6 +480,22 @@
   "metro": "Columbus"
  },
  {
+  "address": "2202 Westford Rd, Jamestown, PA 16134",
+  "url": "https://usdaproperties.com/property/pa/16134/3632696804/",
+  "price": 79000,
+  "value": 124552,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 2.0,
+  "sqft": 2260,
+  "type": "MLS – Single Family",
+  "note": "Shenango Valley (near Sharon/Hermitage). Needs a little TLC. Attached garage. Repair guess $15k.",
+  "spread": -6814,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Youngstown"
+ },
+ {
   "address": "446 Main St, Follansbee, WV 26037",
   "url": "https://usdaproperties.com/property/wv/26037/3048988914/",
   "price": 15000,
@@ -509,6 +557,22 @@
   "spread": -8411,
   "status": "Active",
   "foundDate": "2026-10-22",
+  "metro": "Pittsburgh"
+ },
+ {
+  "address": "211 Main St, Bentleyville, PA 15314",
+  "url": "https://usdaproperties.com/property/pa/15314/3905121117/",
+  "price": 30000,
+  "value": 58410,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 1338,
+  "type": "MLS – Single Family",
+  "note": "HUD-owned, sold as-is, uninsured. HUD sales have their own bid rules, so check if assignment is allowed. Repair guess $20k.",
+  "spread": -9113,
+  "status": "Active",
+  "foundDate": "2026-10-23",
   "metro": "Pittsburgh"
  },
  {
@@ -720,6 +784,54 @@
   "metro": "Detroit"
  },
  {
+  "address": "103 Willow St, Bethesda, OH 43719",
+  "url": "https://usdaproperties.com/property/oh/43719/4130707549/",
+  "price": 29900,
+  "value": 42646,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 2,
+  "baths": 2.0,
+  "sqft": null,
+  "type": "MLS – Single Family",
+  "note": "Belmont Co., Ohio side near Wheeling. Needs some TLC, pitched to investors. Sqft not listed. Repair guess $15k.",
+  "spread": -15048,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "WV Panhandle"
+ },
+ {
+  "address": "512 Glenn St, Wilmerding, PA 15148",
+  "url": "https://usdaproperties.com/property/pa/15148/3848447658/",
+  "price": 34900,
+  "value": 56493,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1.0,
+  "sqft": 1328,
+  "type": "MLS – Single Family",
+  "note": "Investor special, needs upgrades. Pitched for rental/BRRRR or flip. Repair guess $20k.",
+  "spread": -15355,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Pittsburgh"
+ },
+ {
+  "address": "117 Dennis Dr, Cortland, OH 44410",
+  "url": "https://usdaproperties.com/property/oh/44410/3215274656/",
+  "price": 125000,
+  "value": 191609,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 2.0,
+  "sqft": 1480,
+  "type": "MLS – Single Family",
+  "note": "Corner lot. Pitched to investors and flippers; interior is a clean slate for renovation. A bit over $120k. Repair guess $25k.",
+  "spread": -15874,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Youngstown"
+ },
+ {
   "address": "7766 Stewart Rd, Masury, OH 44438",
   "url": "https://usdaproperties.com/property/oh/44438/3795665817/",
   "price": 25000,
@@ -782,6 +894,22 @@
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Toledo"
+ },
+ {
+  "address": "606 Scott Ave, Scottdale, PA 15683",
+  "url": "https://usdaproperties.com/property/pa/15683/4730346584/",
+  "price": 109900,
+  "value": 160321,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 2.0,
+  "sqft": null,
+  "type": "MLS – Single Family",
+  "note": "Investor alert, sold as-is. Cleaned out, ready to renovate. 0.56 ac double lot. Repair guess $20k.",
+  "spread": -17675,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Pittsburgh"
  },
  {
   "address": "5841 N Sugar St, Uniondale, IN 46791",
@@ -880,6 +1008,38 @@
   "metro": "Youngstown"
  },
  {
+  "address": "1203 6th Ave, Ford City, PA 16226",
+  "url": "https://usdaproperties.com/property/pa/16226/4065638646/",
+  "price": 44900,
+  "value": 57478,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 1900,
+  "type": "MLS – Single Family",
+  "note": "Needs a lot of TLC, sold as-is. 27x20 detached garage. Repair guess $15k.",
+  "spread": -19665,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Pittsburgh"
+ },
+ {
+  "address": "456 W New York Ave, Sebring, OH 44672",
+  "url": "https://usdaproperties.com/property/oh/44672/3994303440/",
+  "price": 60000,
+  "value": 99969,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1.0,
+  "sqft": 864,
+  "type": "MLS – Single Family",
+  "note": "Fixer-upper pitched to investors and flippers. 2-car detached garage. Repair guess $30k.",
+  "spread": -20022,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Youngstown"
+ },
+ {
   "address": "354 Garrett Ave, Brooksville, KY 41004",
   "url": "https://usdaproperties.com/property/ky/41004/3425135868/",
   "price": 32000,
@@ -894,6 +1054,38 @@
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Cincinnati"
+ },
+ {
+  "address": "5121 Atchison Rd, Bellaire, OH 43906",
+  "url": "https://usdaproperties.com/property/oh/43906/3757113237/",
+  "price": 50000,
+  "value": 99703,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 1268,
+  "type": "MLS – Single Family",
+  "note": "Ohio side near Wheeling. Pitched to investors and contractors; significant renovations needed. Nearly half an acre. Repair guess $40k.",
+  "spread": -20208,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "WV Panhandle"
+ },
+ {
+  "address": "322 Cedar St, Duquesne, PA 15110",
+  "url": "https://usdaproperties.com/property/pa/15110/3882625114/",
+  "price": 19900,
+  "value": 41950,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": null,
+  "baths": 1.0,
+  "sqft": 732,
+  "type": "MLS – Single Family",
+  "note": "Fixer-upper pitched to investors and contractors. Repair guess $30k.",
+  "spread": -20535,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Pittsburgh"
  },
  {
   "address": "340 E Center St, Petersburg, MI 49270",
@@ -992,6 +1184,22 @@
   "metro": "Cleveland"
  },
  {
+  "address": "310 S State St, Crooksville, OH 43731",
+  "url": "https://usdaproperties.com/property/oh/43731/3503256839/",
+  "price": 23900,
+  "value": 42060,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 794,
+  "type": "MLS – Single Family",
+  "note": "Perry Co., SE of Columbus. Built 1862. Fixer-upper sold as-is, cash only. Repair guess $30k.",
+  "spread": -24458,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Columbus"
+ },
+ {
   "address": "643 Rockford Ave, Dayton, OH 45405",
   "url": "https://usdaproperties.com/property/oh/45405/3235588781/",
   "price": 59000,
@@ -1022,6 +1230,22 @@
   "status": "Active",
   "foundDate": "2026-10-23",
   "metro": "Detroit"
+ },
+ {
+  "address": "305 E Main St, Junction City, OH 43748",
+  "url": "https://usdaproperties.com/property/oh/43748/4308675934/",
+  "price": 99900,
+  "value": 123118,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 3.0,
+  "sqft": 1752,
+  "type": "MLS – Single Family",
+  "note": "Perry Co., SE of Columbus. Needs TLC. Detached garage. Repair guess $15k.",
+  "spread": -28717,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Columbus"
  },
  {
   "address": "545 S Wayne St, Waterloo, IN 46793",
@@ -1072,6 +1296,22 @@
   "metro": "Cincinnati"
  },
  {
+  "address": "6984 Old Kellogg Rd Lot 0, Anderson Township, OH 45230",
+  "url": "https://usdaproperties.com/property/oh/45230/9410253048/",
+  "price": 110000,
+  "value": 149728,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1.0,
+  "sqft": 624,
+  "type": "MLS – Single Family",
+  "note": "Investor special in Anderson Twp; new roof, gutters, windows and doors. Lot next door also for sale. Repair guess $25k.",
+  "spread": -30190,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Cincinnati"
+ },
+ {
   "address": "1533 Fourth St, Moundsville, WV 26041",
   "url": "https://usdaproperties.com/property/wv/26041/3516381514/",
   "price": 110000,
@@ -1086,6 +1326,22 @@
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "WV Panhandle"
+ },
+ {
+  "address": "619 W Main St, Geneva, OH 44041",
+  "url": "https://usdaproperties.com/property/oh/44041/3252544419/",
+  "price": 110000,
+  "value": 138935,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 4,
+  "baths": 2.0,
+  "sqft": 2219,
+  "type": "MLS – Single Family",
+  "note": "Ashtabula Co. 1920s home pitched to contractors and investors as a restoration. Repair guess $20k.",
+  "spread": -32746,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Cleveland"
  },
  {
   "address": "3011 E County Road 1800 N, Summitville, IN 46070",
@@ -1118,6 +1374,22 @@
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Cincinnati"
+ },
+ {
+  "address": "92 Eason St, Highland Park, MI 48203",
+  "url": "https://usdaproperties.com/property/mi/48203/3242593801/",
+  "price": 115000,
+  "value": 140162,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 4,
+  "baths": 2.0,
+  "sqft": 1668,
+  "type": "MLS – Single Family",
+  "note": "Highland Park. Needs clean-out and some renovation; subject to probate court approval. Repair guess $20k.",
+  "spread": -36887,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Detroit"
  },
  {
   "address": "419 Barker St, Wellington, OH 44090",
@@ -1230,6 +1502,22 @@
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "WV Panhandle"
+ },
+ {
+  "address": "164 N Avon Ave, Wadsworth, OH 44281",
+  "url": "https://usdaproperties.com/property/oh/44281/4832056348/",
+  "price": 100000,
+  "value": 126656,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 1102,
+  "type": "MLS – Single Family",
+  "note": "Medina Co. Investor special, needs substantial work, sold in current condition; cash offers preferred. Repair guess $40k.",
+  "spread": -51341,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Akron"
  },
  {
   "address": "2944 N Graytown Rd, Graytown, OH 43432",
