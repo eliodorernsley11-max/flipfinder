@@ -144,6 +144,22 @@
   "metro": "Youngstown"
  },
  {
+  "address": "442 Rose St, Follansbee, WV 26037",
+  "url": "https://usdaproperties.com/property/wv/26037/4885632666/",
+  "price": 32000,
+  "value": 96682,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 2.0,
+  "sqft": 1694,
+  "type": "MLS – Single Family",
+  "note": "Follansbee WV, near Weirton/Steubenville. Pitched to investors and flippers; fixer-upper sold as-is. Repair guess $30k.",
+  "spread": 5677,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "WV Panhandle"
+ },
+ {
   "address": "16681 State Route 152, Toronto, OH 43964",
   "url": "https://usdaproperties.com/property/oh/43964/4202568576/",
   "price": 94500,
@@ -368,6 +384,22 @@
   "metro": "Pittsburgh"
  },
  {
+  "address": "317 Arch St, Follansbee, WV 26037",
+  "url": "https://usdaproperties.com/property/wv/26037/4181125802/",
+  "price": 99900,
+  "value": 155444,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 1998,
+  "type": "MLS – Single Family",
+  "note": "Follansbee WV. Needs some TLC and updating; newer roof. Repair guess $15k.",
+  "spread": -6089,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "WV Panhandle"
+ },
+ {
   "address": "819 S 4th St, Greenfield, OH 45123",
   "url": "https://usdaproperties.com/property/oh/45123/4585532078/",
   "price": 65000,
@@ -414,6 +446,22 @@
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Columbus"
+ },
+ {
+  "address": "446 Main St, Follansbee, WV 26037",
+  "url": "https://usdaproperties.com/property/wv/26037/3048988914/",
+  "price": 15000,
+  "value": 53000,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 1600,
+  "type": "MLS – Single Family",
+  "note": "Follansbee WV. Investor special, fixer-upper, sold as-is, motivated seller. Very low price; check condition closely. Repair guess $30k.",
+  "spread": -7900,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "WV Panhandle"
  },
  {
   "address": "5566 State Route 152, Dillonvale, OH 43917",
@@ -638,6 +686,22 @@
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Pittsburgh"
+ },
+ {
+  "address": "310 S Pleasant St, Edinburgh, IN 46124",
+  "url": "https://usdaproperties.com/property/in/46124/4050234667/",
+  "price": 60000,
+  "value": 94250,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 2,
+  "baths": 2.0,
+  "sqft": 1650,
+  "type": "MLS – Single Family",
+  "note": "Needs updates and repairs. Repair guess $20k. Asking now shows $60,000 (checked Oct 23).",
+  "spread": -14025,
+  "status": "Active",
+  "foundDate": "2026-10-22",
+  "metro": "Indianapolis"
  },
  {
   "address": "39865 Sylvia St, Harrison Township, MI 48045",
@@ -896,6 +960,22 @@
   "metro": "Toledo"
  },
  {
+  "address": "3487 Harvey Ave Lot 0, Cincinnati, OH 45229",
+  "url": "https://usdaproperties.com/property/oh/45229/3012203792/",
+  "price": 125000,
+  "value": 201841,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 4,
+  "baths": 2.0,
+  "sqft": 2493,
+  "type": "MLS – Single Family",
+  "note": "Full renovation project, sold as-is where-is, will not qualify for conventional financing. Could be a duplex conversion. Agent is the owner. A bit over $120k. Repair guess $40k.",
+  "spread": -23711,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Cincinnati"
+ },
+ {
   "address": "1446 Jones Rd, Jefferson, OH 44047",
   "url": "https://usdaproperties.com/property/oh/44047/3344700129/",
   "price": 114900,
@@ -926,6 +1006,22 @@
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Dayton"
+ },
+ {
+  "address": "67 E Pleasant St, River Rouge, MI 48218",
+  "url": "https://usdaproperties.com/property/mi/48218/4014057079/",
+  "price": 74900,
+  "value": 102234,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 2.0,
+  "sqft": 1308,
+  "type": "MLS – Single Family",
+  "note": "River Rouge. Sold as-is; new breaker boxes, furnace serviced; kitchen and interior need updating. Repair guess $25k.",
+  "spread": -28336,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Detroit"
  },
  {
   "address": "545 S Wayne St, Waterloo, IN 46793",
@@ -992,6 +1088,22 @@
   "metro": "WV Panhandle"
  },
  {
+  "address": "3011 E County Road 1800 N, Summitville, IN 46070",
+  "url": "https://usdaproperties.com/property/in/46070/4922864645/",
+  "price": 60000,
+  "value": 74229,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1.0,
+  "sqft": 1807,
+  "type": "MLS – Single Family",
+  "note": "Madison Co. (NE of Indy). Investor special on 1.31 ac; listing has little detail. Repair guess $25k.",
+  "spread": -33040,
+  "status": "Active",
+  "foundDate": "2026-10-23",
+  "metro": "Indianapolis"
+ },
+ {
   "address": "1202 Yankeetown Rd Lot 0, Clark Township, OH 45130",
   "url": "https://usdaproperties.com/property/oh/45130/3250302868/",
   "price": 99000,
@@ -1008,22 +1120,6 @@
   "metro": "Cincinnati"
  },
  {
-  "address": "310 S Pleasant St, Edinburgh, IN 46124",
-  "url": "https://usdaproperties.com/property/in/46124/4050234667/",
-  "price": 79500,
-  "value": 94250,
-  "valueSource": "Avg of AVMs (usdaproperties.com)",
-  "beds": 2,
-  "baths": 2.0,
-  "sqft": 1650,
-  "type": "MLS – Single Family",
-  "note": "Needs updates and repairs. Repair guess $20k.",
-  "spread": -33525,
-  "status": "Active",
-  "foundDate": "2026-10-22",
-  "metro": "Indianapolis"
- },
- {
   "address": "419 Barker St, Wellington, OH 44090",
   "url": "https://usdaproperties.com/property/oh/44090/3100131331/",
   "price": 114900,
@@ -1038,22 +1134,6 @@
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Cleveland"
- },
- {
-  "address": "222 Jamestown Rd, South Charleston, OH 45368",
-  "url": "https://usdaproperties.com/property/oh/45368/3498451703/",
-  "price": 117500,
-  "value": 143772,
-  "valueSource": "Avg of AVMs (usdaproperties.com)",
-  "beds": 3,
-  "baths": 1.0,
-  "sqft": 1232,
-  "type": "MLS – Single Family",
-  "note": "Built 1891, sold strictly as-is. Repair guess $25k. Price cut to $117,500.",
-  "spread": -41860,
-  "status": "Active",
-  "foundDate": "2026-10-22",
-  "metro": "Dayton"
  },
  {
   "address": "110 White Bell Cir, Wellsburg, WV 26070",
@@ -1086,6 +1166,22 @@
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Pittsburgh"
+ },
+ {
+  "address": "222 Jamestown Rd, South Charleston, OH 45368",
+  "url": "https://usdaproperties.com/property/oh/45368/3498451703/",
+  "price": 119900,
+  "value": 143772,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 1232,
+  "type": "MLS – Single Family",
+  "note": "Built 1891, sold strictly as-is. Repair guess $25k. Listing now shows asking $119,900 (history also lists a $117,500 change on Oct 19; confirm with agent).",
+  "spread": -44260,
+  "status": "Active",
+  "foundDate": "2026-10-22",
+  "metro": "Dayton"
  },
  {
   "address": "209 N Chester St, New Cumberland, WV 26047",
