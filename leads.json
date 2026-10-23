@@ -1378,5 +1378,50 @@
   "spread": -2266,
   "status": "Active",
   "foundDate": "2026-10-23"
+ },
+ {
+  "address": "1237 Waverly St, Tarrant, AL 35217",
+  "url": "https://usdaproperties.com/property/al/35217/7872985433/",
+  "price": 55000,
+  "value": 121364,
+  "valueSource": "Avg of 2 AVMs, $99k–$144k (usdaproperties.com)",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 2284,
+  "type": "MLS",
+  "note": "Cash sale only, seller makes no repairs. Needs TLC: interior paint, cracked tile, broken windows. Granite counters, stainless appliances, storage shed. Built 1920. Repair guess $20k.",
+  "foundDate": "2026-10-23",
+  "spread": 9955,
+  "status": "Active"
+ },
+ {
+  "address": "9445 Ravenswood St, Detroit, MI 48204",
+  "url": "https://usdaproperties.com/property/mi/48204/4992068846/",
+  "price": 34900,
+  "value": 101800,
+  "valueSource": "Cotality, range $75.5k–$128k (usdaproperties.com)",
+  "beds": 6,
+  "baths": 2,
+  "sqft": 2937,
+  "type": "MLS – multi-family (2 units)",
+  "note": "Brick two-unit, two 3-bed units, marketed to investors. No condition details given. Built 1923. Only one estimate, so check comps. Repair guess $25k.",
+  "foundDate": "2026-10-23",
+  "spread": 11360,
+  "status": "Active"
+ },
+ {
+  "address": "2962 Pingree St, Detroit, MI 48206",
+  "url": "https://usdaproperties.com/property/mi/48206/4738586088/",
+  "price": 34999,
+  "value": 86570,
+  "valueSource": "Avg of 3 AVMs, $82k–$92k (usdaproperties.com)",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 2016,
+  "type": "MLS – multi-family",
+  "note": "Marketed to investors and rehabbers as a fix-and-flip or rental project; buyer to verify condition and zoning. Built 1924. Repair guess $30k.",
+  "foundDate": "2026-10-23",
+  "spread": -4400,
+  "status": "Active"
  }
 ]
