@@ -32,6 +32,22 @@
   "metro": "Youngstown"
  },
  {
+  "address": "6771 Warren Sharon Rd, Brookfield, OH 44403",
+  "url": "https://usdaproperties.com/property/oh/44403/3897737234/",
+  "price": 129900,
+  "value": 247452,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 4.0,
+  "sqft": 2672,
+  "type": "MLS – Single Family",
+  "note": "Freddie Mac (HomeSteps) REO; owner-occupant First Look period ended Sep 17, so investor offers now considered. 1.12 ac, 3-car garage, outbuildings. A bit over $120k. Repair guess $20k.",
+  "spread": 23316,
+  "status": "Active",
+  "foundDate": "2026-10-26",
+  "metro": "Youngstown"
+ },
+ {
   "address": "1164 Indian Creek Valley Rd, Indian Head, PA 15446",
   "url": "https://usdaproperties.com/property/pa/15446/4384044117/",
   "price": 50000,
@@ -78,6 +94,22 @@
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Toledo"
+ },
+ {
+  "address": "56612 McGee Rd, Shadyside, OH 43947",
+  "url": "https://usdaproperties.com/property/oh/43947/3396490711/",
+  "price": 99900,
+  "value": 184847,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 4,
+  "baths": 3.0,
+  "sqft": 2907,
+  "type": "MLS – Single Family",
+  "note": "Belmont Co., Ohio side near Wheeling. Sold AS IS, WHERE IS; buyer handles inspections/city requirements. 1.96 ac, 3-car garage. Listing photos digitally enhanced, so verify condition. Repair guess $15k.",
+  "spread": 14493,
+  "status": "Active",
+  "foundDate": "2026-10-26",
+  "metro": "WV Panhandle"
  },
  {
   "address": "4148 Sycamore St, Palmyra, MI 49268",
@@ -201,9 +233,9 @@
   "baths": 1.0,
   "sqft": 1120,
   "type": "MLS – Single Family",
-  "note": "Bank-owned (REO), as-is. Offers through a buyer agent only, proof of funds required. Repair guess $20k.",
+  "note": "Bank-owned (REO), as-is. Offers through a buyer agent only, proof of funds required. Repair guess $20k. Now pending (checked Oct 26).",
   "spread": 4046,
-  "status": "Active",
+  "status": "Gone – pending",
   "foundDate": "2026-10-22",
   "metro": "Youngstown"
  },
@@ -384,6 +416,22 @@
   "metro": "Pittsburgh"
  },
  {
+  "address": "325 S Water St, Caledonia, OH 43314",
+  "url": "https://usdaproperties.com/property/oh/43314/9647651482/",
+  "price": 81900,
+  "value": 138258,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 2.0,
+  "sqft": 1248,
+  "type": "MLS – Mobile",
+  "note": "Marion Co., N of Columbus. Manufactured home sold as-is; seller will not make repairs, inspection without utilities. Estimate may be high for a mobile home. Repair guess $20k.",
+  "spread": -5119,
+  "status": "Active",
+  "foundDate": "2026-10-26",
+  "metro": "Columbus"
+ },
+ {
   "address": "44 Orchard Ave, Englewood, OH 45322",
   "url": "https://usdaproperties.com/property/oh/45322/3035878335/",
   "price": 116900,
@@ -395,7 +443,7 @@
   "type": "MLS – Single Family",
   "note": "Pitched to investors. Needs a cosmetic refresh; roof 2017, water heater 2024. Repair guess $15k. Now contingent / under contract (checked Oct 22, 5 PM).",
   "spread": -5470,
-  "status": "Gone",
+  "status": "Gone – pending",
   "foundDate": "2026-10-22",
   "metro": "Dayton"
  },
@@ -912,6 +960,22 @@
   "metro": "Pittsburgh"
  },
  {
+  "address": "156 Byron St, McGrann, PA 16236",
+  "url": "https://usdaproperties.com/property/pa/16236/4020356704/",
+  "price": 85000,
+  "value": 138979,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 4,
+  "baths": 1.0,
+  "sqft": 2269,
+  "type": "MLS – Single Family",
+  "note": "Armstrong Co. Pitched to investors/flippers; needs TLC, sold as-is. Cleanout negotiable. Repair guess $30k.",
+  "spread": -17715,
+  "status": "Active",
+  "foundDate": "2026-10-26",
+  "metro": "Pittsburgh"
+ },
+ {
   "address": "5841 N Sugar St, Uniondale, IN 46791",
   "url": "https://usdaproperties.com/property/in/46791/4039225438/",
   "price": 104900,
@@ -992,6 +1056,22 @@
   "metro": "Dayton"
  },
  {
+  "address": "5665 Venice Rd, Newport, MI 48166",
+  "url": "https://usdaproperties.com/property/mi/48166/3657014897/",
+  "price": 125000,
+  "value": 173558,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 4,
+  "baths": 1.0,
+  "sqft": 1480,
+  "type": "MLS – Single Family",
+  "note": "Monroe Co., MI, steps to the beach. Needs some TLC, pitched as investment. A bit over $120k. Repair guess $15k.",
+  "spread": -18509,
+  "status": "Active",
+  "foundDate": "2026-10-26",
+  "metro": "Toledo"
+ },
+ {
   "address": "344 Shenango Blvd, Farrell, PA 16121",
   "url": "https://usdaproperties.com/property/pa/16121/3467657898/",
   "price": 19900,
@@ -1006,6 +1086,38 @@
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Youngstown"
+ },
+ {
+  "address": "101 Highland Ave, Avella, PA 15312",
+  "url": "https://usdaproperties.com/property/pa/15312/4429257793/",
+  "price": 65000,
+  "value": 86509,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 1496,
+  "type": "MLS – Single Family",
+  "note": "Washington Co. Needs TLC; furnace and water tank 2021, upgraded electric panel. Repair guess $15k.",
+  "spread": -19444,
+  "status": "Active",
+  "foundDate": "2026-10-26",
+  "metro": "Pittsburgh"
+ },
+ {
+  "address": "221 S 4th St, West Newton, PA 15089",
+  "url": "https://usdaproperties.com/property/pa/15089/4529526015/",
+  "price": 94900,
+  "value": 136348,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 4,
+  "baths": 1.0,
+  "sqft": 1680,
+  "type": "MLS – Single Family",
+  "note": "Westmoreland Co. 4 bed with detached garage; needs updates, pitched to investors/renovators. Repair guess $20k.",
+  "spread": -19456,
+  "status": "Active",
+  "foundDate": "2026-10-26",
+  "metro": "Pittsburgh"
  },
  {
   "address": "1203 6th Ave, Ford City, PA 16226",
@@ -1086,6 +1198,38 @@
   "status": "Active",
   "foundDate": "2026-10-23",
   "metro": "Pittsburgh"
+ },
+ {
+  "address": "205 McCormick Ave, Bentleyville, PA 15314",
+  "url": "https://usdaproperties.com/property/pa/15314/4225487620/",
+  "price": 54900,
+  "value": 91819,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1.0,
+  "sqft": 1120,
+  "type": "MLS – Single Family",
+  "note": "Washington Co., near I-70. Fixer-upper pitched to investors. Repair guess $30k.",
+  "spread": -20627,
+  "status": "Active",
+  "foundDate": "2026-10-26",
+  "metro": "Pittsburgh"
+ },
+ {
+  "address": "39150 Jewett Scio Rd, Jewett, OH 43986",
+  "url": "https://usdaproperties.com/property/oh/43986/9615127408/",
+  "price": 49000,
+  "value": 83180,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1.0,
+  "sqft": 832,
+  "type": "MLS – Single Family",
+  "note": "Harrison Co. Small fixer on almost an acre, priced to sell; needs upgrades. Pitched for rental or flip. Repair guess $30k.",
+  "spread": -20774,
+  "status": "Active",
+  "foundDate": "2026-10-26",
+  "metro": "WV Panhandle"
  },
  {
   "address": "340 E Center St, Petersburg, MI 49270",
@@ -1264,6 +1408,22 @@
   "metro": "Fort Wayne"
  },
  {
+  "address": "104 E Church Ave, Masontown, PA 15461",
+  "url": "https://usdaproperties.com/property/pa/15461/3957151006/",
+  "price": 25000,
+  "value": 36000,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 2.0,
+  "sqft": 3002,
+  "type": "MLS – Single Family",
+  "note": "Fayette Co. Needs full transformation; sold as-is, no seller repairs. Extra poor-condition outbuilding. Repair guess $30k.",
+  "spread": -29800,
+  "status": "Active",
+  "foundDate": "2026-10-26",
+  "metro": "Pittsburgh"
+ },
+ {
   "address": "2386 Rhoads Ave, Columbus, OH 43207",
   "url": "https://usdaproperties.com/property/oh/43207/4174447740/",
   "price": 115000,
@@ -1310,6 +1470,22 @@
   "status": "Active",
   "foundDate": "2026-10-23",
   "metro": "Cincinnati"
+ },
+ {
+  "address": "629 West Blvd, Marine City, MI 48039",
+  "url": "https://usdaproperties.com/property/mi/48039/4101916934/",
+  "price": 96999,
+  "value": 138097,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1.0,
+  "sqft": 1148,
+  "type": "MLS – Single Family",
+  "note": "St. Clair Co. Fixer-upper short sale; lender/investor approval needed, so expect slow timeline. Seller relocating. Repair guess $30k.",
+  "spread": -30331,
+  "status": "Active",
+  "foundDate": "2026-10-26",
+  "metro": "Detroit"
  },
  {
   "address": "1533 Fourth St, Moundsville, WV 26041",
