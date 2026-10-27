@@ -32,6 +32,22 @@
   "metro": "Youngstown"
  },
  {
+  "address": "20890 Ridgemont Rd, Harper Woods, MI 48225",
+  "url": "https://usdaproperties.com/property/mi/48225/4356834294/",
+  "price": 77900,
+  "value": 173953,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 4,
+  "baths": 1.0,
+  "sqft": 1153,
+  "type": "MLS – Single Family",
+  "note": "Harper Woods, bank-owned (foreclosure) 4 bed bungalow on a big lot, sold as-is. New listing; condition not described. Repair guess $20k.",
+  "spread": 23867,
+  "status": "Active",
+  "foundDate": "2026-10-27",
+  "metro": "Detroit"
+ },
+ {
   "address": "6771 Warren Sharon Rd, Brookfield, OH 44403",
   "url": "https://usdaproperties.com/property/oh/44403/3897737234/",
   "price": 129900,
@@ -366,6 +382,22 @@
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Toledo"
+ },
+ {
+  "address": "19131 Elkhart St, Harper Woods, MI 48225",
+  "url": "https://usdaproperties.com/property/mi/48225/3370479327/",
+  "price": 49900,
+  "value": 99591,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 915,
+  "type": "MLS – Single Family",
+  "note": "Harper Woods, bank-owned (foreclosure) 3 bed with basement, sold as-is. New listing; condition not described. Repair guess $20k.",
+  "spread": -186,
+  "status": "Active",
+  "foundDate": "2026-10-27",
+  "metro": "Detroit"
  },
  {
   "address": "8524 W Pleasant View Elm St, Fairland, IN 46126",
@@ -1230,6 +1262,22 @@
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Erie"
+ },
+ {
+  "address": "20890 Hollywood St, Harper Woods, MI 48225",
+  "url": "https://usdaproperties.com/property/mi/48225/3994875788/",
+  "price": 70000,
+  "value": 124892,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 1141,
+  "type": "MLS – Single Family",
+  "note": "Harper Woods (Grosse Pointe schools). Prior deal fell through on inspection: serious foundation work. Agent says below $90k it becomes a short sale, so expect lender approval and a slow timeline. Price reduced. Repair guess $35k.",
+  "spread": -17576,
+  "status": "Active",
+  "foundDate": "2026-10-27",
+  "metro": "Detroit"
  },
  {
   "address": "26901 County Road MN, Fayette, OH 43521",
