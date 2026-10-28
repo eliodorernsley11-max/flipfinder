@@ -2098,5 +2098,50 @@
   "foundDate": "2026-10-27",
   "spread": 3463,
   "status": "Active"
+ },
+ {
+  "address": "547 Seymour Ave, Jackson, MI 49202",
+  "url": "https://usdaproperties.com/property/mi/49202/3949760091/",
+  "price": 60000,
+  "value": 129139,
+  "valueSource": "Avg estimated value, AVMs $123k\u2013$139k (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1.0,
+  "sqft": 860,
+  "type": "HUD home \u2013 as-is",
+  "note": "HUD-owned, sold as-is, built 1920, 2-car detached garage. HUD sales usually give owner-occupants first priority and HUD contracts generally can't be assigned, so confirm with the listing agent before pursuing. Repair guess $20k.",
+  "foundDate": "2026-10-27",
+  "spread": 10397,
+  "status": "Active"
+ },
+ {
+  "address": "819 Mulberry St, Hammond, IN 46324",
+  "url": "https://usdaproperties.com/property/in/46324/4915497545/",
+  "price": 60000,
+  "value": 134432,
+  "valueSource": "Avg estimated value, AVMs $65k\u2013$189k, wide range (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1.0,
+  "sqft": 1254,
+  "type": "MLS \u2013 investor special, needs rehab",
+  "note": "Listing calls out investors and flippers; home is cleaned out and ready for rehab. Built 1917. Value estimates vary widely, so check comps. Repair guess $30k.",
+  "foundDate": "2026-10-27",
+  "spread": 4102,
+  "status": "Active"
+ },
+ {
+  "address": "710 2nd St, Evansdale, IA 50707",
+  "url": "https://usdaproperties.com/property/ia/50707/7142574701/",
+  "price": 68500,
+  "value": 140934,
+  "valueSource": "Avg estimated value, AVMs incl. $167k\u2013$187k (usdaproperties.com)",
+  "beds": 4,
+  "baths": 2.0,
+  "sqft": 1654,
+  "type": "MLS \u2013 fixer-upper",
+  "note": "1930 masonry two-story on a .38-acre corner lot with new roof, exterior paint and doors. Needs new bathrooms, kitchen and finishes throughout. Repair guess $30k.",
+  "foundDate": "2026-10-27",
+  "spread": 154,
+  "status": "Active"
  }
 ]
