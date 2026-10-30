@@ -3070,5 +3070,21 @@
   "status": "Active",
   "foundDate": "2026-10-30",
   "metro": "Erie"
+ },
+ {
+  "address": "670 5th Ave, Freedom, PA 15042",
+  "url": "https://usdaproperties.com/property/pa/15042/3415286716/",
+  "price": 51900,
+  "value": 92758,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 4,
+  "baths": 1.0,
+  "sqft": 969,
+  "type": "MLS \u2013 Single Family",
+  "note": "Price reduced; \"bring your vision.\" Kitchen and bath need updating, ~30-year-old flooring; furnace a few years old, roof ~10 yrs. Neighbor of 660 5th Ave lead. Repair guess $15k.",
+  "spread": -1969,
+  "status": "Active",
+  "foundDate": "2026-10-30",
+  "metro": "Pittsburgh"
  }
 ]
