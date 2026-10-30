@@ -41,7 +41,7 @@
   "type": "MLS",
   "note": "As-is, cash only, quick close preferred. 1 acre.",
   "spread": 6378,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-20"
  },
  {
@@ -122,15 +122,15 @@
  {
   "address": "116 E Park Ave, DuBois, PA 15801",
   "url": "https://usdaproperties.com/property/pa/15801/4251415605/",
-  "price": 75000,
+  "price": 85000,
   "value": 111428,
   "valueSource": "Avg of 3 AVMs (usdaproperties.com)",
   "beds": 5,
   "baths": 2,
   "sqft": 2080,
   "type": "MLS",
-  "note": "As-is, cash only. Price cut to $75k (was $85k).",
-  "spread": -12000,
+  "note": "As-is, cash only. Listing page showed asking $85,000 on Oct 30 (was recorded at $75,000).",
+  "spread": -22000,
   "status": "Active",
   "foundDate": "2026-10-20"
  },
@@ -326,7 +326,7 @@
   "type": "MLS – manufactured home",
   "note": "Handyman special, reduced from $69.9k. As-is, cash only. 0.36 ac.",
   "spread": -13280,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-21"
  },
  {
@@ -506,7 +506,7 @@
   "type": "MLS – fire-damaged lake home",
   "note": "Calling all cash buyers. Fire-gutted, demo done, new electric service. Deck rotted. On Maston Lake. Over $80k target.",
   "spread": 13424,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-21"
  },
  {
@@ -611,7 +611,7 @@
   "type": "MLS – former up/down duplex",
   "note": "Sold as-is, needs repairs and updates. Was a 3bd/1ba upper + 3bd/2ba lower duplex; built 1885. Reduced from $44k.",
   "spread": 9681,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-22"
  },
  {
@@ -776,7 +776,7 @@
   "type": "MLS",
   "note": "Investor special, cash buyers only. Seller pays $13,330 past-due water + $3,882 back taxes on a full-price offer only. Can be bought with 17603 Albion. One AVM outlier at $88k.",
   "spread": 1955,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-22"
  },
  {
@@ -926,7 +926,7 @@
   "type": "MLS",
   "note": "Cash only, sold as-is. Needs a lot of TLC and rehab, price reflects condition. Built 1895. AVMs split $50k–$116k.",
   "spread": -15450,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-22"
  },
  {
@@ -986,7 +986,7 @@
   "type": "MLS – duplex",
   "note": "Vacant up/down duplex sold strictly as-is, separate electric. Built 1900. Listing says the renovated duplex next door is listed at $260k. Reduced from $79.9k.",
   "spread": 26616,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-22"
  },
  {
@@ -1467,7 +1467,7 @@
   "note": "Investment opportunity sold AS-IS. Condo, so check HOA dues. Sold for $72k in Nov 2025. Built 1983. Repair guess $25k.",
   "foundDate": "2026-10-23",
   "spread": 6683,
-  "status": "Active"
+  "status": "Gone – off market"
  },
  {
   "address": "7725 Division Ave, Birmingham, AL 35206",
@@ -1542,7 +1542,7 @@
   "note": "Being sold 'As Is'. New roof and furnace already done. Built 1927. Repair guess $20k.",
   "foundDate": "2026-10-23",
   "spread": -2015,
-  "status": "Active"
+  "status": "Gone – off market"
  },
  {
   "address": "1300-02 Charbonnet St, New Orleans, LA 70117",
@@ -2067,7 +2067,7 @@
   "note": "Side-by-side duplex on a corner lot minutes from downtown, sold as-is; pitched as fix-and-rent or live in one side. Built 1926. Only one estimate with a wide range. Repair guess $20k.",
   "foundDate": "2026-10-27",
   "spread": 10500,
-  "status": "Active"
+  "status": "Gone – off market"
  },
  {
   "address": "2920 Scott St, Little Rock, AR 72206",
@@ -2396,7 +2396,7 @@
   "type": "MLS – investor special",
   "note": "Investor special fixer-upper; needs renovation throughout, attic could become 1–2 more bedrooms. Estimates agree closely (~$142k–$145k). Listed 9/9/26. Repair guess $30k.",
   "spread": 18377,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-29"
  },
  {
@@ -2411,7 +2411,7 @@
   "type": "MLS – as-is investor",
   "note": "Double-wide on a large lot, sold as-is and will require repairs. Estimates range $133k–$167k; manufactured homes can be harder to resell. Listed 7/2/26. Repair guess $20k.",
   "spread": 10324,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-29"
  },
  {
@@ -2441,7 +2441,7 @@
   "type": "MLS – as-is investor",
   "note": "Brick 3/1 sold as-is and ready for a complete renovation. Estimates ~$100k–$119k. Listed 9/14/26. Repair guess $35k.",
   "spread": -3300,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-29"
  },
  {
@@ -2471,7 +2471,7 @@
   "type": "MLS – as-is investor",
   "note": "Value-add 3/1 sold as-is, pitched to investors and rehabbers; seller financing also offered. Listing shows only an average estimate with no source breakdown, so verify comps. Repair guess $30k.",
   "spread": 30570,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-29"
  },
  {
@@ -2486,21 +2486,21 @@
   "type": "MLS – duplex, as-is",
   "note": "Duplex with two 2-bed/1-bath units, 'diamond in the rough' for an investor or handyman, sold as-is. Estimates vary widely ($64k–$160k). Repair guess $25k.",
   "spread": 17244,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-29"
  },
  {
   "address": "5440 Malcolm St, Philadelphia, PA 19143",
   "url": "https://usdaproperties.com/property/pa/19143/3258740226/",
-  "price": 80000,
+  "price": 90000,
   "value": 161992,
   "valueSource": "Avg of Quantarium, Collateral Analytics (usdaproperties.com)",
   "beds": 3,
   "baths": 1,
   "sqft": 1140,
   "type": "MLS – as-is, tenant-occupied",
-  "note": "Renovated in 2023 but now occupied by a non-paying tenant; can't be delivered vacant, drive-by only, as-is addendum required. Estimates $138k–$171k. Repair guess $20k plus eviction risk.",
-  "spread": 13394,
+  "note": "Renovated in 2023 but now occupied by a non-paying tenant; can't be delivered vacant, drive-by only, as-is addendum required. Estimates $138k–$171k. Repair guess $20k plus eviction risk. Listing page showed asking $90,000 on Oct 30 (was recorded at $80,000).",
+  "spread": 3394,
   "status": "Active",
   "foundDate": "2026-10-29"
  },
@@ -2516,7 +2516,7 @@
   "type": "MLS – as-is",
   "note": "Sold as-is, where-is; listing says mostly cosmetic repairs and appliances needed. Comes with acreage near downtown. Estimates $70k–$131k. Repair guess $30k (may be less).",
   "spread": 10516,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-29"
  },
  {
@@ -2531,7 +2531,7 @@
   "type": "MLS – as-is, vacant",
   "note": "Vacant for years, sold as-is; full basement and big detached garage. Estimates agree fairly well ($103k–$132k). Repair guess $25k.",
   "spread": 9482,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-29"
  },
  {
@@ -2546,21 +2546,21 @@
   "type": "MLS – fixer-upper",
   "note": "3-bed fixer-upper with hardwood floors, detached garage and fenced yard. Estimates agree closely ($131k–$132k). Repair guess $30k.",
   "spread": 8964,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-29"
  },
  {
   "address": "220 S Washington St, New Bremen, OH 45869",
   "url": "https://usdaproperties.com/property/oh/45869/3151518926/",
-  "price": 65000,
+  "price": 89000,
   "value": 147748,
   "valueSource": "Avg of Quantarium, Collateral Analytics (usdaproperties.com)",
   "beds": 4,
   "baths": 2,
   "sqft": 2629,
   "type": "MLS – fixer-upper",
-  "note": "Downtown 4/2 fixer-upper, 2,600+ sq ft, pitched as a sweat-equity renovation. Estimates disagree a lot ($91k vs $265k), so verify comps. Repair guess $30k.",
-  "spread": 8424,
+  "note": "Downtown 4/2 fixer-upper, 2,600+ sq ft, pitched as a sweat-equity renovation. Estimates disagree a lot ($91k vs $265k), so verify comps. Repair guess $30k. Listing page showed asking $89,000 on Oct 30 (was recorded at $65,000).",
+  "spread": -15576,
   "status": "Active",
   "foundDate": "2026-10-29"
  },
@@ -2576,7 +2576,7 @@
   "type": "MLS – needs TLC",
   "note": "Pitched for rental or flip; newer furnace and water heater, needs some TLC. Estimates disagree ($50k vs $137k). Repair guess $15k.",
   "spread": 5955,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-29"
  },
  {
@@ -2591,7 +2591,7 @@
   "type": "MLS – as-is investor",
   "note": "Investor opportunity priced to sell; needs significant repairs, sold as-is. Listing shows only an average estimate, so verify comps. Repair guess $40k.",
   "spread": 3890,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-29"
  },
  {
@@ -2606,7 +2606,7 @@
   "type": "MLS – investor duplex",
   "note": "Two-unit duplex (1920) pitched to investors, needs updates. Both estimates agree around $135k. Repair guess $25k.",
   "spread": 896,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-29"
  },
  {
@@ -2621,7 +2621,7 @@
   "type": "MLS – investor special duplex",
   "note": "Investor's special duplex, two 2/1 units with separate gas and electric meters. Needs a new roof and substantial repairs. Repair guess $35k.",
   "spread": -4832,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-29"
  },
  {
@@ -2636,7 +2636,7 @@
   "type": "MLS – investor opportunity",
   "note": "Small 2/1 pitched as an investor or renovation project. Three estimates agree at $41k–$53k. Repair guess $10k.",
   "spread": -2295,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-29"
  },
  {
@@ -2666,7 +2666,7 @@
   "type": "MLS – investor value-add",
   "note": "3/2 pitched to investors to add value with updates. Three estimates agree near $50k. Repair guess $15k.",
   "spread": -9420,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-29"
  },
  {
@@ -2681,7 +2681,7 @@
   "type": "MLS – investor opportunity",
   "note": "New listing pitched as an investor or renovation project. Three estimates $29k–$46k. Built 1950. Repair guess $10k.",
   "spread": -7568,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-29"
  },
  {
@@ -2786,7 +2786,7 @@
   "type": "MLS – renovation",
   "note": "$5k 3/2 pitched for renovation or investment. Built 1959. No value estimate shown, so check comps and condition.",
   "spread": null,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-29"
  },
  {
@@ -2822,15 +2822,15 @@
  {
   "address": "643 Rockford Ave, Dayton, OH 45405",
   "url": "https://usdaproperties.com/property/oh/45405/3235588781/",
-  "price": 53100,
+  "price": 59000,
   "value": 75000,
   "valueSource": "Collateral Analytics (usdaproperties.com)",
   "beds": 6,
   "baths": 2,
   "sqft": 2714,
   "type": "MLS – as-is duplex",
-  "note": "Foreclosure-tagged side-by-side duplex, two 3/1 units. Sold strictly as-is, no contingencies, proof of funds required. Reduced from $59k. Only one estimate shown. Repair guess $15k.",
-  "spread": -15600,
+  "note": "Foreclosure-tagged side-by-side duplex, two 3/1 units. Sold strictly as-is, no contingencies, proof of funds required. Reduced from $59k. Only one estimate shown. Repair guess $15k. Listing page showed asking $59,000 on Oct 30 (was recorded at $53,100).",
+  "spread": -21500,
   "status": "Active",
   "foundDate": "2026-10-29"
  },
@@ -2863,5 +2863,290 @@
   "spread": -18336,
   "status": "Active",
   "foundDate": "2026-10-29"
+ },
+ {
+  "address": "800 Washington St, Waynesville, MO 65583",
+  "url": "https://usdaproperties.com/property/mo/65583/8672359860/",
+  "price": 79900,
+  "value": 149510,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1.5,
+  "sqft": 1304,
+  "type": "MLS – as-is",
+  "note": "3-bed corner-lot ranch with bonus room, pitched to investors/renovators. Sold as-is, seller makes no repairs. Quantarium ($85k) is far below the other two estimates, so verify comps. Repair guess $20k.",
+  "foundDate": "2026-10-30",
+  "spread": 4757,
+  "status": "Active"
+ },
+ {
+  "address": "233 Cabin Ln, Ickesburg, PA 17037",
+  "url": "https://usdaproperties.com/property/pa/17037/4833525309/",
+  "price": 40000,
+  "value": 93000,
+  "valueSource": "Cotality (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 768,
+  "type": "MLS – mobile home on 1 ac",
+  "note": "2/1 mobile home on a private wooded acre; needs TLC and updating. Only one estimate (Cotality) and it likely includes land. Repair guess $25k.",
+  "foundDate": "2026-10-30",
+  "spread": 100,
+  "status": "Active"
+ },
+ {
+  "address": "788 County Road 3456, Clarksville, AR 72830",
+  "url": "https://usdaproperties.com/property/ar/72830/8303917327/",
+  "price": 74900,
+  "value": 149783,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1,
+  "sqft": 1236,
+  "type": "MLS – as-is, needs completion",
+  "note": "3/1 home plus 1-bed tiny home, barn and stocked pond on 4.5 ac. Sold as-is because the home needs completion. Estimates all ~$150k but likely include acreage. Repair guess $30k.",
+  "foundDate": "2026-10-30",
+  "spread": -52,
+  "status": "Active"
+ },
+ {
+  "address": "382 Ohio Ave, Midland, PA 15059",
+  "url": "https://usdaproperties.com/property/pa/15059/4219511649/",
+  "price": 29900,
+  "value": 61810,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 2,
+  "baths": null,
+  "sqft": null,
+  "type": "MLS – as-is",
+  "note": "Brick attached 2/1; cosmetic and finish work remain plus front-porch repairs. Sold as-is, seller has an attorney in fact. Estimates range $35k–$80k. Repair guess $15k.",
+  "foundDate": "2026-10-30",
+  "spread": -1633,
+  "status": "Active"
+ },
+ {
+  "address": "956 Bank St, East Liverpool, OH 43920",
+  "url": "https://usdaproperties.com/property/oh/43920/4688646546/",
+  "price": 30000,
+  "value": 68343,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1542,
+  "type": "MLS – as-is (bank-style)",
+  "note": "3-bed 2-story, sold as-is with no warranties; proof of funds required and offers go through a website by buyer agent only (check whether assignment is allowed). Estimates $40k–$90k. Repair guess $20k.",
+  "foundDate": "2026-10-30",
+  "spread": -2160,
+  "status": "Active"
+ },
+ {
+  "address": "1911 Shady Lane Dr, Jackson, MS 39204",
+  "url": "https://usdaproperties.com/property/ms/39204/7372483953/",
+  "price": 17500,
+  "value": 37988,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 950,
+  "type": "MLS – as-is",
+  "note": "2/1 sold as-is; can be packaged with 1903 and 1914 Shady Ln. Estimates disagree ($20k–$50k). Repair guess $20k.",
+  "foundDate": "2026-10-30",
+  "spread": -10908,
+  "status": "Active"
+ },
+ {
+  "address": "1914 Shady Lane Dr, Jackson, MS 39204",
+  "url": "https://usdaproperties.com/property/ms/39204/8018930144/",
+  "price": 23500,
+  "value": 45087,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1222,
+  "type": "MLS – as-is",
+  "note": "3/2 on three lots (0.5 ac), sold as-is; can be packaged with 1903 and 1911 Shady Ln. Estimates $26k–$60k. Repair guess $20k.",
+  "foundDate": "2026-10-30",
+  "spread": -11939,
+  "status": "Active"
+ },
+ {
+  "address": "1157 W Holly St, Coal Township, PA 17866",
+  "url": "https://usdaproperties.com/property/pa/17866/4432594912/",
+  "price": 27000,
+  "value": 63488,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1,
+  "sqft": 1264,
+  "type": "MLS – as-is shell",
+  "note": "Two-story shell: total rehab, no utilities, sold as-is. Repair guess $30k.",
+  "foundDate": "2026-10-30",
+  "spread": -12558,
+  "status": "Active"
+ },
+ {
+  "address": "314 Madison St, Roanoke Rapids, NC 27870",
+  "url": "https://usdaproperties.com/property/nc/27870/5949845596/",
+  "price": 42000,
+  "value": 70351,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 2,
+  "baths": null,
+  "sqft": 714,
+  "type": "MLS – as-is, tenant-occupied",
+  "note": "1915 mill-style 2-bed with a 10-year tenant paying $500/mo who wants to stay. Sold as-is, no repairs. Estimates very spread ($43k–$116k). Repair guess $20k.",
+  "foundDate": "2026-10-30",
+  "spread": -12754,
+  "status": "Active"
+ },
+ {
+  "address": "705 Minerva St, East Liverpool, OH 43920",
+  "url": "https://usdaproperties.com/property/oh/43920/3560273702/",
+  "price": 29900,
+  "value": 51080,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 1120,
+  "type": "MLS – as-is",
+  "note": "One-floor 2/1 aimed at investors/flippers; needs repairs, sold as-is. Estimates $38k–$75k. Repair guess $20k.",
+  "foundDate": "2026-10-30",
+  "spread": -14144,
+  "status": "Active"
+ },
+ {
+  "address": "559 Hacadam Rd, Sauquoit, NY 13456",
+  "url": "https://usdaproperties.com/property/ny/13456/4313299755/",
+  "price": 39900,
+  "value": 69849,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 1,
+  "baths": 1,
+  "sqft": 720,
+  "type": "MLS – mobile home, as-is",
+  "note": "Mobile home in poor condition (used only for storage) with 2-car detached garage on 0.69 ac. Sold as-is. Repair guess $25k.",
+  "foundDate": "2026-10-30",
+  "spread": -16006,
+  "status": "Active"
+ },
+ {
+  "address": "118 Brown St, Reynoldsville, PA 15851",
+  "url": "https://usdaproperties.com/property/pa/15851/4063643373/",
+  "price": 64900,
+  "value": 91013,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1,
+  "sqft": 682,
+  "type": "MLS – needs TLC",
+  "note": "Two-story 3/1 with well-kept exterior; needs updating and TLC. Repair guess $15k.",
+  "foundDate": "2026-10-30",
+  "spread": -16191,
+  "status": "Active"
+ },
+ {
+  "address": "2410 N Shore Dr, Linesville, PA 16424",
+  "url": "https://usdaproperties.com/property/pa/16424/3978998019/",
+  "price": 39900,
+  "value": 62250,
+  "valueSource": "Avg of Cotality, Collateral Analytics (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 980,
+  "type": "MLS – estate, mobile home",
+  "note": "Estate sale: 2/1 mobile home on two parcels backing onto Pymatuning State Park. Sold as-is. Repair guess $20k.",
+  "foundDate": "2026-10-30",
+  "spread": -16325,
+  "status": "Active"
+ },
+ {
+  "address": "344 Mansur St, Chillicothe, MO 64601",
+  "url": "https://usdaproperties.com/property/mo/64601/7182142358/",
+  "price": 34900,
+  "value": 68052,
+  "valueSource": "Avg of Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": null,
+  "type": "MLS – handyman special",
+  "note": "Handyman special 2/1 ready for renovation. Estimates disagree a lot ($37k vs $99k). Repair guess $30k.",
+  "foundDate": "2026-10-30",
+  "spread": -17264,
+  "status": "Active"
+ },
+ {
+  "address": "1343 New St, Franklin, PA 16323",
+  "url": "https://usdaproperties.com/property/pa/16323/4066142393/",
+  "price": 30000,
+  "value": 60938,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 880,
+  "type": "MLS – fixer-upper",
+  "note": "1900s 2-story 2-bed fixer-upper. Estimates $32k–$90k. Repair guess $30k.",
+  "foundDate": "2026-10-30",
+  "spread": -17343,
+  "status": "Active"
+ },
+ {
+  "address": "5896 S U Rd W, North Judson, IN 46366",
+  "url": "https://usdaproperties.com/property/in/46366/4365779158/",
+  "price": 69999,
+  "value": 116081,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 896,
+  "type": "MLS – as-is, motivated seller",
+  "note": "Renovation started with walls opened up; 2 beds, working bath. Sold as-is, motivated seller (shed extra $4k). Repair guess $30k.",
+  "foundDate": "2026-10-30",
+  "spread": -18742,
+  "status": "Active"
+ },
+ {
+  "address": "1723 Pulaski Ave, Coal Township, PA 17866",
+  "url": "https://usdaproperties.com/property/pa/17866/4634762651/",
+  "price": 59900,
+  "value": 79558,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 4,
+  "baths": 1,
+  "sqft": 1172,
+  "type": "MLS – as-is",
+  "note": "4-bed single with 2-car garage; roof, electric and water heater updated in the last 10 years; needs cosmetics. Sold as-is, pre-approval needed to offer. Repair guess $15k.",
+  "foundDate": "2026-10-30",
+  "spread": -19209,
+  "status": "Active"
+ },
+ {
+  "address": "1646 E Wood St, Decatur, IL 62521",
+  "url": "https://usdaproperties.com/property/il/62521/8525296497/",
+  "price": 22500,
+  "value": 32345,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 1050,
+  "type": "MLS – as-is",
+  "note": "2/1 plus bonus room, pitched to investors; sold as-is. Estimates very spread ($13k–$44k). Repair guess $20k.",
+  "foundDate": "2026-10-30",
+  "spread": -19858,
+  "status": "Active"
+ },
+ {
+  "address": "229 W Ninth St, East Liverpool, OH 43920",
+  "url": "https://usdaproperties.com/property/oh/43920/3598904483/",
+  "price": 24900,
+  "value": 49919,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1736,
+  "type": "MLS – rehab",
+  "note": "4/2 needing full restoration; newer furnace and water heater. Estimates $31k–$77k. Repair guess $30k.",
+  "foundDate": "2026-10-30",
+  "spread": -19957,
+  "status": "Active"
  }
 ]
