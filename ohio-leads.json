@@ -2,7 +2,7 @@
  {
   "address": "8480 Dixie Hwy, Ira Township, MI 48023",
   "url": "https://usdaproperties.com/property/mi/48023/3881999235/",
-  "price": 109900,
+  "price": 124900,
   "value": 255501,
   "valueSource": "Avg of AVMs (usdaproperties.com)",
   "beds": 3,
@@ -10,7 +10,7 @@
   "sqft": 1236,
   "type": "MLS \u2013 Single Family",
   "note": "Macomb Co., across from Anchor Bay. Needs cosmetic updates; roof 2013, newer gutters and windows. A bit over $120k. Repair guess $15k.",
-  "spread": 53951,
+  "spread": 38951,
   "status": "Active",
   "foundDate": "2026-10-23",
   "metro": "Detroit"
@@ -658,7 +658,7 @@
  {
   "address": "382 Ohio Ave, Midland, PA 15059",
   "url": "https://usdaproperties.com/property/pa/15059/4219511649/",
-  "price": 29900,
+  "price": 34900,
   "value": 61810,
   "valueSource": "Avg of AVMs (usdaproperties.com)",
   "beds": 2,
@@ -666,7 +666,7 @@
   "sqft": null,
   "type": "MLS \u2013 Multi Family",
   "note": "Sold as-is. Cosmetic and finish work left, porch repairs. Repair guess $15k.",
-  "spread": -1633,
+  "spread": -6633,
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Pittsburgh"
@@ -754,7 +754,7 @@
  {
   "address": "202 Clark St, Saltsburg, PA 15681",
   "url": "https://usdaproperties.com/property/pa/15681/4938841186/",
-  "price": 64900,
+  "price": 60000,
   "value": 109529,
   "valueSource": "Avg of AVMs (usdaproperties.com)",
   "beds": 3,
@@ -762,7 +762,7 @@
   "sqft": 1466,
   "type": "MLS \u2013 Single Family",
   "note": "Sold as-is. Repair guess $20k.",
-  "spread": -8230,
+  "spread": -3330,
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Pittsburgh"
@@ -786,7 +786,7 @@
  {
   "address": "118 Kenric Ave, Donora, PA 15033",
   "url": "https://usdaproperties.com/property/pa/15033/4311998228/",
-  "price": 36000,
+  "price": 30000,
   "value": 60842,
   "valueSource": "Avg of AVMs (usdaproperties.com)",
   "beds": 3,
@@ -794,7 +794,7 @@
   "sqft": 1744,
   "type": "MLS \u2013 Single Family",
   "note": "Tenant occupied, fair condition, needs cosmetic updates. Repair guess $15k.",
-  "spread": -8411,
+  "spread": -2411,
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Pittsburgh"
@@ -2114,7 +2114,7 @@
  {
   "address": "701 Chicora Rd, Chicora, PA 16025",
   "url": "https://usdaproperties.com/property/pa/16025/4661102457/",
-  "price": 99500,
+  "price": 110000,
   "value": 130738,
   "valueSource": "Avg of AVMs (usdaproperties.com)",
   "beds": 2,
@@ -2122,7 +2122,7 @@
   "sqft": null,
   "type": "MLS \u2013 Single Family",
   "note": "Pitched to contractors and rehab loans. 1.28 ac. Repair guess $25k.",
-  "spread": -32983,
+  "spread": -43483,
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Pittsburgh"
@@ -2226,7 +2226,7 @@
  {
   "address": "26305 Storms Rd, West Mansfield, OH 43358",
   "url": "https://usdaproperties.com/property/oh/43358/4045921142/",
-  "price": 109000,
+  "price": 119900,
   "value": 141801,
   "valueSource": "Avg of AVMs (usdaproperties.com)",
   "beds": 3,
@@ -2234,7 +2234,7 @@
   "sqft": 1148,
   "type": "MLS \u2013 Mobile",
   "note": "Mobile home on 1.15 ac. Investor special, needs significant repairs. The estimate may include land. Repair guess $35k.",
-  "spread": -44739,
+  "spread": -55639,
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Columbus"
@@ -2923,7 +2923,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "Investor/renovation opportunity on just under 1 acre (listing pitches flip or land). Repair guess $30k.",
   "spread": 3448,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-30",
   "metro": "Pittsburgh"
  },
@@ -2955,7 +2955,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "Sold as-is, no warranties; proof of funds required, offers via website (bank-style sale). Price reduced. Repair guess $20k.",
   "spread": -2160,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-30",
   "metro": "Youngstown"
  },
@@ -2971,7 +2971,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "Listing says great opportunity for investor/flipper; property will need repairs. Repair guess $15k.",
   "spread": -9144,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-30",
   "metro": "Youngstown"
  },
@@ -3003,7 +3003,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "Sold as-is; requires full renovation to pass occupancy inspection. Repair guess $30k.",
   "spread": -23668,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-30",
   "metro": "Pittsburgh"
  },
@@ -3019,7 +3019,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "Price reduced twice ($112k \u2192 $102k \u2192 $89k). AVMs disagree ($109k\u2013$225k). Repair guess $15k.",
   "spread": 25109,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-30",
   "metro": "Pittsburgh"
  },
@@ -3051,7 +3051,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "1820 craftsman home in historic village, priced well under AVMs; older house likely needs updates. Repair guess $20k.",
   "spread": 7918,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-30",
   "metro": "Pittsburgh"
  },
@@ -3067,7 +3067,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "Price reduced; ranch \"awaiting your vision.\" AVMs disagree ($127k\u2013$222k). Repair guess $20k.",
   "spread": -6242,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-30",
   "metro": "Erie"
  },
@@ -3085,6 +3085,38 @@
   "spread": -1969,
   "status": "Active",
   "foundDate": "2026-10-30",
+  "metro": "Pittsburgh"
+ },
+ {
+  "address": "30 S Starr Ave, Pittsburgh, PA 15202",
+  "url": "https://usdaproperties.com/property/pa/15202/4992638442/",
+  "price": 84000,
+  "value": 183150,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 2,
+  "baths": 2.0,
+  "sqft": null,
+  "type": "MLS \u2013 Multi Family",
+  "note": "Up-and-down duplex (two large 1-bed units) pitched as a \"sweat equity special\": paint, lighting, flooring and light carpentry. Price cut from $99k. Repair guess $25k.",
+  "spread": 19205,
+  "status": "Active",
+  "foundDate": "2026-10-31",
+  "metro": "Pittsburgh"
+ },
+ {
+  "address": "22 Virginia Ave, Charleroi, PA 15022",
+  "url": "https://usdaproperties.com/property/pa/15022/3812615675/",
+  "price": 35000,
+  "value": 80900,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1.0,
+  "sqft": 1384,
+  "type": "MLS \u2013 Single Family",
+  "note": "Listing pitches it to investors/renovators; 2-bed with oversized detached garage. Price cut from $60k to $35k. AVMs disagree ($60k\u2013$109k). Repair guess $15k.",
+  "spread": 6630,
+  "status": "Active",
+  "foundDate": "2026-10-31",
   "metro": "Pittsburgh"
  }
 ]
