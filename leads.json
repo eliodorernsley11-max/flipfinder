@@ -3568,5 +3568,35 @@
   "spread": 10425,
   "status": "Active",
   "foundDate": "2026-10-31"
+ },
+ {
+  "address": "28 Davey St, Buffalo, NY 14206",
+  "url": "https://usdaproperties.com/property/ny/14206/3146673467/",
+  "price": 55000,
+  "value": 131941,
+  "valueSource": "Avg of Quantarium, Collateral Analytics, Cotality (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1,
+  "sqft": 1076,
+  "type": "MLS \u2013 fixer-upper",
+  "note": "1915 3/1 listed as a fixer upper; updated bath, newer electrical, garage, low taxes. Estimates range $108k\u2013$149k. Repair guess $30k.",
+  "spread": 7359,
+  "status": "Active",
+  "foundDate": "2026-10-31"
+ },
+ {
+  "address": "303 Hone Ave, Oil City, PA 16301",
+  "url": "https://usdaproperties.com/property/pa/16301/4279713510/",
+  "price": 45000,
+  "value": 74107,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1,
+  "sqft": 1640,
+  "type": "MLS \u2013 as-is",
+  "note": "1897 Victorian 3/1 with bonus third-floor rooms, sold as-is where-is with no repairs. Estimates range $64k\u2013$89k. Repair guess $20k; thin spread.",
+  "spread": -13125,
+  "status": "Active",
+  "foundDate": "2026-10-31"
  }
 ]
