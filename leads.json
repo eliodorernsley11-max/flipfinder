@@ -3521,7 +3521,7 @@
   "type": "MLS \u2013 townhome, cash as-is",
   "note": "Fixer-upper, cash as-is sale. Only one estimate ($153k, range $124k\u2013$182k, dated June 2026), so verify comps. Repair guess $30k.",
   "spread": 27100,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-31"
  },
  {
@@ -3536,7 +3536,7 @@
   "type": "MLS \u2013 as-is",
   "note": "Sold as-is; listing agent has an interest in the property. Estimates about $120k. Repair guess $20k.",
   "spread": 14729,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-31"
  },
  {
@@ -3551,7 +3551,7 @@
   "type": "MLS \u2013 strictly as-is",
   "note": "Bungalow pitched to investors, sold strictly as-is with no seller repairs. Shared driveway, detached garage. Estimates $103k\u2013$116k. Repair guess $20k.",
   "spread": 11775,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-31"
  },
  {
@@ -3566,7 +3566,7 @@
   "type": "MLS \u2013 needs TLC",
   "note": "4/2 ranch on a large lot, listing says it needs a lot of TLC. Estimates very spread ($131k\u2013$181k). Repair guess $15k.",
   "spread": 10425,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-31"
  },
  {
@@ -3581,7 +3581,7 @@
   "type": "MLS \u2013 fixer-upper",
   "note": "1915 3/1 listed as a fixer upper; updated bath, newer electrical, garage, low taxes. Estimates range $108k\u2013$149k. Repair guess $30k.",
   "spread": 7359,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-31"
  },
  {
@@ -3611,7 +3611,7 @@
   "type": "MLS \u2013 as-is, owner financing",
   "note": "Site-built 1989 home on a 0.37-ac double lot in gated Callender Lake community; remarks say 2 bed (data says 1). Needs siding, roof work, cosmetics; front foundation bows. Sold strictly as-is, owner financing offered. Estimates $181k\u2013$204k. Repair guess $30k.",
   "spread": 43740,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-31"
  },
  {
@@ -3641,7 +3641,7 @@
   "type": "MLS \u2013 as-is",
   "note": "Vacant 1912 1.5-story with full basement on oversized corner lot, sold strictly as-is where-is; listing claims comps support $130k\u2013$145k ARV. Estimates $70k\u2013$111k. Repair guess $20k.",
   "spread": 28057,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-31"
  },
  {
@@ -3671,7 +3671,7 @@
   "type": "MLS \u2013 as-is investor",
   "note": "3/1 plus separate studio apartment in Driscoll Village, sold as-is, pitched to investors. Only one estimate ($93k, range $74k\u2013$113k). Repair guess $20k.",
   "spread": 10240,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-31"
  },
  {
@@ -3716,7 +3716,7 @@
   "type": "MLS \u2013 mobile home, as-is",
   "note": "Singlewide with added room, fenced yard, detached garage; needs some work, sold as-is. Only one estimate ($124k, range $87k\u2013$161k). Repair guess $20k.",
   "spread": 6830,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-31"
  },
  {
@@ -3761,7 +3761,7 @@
   "type": "MLS \u2013 investor special, as-is",
   "note": "Investor special needing a complete renovation; new plumbing rough-in done and drywall/cabinets/materials convey. Estimates very spread ($95k\u2013$224k). Repair guess $40k.",
   "spread": -246,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-31"
  },
  {
@@ -3836,7 +3836,7 @@
   "type": "MLS \u2013 as-is",
   "note": "1895 3/1 needing a new roof, sold as-is with no seller repairs. Estimates $60k\u2013$85k. Repair guess $30k; thin spread.",
   "spread": -6736,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-31"
  },
  {
@@ -3851,7 +3851,7 @@
   "type": "MLS \u2013 as-is investor",
   "note": "Corner-lot residence needing substantial rehab, sold strictly as-is. Estimates about $64k\u2013$65k. Repair guess $40k; thin spread.",
   "spread": -9816,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-31"
  },
  {
@@ -3868,5 +3868,110 @@
   "spread": -9876,
   "status": "Active",
   "foundDate": "2026-10-31"
+ },
+ {
+  "address": "118 N Ray Quincy Rd, Quincy, MI 49082",
+  "url": "https://usdaproperties.com/property/mi/49082/4167556045/",
+  "price": 57200,
+  "value": 226287,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1836,
+  "type": "MLS \u2013 bank-owned (REO), cash only",
+  "note": "2001 manufactured home (3/2, 1,836 sqft) listed 10/30/26 as REO; occupied \u2013 no access or showings, do not disturb occupant. 'As is' cash-only sale, no contingencies or inspections; buyer must obtain possession. Estimates $178k\u2013$312k (wide; mobile home, so verify comps). Repair guess $20k plus eviction risk.",
+  "spread": 81201,
+  "status": "Active",
+  "foundDate": "2026-11-01"
+ },
+ {
+  "address": "383 W 8 Mile Rd, White Cloud, MI 49349",
+  "url": "https://usdaproperties.com/property/mi/49349/3823427811/",
+  "price": 79900,
+  "value": 153910,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": null,
+  "type": "MLS \u2013 as-is, needs completion",
+  "note": "Unfinished project on 1.88 ac off M-37 (mixed use): 2 bd house w/ attached garage (1,140 sqft total) plus a 768 sqft spray-foamed second building; buyer finishes. Estimates $137k\u2013$184k. Repair guess $30k; thin spread.",
+  "spread": -2163,
+  "status": "Active",
+  "foundDate": "2026-11-01"
+ },
+ {
+  "address": "815 Portland Ter, Saint Louis, MO 63147",
+  "url": "https://usdaproperties.com/property/mo/63147/8889609881/",
+  "price": 40000,
+  "value": 78994,
+  "valueSource": "Avg of Collateral Analytics, Quantarium, Cotality (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 936,
+  "type": "MLS \u2013 as-is, tenant-occupied",
+  "note": "'Attention Investors' brick 2/1 with tenant in place paying $1k/mo; sold as-is, seller makes no repairs; no showings until accepted contract. Estimates about $78k\u2013$80k. Repair guess $20k; thin spread but cash-flowing.",
+  "spread": -4704,
+  "status": "Active",
+  "foundDate": "2026-11-01"
+ },
+ {
+  "address": "2023 Centre St, Ashland, PA 17921",
+  "url": "https://usdaproperties.com/property/pa/17921/3342111079/",
+  "price": 69000,
+  "value": 110257,
+  "valueSource": "Avg of Quantarium, Cotality, Collateral Analytics (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1,
+  "sqft": 1408,
+  "type": "MLS \u2013 needs TLC",
+  "note": "1890 3/1 single with off-street parking; 'fully functional, just needs a little TLC'. Estimates $79k\u2013$126k (wide). Repair guess $15k; thin spread.",
+  "spread": -6820,
+  "status": "Active",
+  "foundDate": "2026-11-01"
+ },
+ {
+  "address": "811 Turley Ave, Flatwoods, KY 41139",
+  "url": "https://usdaproperties.com/property/ky/41139/3272669924/",
+  "price": 69500,
+  "value": 142541,
+  "valueSource": "Avg of Collateral Analytics, Cotality, Quantarium (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1,
+  "sqft": 1005,
+  "type": "MLS \u2013 investor special, needs rehab",
+  "note": "One-level 3/1 on a 1.1-ac wooded lot in need of significant repairs, pitched to investors/contractors/flippers. Estimates $117k\u2013$190k (wide). Repair guess $40k; thin spread.",
+  "spread": -9721,
+  "status": "Active",
+  "foundDate": "2026-11-01"
+ },
+ {
+  "address": "1709 Congo St, Jackson, MS 39203",
+  "url": "https://usdaproperties.com/property/ms/39203/8780540508/",
+  "price": 17000,
+  "value": 46309,
+  "valueSource": "Avg of Cotality, Collateral Analytics, Quantarium (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1,
+  "sqft": 984,
+  "type": "MLS \u2013 fixer-upper",
+  "note": "1972 3/1 fixer-upper listed 10/19/26, pitched to investors/flippers. Estimates $45k\u2013$48k. Repair guess $30k; thin spread \u2013 only works at a deep discount.",
+  "spread": -14584,
+  "status": "Active",
+  "foundDate": "2026-11-01"
+ },
+ {
+  "address": "362 River Bend Rd SW, Plainville, GA 30733",
+  "url": "https://usdaproperties.com/property/ga/30733/6324813463/",
+  "price": 59900,
+  "value": 78350,
+  "valueSource": "Avg of Collateral Analytics, Cotality (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 1096,
+  "type": "MLS \u2013 as-is, fix-and-flip",
+  "note": "1940s 2/1 farmhouse plus 22x54 detached shop on ~0.5 ac; 'diamond in the rough' investment opportunity, priced below Aug 2026 appraisal for a quick as-is sale. Estimates $78k\u2013$79k. Repair guess $15k; thin spread.",
+  "spread": -20055,
+  "status": "Active",
+  "foundDate": "2026-11-01"
  }
 ]
