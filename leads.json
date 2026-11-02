@@ -3881,7 +3881,7 @@
   "type": "MLS \u2013 bank-owned (REO), cash only",
   "note": "2001 manufactured home (3/2, 1,836 sqft) listed 10/30/26 as REO; occupied \u2013 no access or showings, do not disturb occupant. 'As is' cash-only sale, no contingencies or inspections; buyer must obtain possession. Estimates $178k\u2013$312k (wide; mobile home, so verify comps). Repair guess $20k plus eviction risk.",
   "spread": 81201,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -3896,7 +3896,7 @@
   "type": "MLS \u2013 as-is, needs completion",
   "note": "Unfinished project on 1.88 ac off M-37 (mixed use): 2 bd house w/ attached garage (1,140 sqft total) plus a 768 sqft spray-foamed second building; buyer finishes. Estimates $137k\u2013$184k. Repair guess $30k; thin spread.",
   "spread": -2163,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -3941,7 +3941,7 @@
   "type": "MLS \u2013 investor special, needs rehab",
   "note": "One-level 3/1 on a 1.1-ac wooded lot in need of significant repairs, pitched to investors/contractors/flippers. Estimates $117k\u2013$190k (wide). Repair guess $40k; thin spread.",
   "spread": -9721,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -3956,7 +3956,7 @@
   "type": "MLS \u2013 fixer-upper",
   "note": "1972 3/1 fixer-upper listed 10/19/26, pitched to investors/flippers. Estimates $45k\u2013$48k. Repair guess $30k; thin spread \u2013 only works at a deep discount.",
   "spread": -14584,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -4046,7 +4046,7 @@
   "type": "MLS \u2013 needs repairs",
   "note": "3/1 needing some repairs; newer roof and furnace, oversized garage. Estimates $46k\u2013$111k (very wide). Repair guess $20k; verify value with comps.",
   "spread": 2460,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -4061,7 +4061,7 @@
   "type": "MLS \u2013 as-is, unfinished renovation",
   "note": "1907 4/2, renovation and finish work remain, sold as-is; seller represented by attorney-in-fact (estate-style). Estimates $103k\u2013$131k. Repair guess $35k; thin spread.",
   "spread": 986,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -4121,7 +4121,7 @@
   "type": "MLS \u2013 condemned, as-is, cash or reno loan only",
   "note": "Vandalized/stripped and in condemned status; sold as-is, cash or renovation financing only. Estimates $137k\u2013$151k. Repair guess $55k; negative at list.",
   "spread": -7982,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -4196,7 +4196,7 @@
   "type": "MLS \u2013 as-is, cash offers only",
   "note": "2/1 ranch with full basement, sold as-is, CASH OFFERS ONLY. Estimates $156k\u2013$186k. Repair guess $20k.",
   "spread": 27293,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -4211,7 +4211,7 @@
   "type": "MLS \u2013 needs TLC",
   "note": "6/1 with metal roof, garage and shed; needs TLC. Estimates ~$126k (2 sources). Repair guess $15k.",
   "spread": 23273,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -4256,7 +4256,7 @@
   "type": "MLS \u2013 duplex, diamond in the rough",
   "note": "Two-unit property; left unit needs renovation and roof repair at rear. Estimates very wide ($77k\u2013$208k), so spread is shaky. Repair guess $15k.",
   "spread": 17628,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -4271,7 +4271,7 @@
   "type": "MLS \u2013 investor opportunity, as-is",
   "note": "3-bed needing repairs and updating, pitched to investors; sold as-is. Estimates $94k\u2013$134k. Repair guess $20k.",
   "spread": 16166,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -4286,7 +4286,7 @@
   "type": "MLS \u2013 two mobile homes, as-is",
   "note": "Two mobile homes on separate lots (3/2 and 2/1), both need TLC; sold as-is. Estimates very wide ($23k\u2013$97k). Repair guess $15k.",
   "spread": 12087,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -4346,7 +4346,7 @@
   "type": "MLS \u2013 needs updates/TLC",
   "note": "3/1 with garage; needs updates and TLC. Estimates $155k\u2013$176k. Repair guess $30k.",
   "spread": 10044,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -4376,7 +4376,7 @@
   "type": "MLS \u2013 handyman special, as-is",
   "note": "Handyman special mobile, known well problem (no water); sold as-is. Estimates $91k\u2013$132k. Repair guess $30k.",
   "spread": 6176,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -4406,7 +4406,7 @@
   "type": "MLS \u2013 as-is",
   "note": "5-bed brick, 3,130 sqft, near riverfront; sold as-is. Estimates $93k\u2013$118k. Repair guess $20k.",
   "spread": 3985,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -4421,7 +4421,7 @@
   "type": "MLS \u2013 motivated seller",
   "note": "Very motivated seller, 2/1 needs TLC, previously rented $500/mo. Estimates $51k\u2013$60k. Repair guess $15k.",
   "spread": 3871,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -4451,7 +4451,7 @@
   "type": "MLS \u2013 as-is, cash only",
   "note": "4/1.5, 2,838 sqft, needs renovation; sold as-is, cash only. Estimates $103k\u2013$105k. Repair guess $30k.",
   "spread": 2784,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -4481,7 +4481,7 @@
   "type": "MLS \u2013 foreclosure mobile, as-is",
   "note": "Foreclosure mobile home on ~1 acre needing facelift; sold as-is where-is. Estimates $104k\u2013$183k; thin margin. Repair guess $20k.",
   "spread": 387,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01"
  },
  {
@@ -4527,6 +4527,111 @@
   "note": "1937 home needing considerable work; HVAC, plumbing and sewer condition unknown. Sold as-is, cash or hard money preferred, seller very motivated. Estimates $35.5k\u2013$91k (2 sources, wide range). Repair guess $20k; thin margin.",
   "foundDate": "2026-11-02",
   "spread": -11525,
+  "status": "Active"
+ },
+ {
+  "address": "3302 Columbus Ave, Anderson, IN 46013",
+  "url": "https://usdaproperties.com/property/in/46013/4330017763/",
+  "price": 50000,
+  "value": 137345,
+  "valueSource": "Avg of Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 1,
+  "baths": 2,
+  "sqft": 2456,
+  "type": "MLS \u2013 fixer-upper",
+  "note": "1939 house on commercial/residential-zoned lot needing a full cosmetic refresh; price cut from $59k to $50k, on market since 2024. Estimates $136k\u2013$138.7k (2 sources). Repair guess $30k (2,456 sqft).",
+  "foundDate": "2026-11-02",
+  "spread": 16142,
+  "status": "Active"
+ },
+ {
+  "address": "400 Cliff St, Johnstown, PA 15902",
+  "url": "https://usdaproperties.com/property/pa/15902/3483749509/",
+  "price": 20000,
+  "value": 45505,
+  "valueSource": "Avg of Collateral Analytics, Quantarium, Cotality (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 1020,
+  "type": "MLS \u2013 fixer-upper, as-is",
+  "note": "1925 fixer upper sold as-is, utilities off; relisted at $20k (was $30k). Estimates $31k\u2013$55.5k (avg $45.5k). Repair guess $15k (1,020 sqft).",
+  "foundDate": "2026-11-02",
+  "spread": -3147,
+  "status": "Active"
+ },
+ {
+  "address": "660 Benshoff Hill Rd, Johnstown, PA 15906",
+  "url": "https://usdaproperties.com/property/pa/15906/9118882873/",
+  "price": 38500,
+  "value": 67020,
+  "valueSource": "Avg of Cotality, Quantarium (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1,
+  "sqft": 820,
+  "type": "MLS \u2013 investor special",
+  "note": "Investor special: half-acre with three residences across two buildings (SFH + duplex), newer roof 2024, recent sewer work. Estimates $39k\u2013$94.7k (2 sources, wide range). Repair guess $15k.",
+  "foundDate": "2026-11-02",
+  "spread": -6586,
+  "status": "Active"
+ },
+ {
+  "address": "11 Lance Dr, Charleston, WV 25311",
+  "url": "https://usdaproperties.com/property/wv/25311/3411158939/",
+  "price": 52900,
+  "value": 86595,
+  "valueSource": "Avg of Cotality, Collateral Analytics, Quantarium (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 928,
+  "type": "MLS \u2013 as-is, needs TLC",
+  "note": "1948 home sold as-is, needs TLC; metal roof <5 yrs, whole-home generator. Estimates $52.6k\u2013$154k; avg inflated by one $154k outlier (other two ~$53k), so spread is optimistic. Repair guess $15k.",
+  "foundDate": "2026-11-02",
+  "spread": -7284,
+  "status": "Active"
+ },
+ {
+  "address": "318 Hamden Ct, South Bend, IN 46601",
+  "url": "https://usdaproperties.com/property/in/46601/4573915744/",
+  "price": 49000,
+  "value": 83646,
+  "valueSource": "Avg of Cotality, Collateral Analytics, Quantarium (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 960,
+  "type": "MLS \u2013 cash only, investor",
+  "note": "Cleaned out and ready for rehab, pitched to investors/flippers; seller accepts cash-only offers, quick close. Reduced from $55k. Estimates $54k\u2013$116k (avg $83.6k). Repair guess $20k.",
+  "foundDate": "2026-11-02",
+  "spread": -10448,
+  "status": "Active"
+ },
+ {
+  "address": "14337 Dacosta St, Detroit, MI 48223",
+  "url": "https://usdaproperties.com/property/mi/48223/4439589356/",
+  "price": 22000,
+  "value": 43800,
+  "valueSource": "Avg of Cotality, Quantarium (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 754,
+  "type": "MLS \u2013 as-is, cash only",
+  "note": "Sold as-is, cash only, serious cash buyers only; no repairs or warranties. Estimates $28.2k\u2013$59.4k (2 sources, wide range). Repair guess $20k.",
+  "foundDate": "2026-11-02",
+  "spread": -11340,
+  "status": "Active"
+ },
+ {
+  "address": "937 W 3rd St, Erie, PA 16507",
+  "url": "https://usdaproperties.com/property/pa/16507/4198446976/",
+  "price": 69900,
+  "value": 110500,
+  "valueSource": "Avg of Collateral Analytics, Cotality (usdaproperties.com)",
+  "beds": 5,
+  "baths": null,
+  "sqft": 1752,
+  "type": "MLS \u2013 duplex, cash only",
+  "note": "2-unit needing interior; windows, roof, plumbing, electric and most siding already updated. Cash or renovation loans only. Estimates $67k\u2013$154k (2 sources, very wide). Repair guess $20k.",
+  "foundDate": "2026-11-02",
+  "spread": -12550,
   "status": "Active"
  }
 ]
