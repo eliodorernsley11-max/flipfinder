@@ -1,5 +1,85 @@
 [
  {
+  "address": "24 Glad St, Daisytown, PA 15427",
+  "url": "https://usdaproperties.com/property/pa/15427/4088584501/",
+  "price": 62000,
+  "value": 125133,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 6,
+  "baths": 2.0,
+  "sqft": 2128,
+  "type": "MLS \u2013 Single Family",
+  "note": "Spacious 6-bedroom home with main-floor living option and a large fenced yard; condition not detailed, so walk it before offering. Repair guess $15k.",
+  "spread": 10593,
+  "status": "Active",
+  "foundDate": "2026-11-02",
+  "metro": "Pittsburgh"
+ },
+ {
+  "address": "19170 Greeley St, Highland Park, MI 48203",
+  "url": "https://usdaproperties.com/property/mi/48203/3503064733/",
+  "price": 18500,
+  "value": 37864,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1.0,
+  "sqft": 935,
+  "type": "MLS \u2013 Single Family",
+  "note": "Price reduced; sold as-is, cash only, no repairs or warranties from the seller, serious cash buyers only. Repair guess $15k.",
+  "spread": -6995,
+  "status": "Active",
+  "foundDate": "2026-11-02",
+  "metro": "Detroit"
+ },
+ {
+  "address": "103 Moreland St, Aliquippa, PA 15001",
+  "url": "https://usdaproperties.com/property/pa/15001/3039521622/",
+  "price": 39900,
+  "value": 73516,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 1793,
+  "type": "MLS \u2013 Single Family",
+  "note": "New listing pitched to investors, flippers and handy buyers; 3 bed/1 bath that needs renovation. Repair guess $20k.",
+  "spread": -8439,
+  "status": "Active",
+  "foundDate": "2026-11-02",
+  "metro": "Pittsburgh"
+ },
+ {
+  "address": "8110 Melrose Ave, Cleveland, OH 44103",
+  "url": "https://usdaproperties.com/property/oh/44103/3061169344/",
+  "price": 65000,
+  "value": 101332,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 5,
+  "baths": 1.0,
+  "sqft": 1938,
+  "type": "MLS \u2013 Single Family",
+  "note": "Vacant 5 bed that needs a new furnace and hot water tank plus cosmetic updates. Repair guess $15k.",
+  "spread": -9068,
+  "status": "Active",
+  "foundDate": "2026-11-02",
+  "metro": "Cleveland"
+ },
+ {
+  "address": "641 Thompson Ave, Clairton, PA 15025",
+  "url": "https://usdaproperties.com/property/pa/15025/3229267940/",
+  "price": 29000,
+  "value": 53536,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 1064,
+  "type": "MLS \u2013 Single Family",
+  "note": "Foreclosure sold strictly as-is, where-is; needs considerable work and HVAC, plumbing and sewer condition is unknown. Cash or hard money preferred. Repair guess $20k.",
+  "spread": -11525,
+  "status": "Active",
+  "foundDate": "2026-11-02",
+  "metro": "Pittsburgh"
+ },
+ {
   "address": "412 Aten Ave, Wellsville, OH 43968",
   "url": "https://usdaproperties.com/property/oh/43968/4015649518/",
   "price": 45000,
@@ -11,7 +91,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "New listing, 3 bed/2 bath, pitched to investors as having plenty of potential and ready for your touch. Repair guess $20k.",
   "spread": 10806,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01",
   "metro": "Youngstown"
  },
@@ -27,14 +107,14 @@
   "type": "MLS \u2013 Single Family",
   "note": "Built 1907, 4 bed/2 bath in Stark County, sold as-is with renovation and finish work still to do; seller works through an attorney in fact. Repair guess $30k.",
   "spread": 5986,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01",
   "metro": "Akron"
  },
  {
   "address": "1134 Race St, McKees Rocks, PA 15136",
   "url": "https://usdaproperties.com/property/pa/15136/3197655842/",
-  "price": 40000,
+  "price": 45000,
   "value": 71543,
   "valueSource": "Avg of AVMs (usdaproperties.com)",
   "beds": 2,
@@ -42,7 +122,7 @@
   "sqft": 924,
   "type": "MLS \u2013 Townhomes",
   "note": "Rehabbed 2-bed rowhouse with new roof, windows, flooring and paint; good rental candidate. Repair guess $5k.",
-  "spread": 5080,
+  "spread": 80,
   "status": "Active",
   "foundDate": "2026-11-01",
   "metro": "Pittsburgh"
@@ -50,7 +130,7 @@
  {
   "address": "906 Broadway Ave, McKees Rocks, PA 15136",
   "url": "https://usdaproperties.com/property/pa/15136/3450177115/",
-  "price": 67500,
+  "price": 135000,
   "value": 109643,
   "valueSource": "Avg of AVMs (usdaproperties.com)",
   "beds": 3,
@@ -58,7 +138,7 @@
   "sqft": 1332,
   "type": "MLS \u2013 Townhomes",
   "note": "Full-brick row home with new HVAC, roof resurfaced 2026; tenant occupied, showings only after contract. Repair guess $5k.",
-  "spread": 4250,
+  "spread": -63250,
   "status": "Active",
   "foundDate": "2026-11-01",
   "metro": "Pittsburgh"
@@ -75,7 +155,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "1950 brick and frame home with full unfinished basement and garage, marketed for a rental portfolio or update. Repair guess $10k.",
   "spread": 2378,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01",
   "metro": "Cincinnati"
  },
@@ -91,7 +171,7 @@
   "type": "MLS \u2013 Townhomes",
   "note": "Price-reduced end-unit townhouse; listing notes freeze damage to the basement plumbing, otherwise updated. Repair guess $8k.",
   "spread": 1774,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01",
   "metro": "Pittsburgh"
  },
@@ -107,7 +187,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "New listing, 3 bed with enclosed porches, basement and detached garage; needs TLC. Repair guess $15k.",
   "spread": -6760,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01",
   "metro": "Youngstown"
  },
@@ -130,7 +210,7 @@
  {
   "address": "737 Tecumseh St, Toledo, OH 43604",
   "url": "https://usdaproperties.com/property/oh/43604/3216746401/",
-  "price": 35000,
+  "price": 84900,
   "value": 81452,
   "valueSource": "Avg of AVMs (usdaproperties.com)",
   "beds": 4,
@@ -138,7 +218,7 @@
   "sqft": 1586,
   "type": "MLS \u2013 Single Family",
   "note": "Built 2002; seller lists AC, furnace and water heater about two years old. Tenant occupied at $1,200/mo, asking well under the estimates. Repair guess $10k.",
-  "spread": 12016,
+  "spread": -37884,
   "status": "Active",
   "foundDate": "2026-11-01",
   "metro": "Toledo"
@@ -155,7 +235,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "Vacant Fostoria house with renovation already started (new roof, support beam, siding and windows); needs finishing. Repair guess $25k.",
   "spread": 9003,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01",
   "metro": "Toledo"
  },
@@ -171,7 +251,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "Probate listing, price reduced; needs repairs but roof and furnace are newer. Estimates disagree a lot ($46k to $111k), so verify comps. Repair guess $20k.",
   "spread": 2460,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01",
   "metro": "Toledo"
  },
@@ -203,7 +283,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "Small Detroit house that needs updates and TLC; price reflects condition. Estimates line up ($43k to $56k). Repair guess $10k.",
   "spread": -1446,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01",
   "metro": "Detroit"
  },
@@ -219,7 +299,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "West Akron colonial pitched to investors and rehabbers; previously rented 10 years at $1,000/mo. Repair guess $20k.",
   "spread": -13876,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01",
   "metro": "Akron"
  },
@@ -235,7 +315,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "Estate property in West Akron sold as-is; extensive repairs needed, pitched to investors. Repair guess $35k.",
   "spread": -17990,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01",
   "metro": "Akron"
  },
@@ -251,7 +331,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "Cash only, sold as-is; needs a lot of TLC and rehab. Estimates vary widely ($50k to $116k), so verify comps. Repair guess $35k.",
   "spread": -20450,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-11-01",
   "metro": "Dayton"
  },
@@ -578,7 +658,7 @@
  {
   "address": "2865 NW Palomino Rd, Somerset, OH 43150",
   "url": "https://usdaproperties.com/property/oh/43150/4782299924/",
-  "price": 119000,
+  "price": 155000,
   "value": 210750,
   "valueSource": "Avg of AVMs (usdaproperties.com)",
   "beds": 3,
@@ -586,7 +666,7 @@
   "sqft": 1788,
   "type": "MLS \u2013 Single Family",
   "note": "Perry Co., about an hour from Columbus. Marketed as a blank canvas to build equity; several price cuts since August (now $119k). Big lot, metal workshop. Repair guess $20k.",
-  "spread": 8525,
+  "spread": -27475,
   "status": "Active",
   "foundDate": "2026-11-01",
   "metro": "Columbus"
@@ -603,7 +683,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "Updated kitchen and bath; comes with an extra 0.18-acre lot. Price cut from $99,900 \u2013 motivated. Only one AVM (Cotality). Repair guess $15k.",
   "spread": 7330,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-28",
   "metro": "Dayton"
  },
@@ -667,7 +747,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "Handyman special: needs flooring, kitchen, bath, minor roof flashing. AVMs vary widely ($59k-$130k). Repair guess $20k.",
   "spread": 5831,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-27",
   "metro": "WV Panhandle"
  },
@@ -2322,7 +2402,7 @@
  {
   "address": "103 Willow St, Bethesda, OH 43719",
   "url": "https://usdaproperties.com/property/oh/43719/4130707549/",
-  "price": 39900,
+  "price": 29900,
   "value": 42646,
   "valueSource": "Avg of AVMs (usdaproperties.com)",
   "beds": 2,
@@ -2330,7 +2410,7 @@
   "sqft": null,
   "type": "MLS \u2013 Single Family",
   "note": "Belmont Co., Ohio side near Wheeling. Needs some TLC, pitched to investors. Sqft not listed. Repair guess $15k.",
-  "spread": -25048,
+  "spread": -15048,
   "status": "Active",
   "foundDate": "2026-10-23",
   "metro": "WV Panhandle"
@@ -2578,7 +2658,7 @@
  {
   "address": "310 S Pleasant St, Edinburgh, IN 46124",
   "url": "https://usdaproperties.com/property/in/46124/4050234667/",
-  "price": 79500,
+  "price": 60000,
   "value": 94250,
   "valueSource": "Avg of AVMs (usdaproperties.com)",
   "beds": 2,
@@ -2586,7 +2666,7 @@
   "sqft": 1650,
   "type": "MLS \u2013 Single Family",
   "note": "Needs updates and repairs. Repair guess $20k. Asking now shows $60,000 (checked Oct 23). Price changed $79,500 \u2192 $60,000 (checked Oct 29).",
-  "spread": -33525,
+  "spread": -14025,
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Indianapolis"
@@ -2667,7 +2747,7 @@
   "type": "MLS \u2013 Single Family",
   "note": "Sold as-is, cash offers only. Repair guess $10k.",
   "spread": -41973,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-22",
   "metro": "WV Panhandle"
  },
@@ -2690,7 +2770,7 @@
  {
   "address": "222 Jamestown Rd, South Charleston, OH 45368",
   "url": "https://usdaproperties.com/property/oh/45368/3498451703/",
-  "price": 117500,
+  "price": 119900,
   "value": 143772,
   "valueSource": "Avg of AVMs (usdaproperties.com)",
   "beds": 3,
@@ -2698,7 +2778,7 @@
   "sqft": 1232,
   "type": "MLS \u2013 Single Family",
   "note": "Built 1891, sold strictly as-is. Repair guess $25k. Listing now shows asking $119,900 (history also lists a $117,500 change on Oct 19; confirm with agent). Price cut to $117,500.",
-  "spread": -41860,
+  "spread": -44260,
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Dayton"
@@ -2770,7 +2850,7 @@
  {
   "address": "5841 N Sugar St, Uniondale, IN 46791",
   "url": "https://usdaproperties.com/property/in/46791/4039225438/",
-  "price": 101900,
+  "price": 104900,
   "value": 106850,
   "valueSource": "Avg of AVMs (usdaproperties.com)",
   "beds": 4,
@@ -2778,7 +2858,7 @@
   "sqft": 2476,
   "type": "MLS \u2013 Single Family",
   "note": "Back on the market, needs updates. Cash or conventional only. Repair guess $20k. Price changed from $104,900 to $101,900 (checked Nov 1).",
-  "spread": -47105,
+  "spread": -50105,
   "status": "Active",
   "foundDate": "2026-10-22",
   "metro": "Fort Wayne"
