@@ -4483,5 +4483,20 @@
   "spread": 387,
   "status": "Active",
   "foundDate": "2026-11-01"
+ },
+ {
+  "address": "909 Winchester Dr, Birmingham, AL 35235",
+  "url": "https://usdaproperties.com/property/al/35235/8899833957/",
+  "price": 80000,
+  "value": 166248,
+  "valueSource": "Avg of Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1182,
+  "type": "MLS – investor opportunity, as-is",
+  "note": "1970 split-level with 2-car garage, sold as-is; seller disclosed AMG and asbestos. Estimates $147k–$174k (2 sources). Repair guess $25k given asbestos.",
+  "foundDate": "2026-11-01",
+  "spread": 11374,
+  "status": "Active"
  }
 ]
