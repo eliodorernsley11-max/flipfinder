@@ -1392,7 +1392,7 @@
   "note": "Cash sale only, seller makes no repairs. Needs TLC: interior paint, cracked tile, broken windows. Granite counters, stainless appliances, storage shed. Built 1920. Repair guess $20k.",
   "foundDate": "2026-10-23",
   "spread": 9955,
-  "status": "Active"
+  "status": "Gone \u2013 off market"
  },
  {
   "address": "9445 Ravenswood St, Detroit, MI 48204",
@@ -4632,6 +4632,81 @@
   "note": "2-unit needing interior; windows, roof, plumbing, electric and most siding already updated. Cash or renovation loans only. Estimates $67k\u2013$154k (2 sources, very wide). Repair guess $20k.",
   "foundDate": "2026-11-02",
   "spread": -12550,
+  "status": "Active"
+ },
+ {
+  "address": "10065 Stimson Dr, Saint Louis, MO 63137",
+  "url": "https://usdaproperties.com/property/mo/63137/8017919592/",
+  "price": 25000,
+  "value": 72984,
+  "valueSource": "Avg of Collateral Analytics, Quantarium (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 1105,
+  "type": "MLS \u2013 investor/renovation",
+  "note": "1949 house pitched to investors to renovate or rent; price cut from $30k to $25k. Estimates $72k\u2013$74k (2 sources). Repair guess $15k (1,105 sqft).",
+  "foundDate": "2026-11-02",
+  "spread": 11089,
+  "status": "Active"
+ },
+ {
+  "address": "2236 Highland Ave, Wheeling, WV 26003",
+  "url": "https://usdaproperties.com/property/wv/26003/3732316832/",
+  "price": 20000,
+  "value": 55100,
+  "valueSource": "Cotality (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 840,
+  "type": "MLS \u2013 as-is, investor",
+  "note": "1916 former rental sold as-is, pitched as a value-add project; updated panel and furnace. Relisted at $20k (was $25k). Single estimate $55.1k. Repair guess $15k (840 sqft).",
+  "foundDate": "2026-11-02",
+  "spread": 3570,
+  "status": "Active"
+ },
+ {
+  "address": "320 N Forbes St, Jackson, MI 49202",
+  "url": "https://usdaproperties.com/property/mi/49202/3882606862/",
+  "price": 28900,
+  "value": 82000,
+  "valueSource": "Collateral Analytics (usdaproperties.com)",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 2280,
+  "type": "MLS \u2013 gutted, as-is",
+  "note": "1920 house already cleaned out and gutted; seller is moving on and selling as-is. Single estimate $82k (range $56.6k\u2013$107.4k). Repair guess $25k (2,280 sqft), likely low for a gut rehab.",
+  "foundDate": "2026-11-02",
+  "spread": 3500,
+  "status": "Active"
+ },
+ {
+  "address": "1031 Chestney St, Macon, GA 31217",
+  "url": "https://usdaproperties.com/property/ga/31217/6164991361/",
+  "price": 14900,
+  "value": 44505,
+  "valueSource": "Quantarium (usdaproperties.com)",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 876,
+  "type": "MLS \u2013 investor special, as-is",
+  "note": "Investor special needing full renovation, former duplex zoned R-2. Strictly as-is, cash buyers only, seller requires an in-person visit before offers. Also sold as a 3-house package (1031, 1039, 1043 Chestney) for $44.9k. Repair guess $15k.",
+  "foundDate": "2026-11-02",
+  "spread": 1253,
+  "status": "Active"
+ },
+ {
+  "address": "643 Knower St, Toledo, OH 43609",
+  "url": "https://usdaproperties.com/property/oh/43609/3095073099/",
+  "price": 24900,
+  "value": 57128,
+  "valueSource": "Avg of Collateral Analytics, Quantarium, Cotality (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 1011,
+  "type": "MLS \u2013 needs TLC, tenant-occupied",
+  "note": "Needs TLC; long-term tenant pays $480/mo. No showings without an accepted offer. Estimates $55.5k\u2013$59.9k. Repair guess $15k.",
+  "foundDate": "2026-11-02",
+  "spread": 90,
   "status": "Active"
  }
 ]
