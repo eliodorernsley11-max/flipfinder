@@ -11,7 +11,7 @@
   "type": "MLS \u2013 mobile home on 1.44 ac",
   "note": "As-is, cash offers only. Estimate likely includes land; may overstate a mobile home.",
   "spread": 36910,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-20"
  },
  {
@@ -56,7 +56,7 @@
   "type": "MLS",
   "note": "Reduced to $28k on Oct 5. Cash only, contents convey.",
   "spread": -966,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-20"
  },
  {
@@ -236,7 +236,7 @@
   "type": "MLS \u2013 estate sale",
   "note": "Estate sale, as-is, cash or rehab financing, no repairs. Almost half an acre. 48 hrs for offer review.",
   "spread": 17284,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-21"
  },
  {
@@ -266,7 +266,7 @@
   "type": "MLS",
   "note": "Needs renovation, cash only. Deep well, paved road.",
   "spread": -11805,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-21"
  },
  {
@@ -356,7 +356,7 @@
   "type": "MLS",
   "note": "Fixer-upper, as-is, cash only.",
   "spread": -20039,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-21"
  },
  {
@@ -386,7 +386,7 @@
   "type": "MLS",
   "note": "Investor special, reduced. Needs full rewire, roof and repairs. Cash only, no owner financing.",
   "spread": -24318,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-21"
  },
  {
@@ -416,7 +416,7 @@
   "type": "MLS \u2013 mobile home + tiny home on 1.2 ac",
   "note": "Price reduced. Structures sold as-is, cash only. Estimate likely leans on the land.",
   "spread": -11820,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-21"
  },
  {
@@ -431,7 +431,7 @@
   "type": "MLS \u2013 estate sale",
   "note": "Estate, sold as-is, cash only. Gas leak disclosed in attachments.",
   "spread": -14098,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-21"
  },
  {
@@ -461,7 +461,7 @@
   "type": "MLS \u2013 estate/probate",
   "note": "Estate sale, cash only, subject to probate court approval. Newer roof and electric. No split closings.",
   "spread": -27652,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-21"
  },
  {
@@ -476,7 +476,7 @@
   "type": "MLS \u2013 assignment of contract",
   "note": "Listing says 'Investor / wholesale opportunity, cash buyers only, assignment of contract.' Needs roof and boiler. Reduced from $85k. No value estimate shown.",
   "spread": null,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-21"
  },
  {
@@ -491,7 +491,7 @@
   "type": "MLS \u2013 bank-owned manufactured home",
   "note": "Bank-owned, sold as-is, cash or renovation buyers. Currently not livable. 0.45 ac. Estimate may overstate a manufactured home.",
   "spread": 15580,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-21"
  },
  {
@@ -536,7 +536,7 @@
   "type": "MLS",
   "note": "Reduced from $29k. Unfinished remodel, sold as-is. Cash preferred, financed offers considered. Seller assisted by Attorney in Fact.",
   "spread": 10891,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-21"
  },
  {
@@ -581,7 +581,7 @@
   "type": "MLS \u2013 singlewide on 2.5 ac",
   "note": "Cash sale only. Fixer interior, metal roof, pond, cabin, garage. Reduced from $84.9k. Estimate likely leans on the land.",
   "spread": 5777,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-21"
  },
  {
@@ -596,7 +596,7 @@
   "type": "MLS",
   "note": "Investor special, sold as-is, needs significant updates/full rehab. Reduced from $62k.",
   "spread": 1777,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-21"
  },
  {
@@ -626,7 +626,7 @@
   "type": "MLS \u2013 foreclosure",
   "note": "Foreclosure 'priced to sell', needs TLC. Built 1905. Reduced from $39.9k.",
   "spread": 4705,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-22"
  },
  {
@@ -671,7 +671,7 @@
   "type": "MLS",
   "note": "Flip/rental project with work started: bathroom gutted, kitchen cabinets in, dimensional roof, new side door.",
   "spread": -2126,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-22"
  },
  {
@@ -686,7 +686,7 @@
   "type": "MLS",
   "note": "Sold as-is. Listing warns of health/safety risks; hold-harmless agreement required to enter. Built 1941. Single estimate likely high for condition.",
   "spread": -2300,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-22"
  },
  {
@@ -701,7 +701,7 @@
   "type": "MLS",
   "note": "Investor special, cash or hard money only, sold as-is. Roof and siding replaced 2023; interior needs work. On City of Dayton nuisance list. (Listing text says 1 bath.)",
   "spread": -11356,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-22"
  },
  {
@@ -716,7 +716,7 @@
   "type": "MLS \u2013 440 sqft studio house",
   "note": "Fixer-upper studio on a semi-private lot, built 1930. Very small house; estimates likely lean on the lot.",
   "spread": 6709,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-22"
  },
  {
@@ -761,7 +761,7 @@
   "type": "MLS",
   "note": "Sold as-is, no repairs, no mechanicals included. Listing text says just under 800 sqft (data says 1,518).",
   "spread": 2608,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-22"
  },
  {
@@ -806,7 +806,7 @@
   "type": "MLS",
   "note": "Listed as \"Investor special.\" No condition details given. AVMs split $50k\u2013$84k.",
   "spread": -2537,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-22"
  },
  {
@@ -836,7 +836,7 @@
   "type": "MLS",
   "note": "Sold as-is, needs renovation; marketed to investors. Built 1925.",
   "spread": -8078,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-22"
  },
  {
@@ -851,7 +851,7 @@
   "type": "MLS",
   "note": "Sold as-is with a history of fire damage. One AVM is much lower ($25k) than the other two (~$74k).",
   "spread": -9656,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-22"
  },
  {
@@ -896,7 +896,7 @@
   "type": "MLS",
   "note": "Listed as a project house (\"have your crew bring this home back\"). Built 1916. AVMs split $51k\u2013$107k.",
   "spread": -12963,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-22"
  },
  {
@@ -941,7 +941,7 @@
   "type": "MLS \u2013 duplex",
   "note": "\"Total rehab\" duplex, needs everything; marketed to investors/flippers.",
   "spread": -18550,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-22"
  },
  {
@@ -971,7 +971,7 @@
   "type": "MLS",
   "note": "Very large (4,295 sqft) fixer-upper sold as-is. Built 1953. Caution: sold for $28k in Jul 2026 and relisted at $80k (likely a flipper/wholesaler resale), and the only estimate is very wide, so verify comps.",
   "spread": 40201,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-22"
  },
  {
@@ -1001,7 +1001,7 @@
   "type": "MLS \u2013 mobile home",
   "note": "2009 mobile home that needs some repairs and updates; marketed to investors/handymen. Only one estimate, and it may overstate a mobile home, so check comps.",
   "spread": 22690,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-22"
  },
  {
@@ -1016,7 +1016,7 @@
   "type": "MLS \u2013 two-unit",
   "note": "Fire/smoke damage in the main house (rear 1-bed apartment undamaged). Sold strictly as-is, no repairs or credits; proof of funds required. Built 1907. Only one estimate.",
   "spread": 920,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-22"
  },
  {
@@ -1061,7 +1061,7 @@
   "type": "MLS",
   "note": "Needs TLC. 3bd/1ba upstairs + 2bd/1ba lower level with separate stairs. Built 1960. Reduced from $38.5k.",
   "spread": -10600,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-22"
  },
  {
@@ -1076,7 +1076,7 @@
   "type": "MLS",
   "note": "Sold as-is. Built 1910. No condition details given. Reduced from $75k.",
   "spread": -9860,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-22"
  },
  {
@@ -1091,7 +1091,7 @@
   "type": "MLS",
   "note": "Investor special for rehabbers/cash buyers; needs major renovations. Sold as-is. Built 1917.",
   "spread": -9930,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-22"
  },
  {
@@ -1106,7 +1106,7 @@
   "type": "MLS \u2013 rowhome",
   "note": "Investor special / fixer-upper, needs complete renovation. Strictly as-is, cash-only sale, no city cert; buyer clears any violations. Built 1940.",
   "spread": 7717,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-22"
  },
  {
@@ -1166,7 +1166,7 @@
   "type": "MLS",
   "note": "Listed as an investor special (flip or fix-and-rent). No condition details. Only one estimate shown, so check comps. Built 1975.",
   "spread": -5500,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-22"
  },
  {
@@ -1181,7 +1181,7 @@
   "type": "MLS \u2013 rowhome",
   "note": "Marketed to investors, sold as-is; buyer handles all certifications. Seller never occupied. One AVM is much lower ($59k) than the other two (~$150k).",
   "spread": -10387,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-22"
  },
  {
@@ -1211,7 +1211,7 @@
   "type": "MLS",
   "note": "Needs some repairs and updates, marketed to investors. Large corner lot, extra living space upstairs. Built 1948. AVMs tight. Repair guess $20k.",
   "spread": 140,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-23"
  },
  {
@@ -1286,7 +1286,7 @@
   "type": "MLS \u2013 mixed-use (store + apartments)",
   "note": "Brick building, former convenience store with a 3-bed and a 1-bed apartment. Had a fire: damage mostly in the basement and 1-bed unit, smoke damage elsewhere. Built 1900. Only one estimate, and a mixed-use building is hard to value, so check comps. Repair guess $40k.",
   "spread": 28291,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-23"
  },
  {
@@ -1331,7 +1331,7 @@
   "type": "MLS",
   "note": "Historic 1897 home on 0.55 ac near downtown, needs revitalizing. Sold as-is; buyer takes on some city code violations. Only one estimate. Repair guess $25k.",
   "spread": 6790,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-23"
  },
  {
@@ -1376,7 +1376,7 @@
   "type": "MLS",
   "note": "Investor special, already demoed down to the studs. Newer roof and siding, some updated windows, 2-car attached garage. Built 1952. Repair guess $40k.",
   "spread": -2266,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-23"
  },
  {
@@ -1512,7 +1512,7 @@
   "note": "Sold As Is: 4-bed with 2-car garage, full basement and hardwood floors. Carpet already pulled. Built 1916. Repair guess $25k.",
   "foundDate": "2026-10-23",
   "spread": -795,
-  "status": "Active"
+  "status": "Gone \u2013 closed/sold"
  },
  {
   "address": "687 Fairview St, Camden, NJ 08104",
@@ -1602,7 +1602,7 @@
   "note": "End-unit brick townhome, fully gutted and framed with electric done; sold as is. Listing claims a $250k ARV. Price cut from $84.9k. Built 1920. Repair guess $40k.",
   "foundDate": "2026-10-23",
   "spread": -3772,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "2423 Vance Ave, Wheeling, WV 26003",
@@ -1632,7 +1632,7 @@
   "note": "6-unit, 5,010 sqft remodel left unfinished; sold as is, cash preferred. Price cut 4 times from $119.9k. Estimates probably undervalue a 6-unit. Built 1900. Repair guess $50k.",
   "foundDate": "2026-10-23",
   "spread": -29533,
-  "status": "Active"
+  "status": "Gone \u2013 off market"
  },
  {
   "address": "33 Patton Ave, Dayton, OH 45417",
@@ -1677,7 +1677,7 @@
   "note": "Priced for a quick sale; needs finishing work. Deep wooded lot with a creek, walkout basement. Three estimates range $105k\u2013$180k. Built 1905. Repair guess $30k.",
   "foundDate": "2026-10-26",
   "spread": -4027,
-  "status": "Active"
+  "status": "Gone \u2013 closed/sold"
  },
  {
   "address": "201 37th Ave W, Birmingham, AL 35207",
@@ -1692,7 +1692,7 @@
   "note": "Estate sale, sold as-is, needs repairs and updates. Utilities off, no yard sign. Built 1953. Repair guess $20k.",
   "foundDate": "2026-10-26",
   "spread": -5547,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "521 N East Ave, Baltimore, MD 21205",
@@ -1707,7 +1707,7 @@
   "note": "Brick rowhome pitched to investors and rehabbers. Built 1924. Repair guess $30k.",
   "foundDate": "2026-10-26",
   "spread": -7975,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "528 N Bouldin St, Baltimore, MD 21205",
@@ -1722,7 +1722,7 @@
   "note": "Brick end-of-group rowhome pitched to investors and renovators. Built 1924. Repair guess $30k.",
   "foundDate": "2026-10-26",
   "spread": -8045,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "1556 Bryson St, Youngstown, OH 44505",
@@ -1737,7 +1737,7 @@
   "note": "Pitched to investors and rehabbers who will update it. Estimates disagree ($40k vs $88k), so check comps. Built 1920. Repair guess $25k.",
   "foundDate": "2026-10-26",
   "spread": -10129,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "1119 W Nevada St, Philadelphia, PA 19133",
@@ -1797,7 +1797,7 @@
   "note": "Extensive repairs needed, sold as-is, pitched to investors and contractors. One value estimate. Built 1912. Repair guess $40k.",
   "foundDate": "2026-10-26",
   "spread": -18790,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "4774 Cupples Pl, Saint Louis, MO 63113",
@@ -1887,7 +1887,7 @@
   "note": "Investor special, sold AS IS, WHERE IS. 0.45-acre lot zoned R-MX1 (multifamily). Needs TLC. Repair guess $25k.",
   "foundDate": "2026-10-27",
   "spread": -1320,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "213 Barron Ave, Johnstown, PA 15906",
@@ -1902,7 +1902,7 @@
   "note": "Pitched to investors and handymen; heated through winter. Buyer handles any municipal inspections/certs. Repair guess $20k.",
   "foundDate": "2026-10-27",
   "spread": -3458,
-  "status": "Active"
+  "status": "Gone \u2013 closed/sold"
  },
  {
   "address": "1601 N Euclid Ave, Saint Louis, MO 63113",
@@ -1932,7 +1932,7 @@
   "note": "Sold as-is. No working heating system; new 200-amp service still needs hookup. Near Conemaugh Hospital. Repair guess $25k.",
   "foundDate": "2026-10-27",
   "spread": -12549,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "1707 N Warman Ave, Indianapolis, IN 46222",
@@ -1947,7 +1947,7 @@
   "note": "Attention investors; sold as-is where-is. Pitched as rental or flip. Full unfinished basement. Repair guess $15k.",
   "foundDate": "2026-10-27",
   "spread": -7561,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "861 Covert Ave, Evansville, IN 47713",
@@ -1962,7 +1962,7 @@
   "note": "Pitched to investors as a project; sold as-is. AVMs spread wide ($45k\u2013$82k). Repair guess $25k.",
   "foundDate": "2026-10-27",
   "spread": -8338,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "7401 4th Ave, Birmingham, AL 35206",
@@ -2007,7 +2007,7 @@
   "note": "Cash-only, AS-IS, quick close. Light rehab per listing; 3-car detached garage. Price cut from $84,900. AVMs spread wide, so verify comps. Repair guess $15k.",
   "foundDate": "2026-10-27",
   "spread": 305,
-  "status": "Active"
+  "status": "Gone \u2013 off market"
  },
  {
   "address": "117 Smith Ave, Lansing, MI 48910",
@@ -2037,7 +2037,7 @@
   "note": "Handyman special that needs TLC; 2\u20133 bed with a newer roof, near Loomis Park and the hospital. Built 1900. Only one estimate, so check comps. Repair guess $25k.",
   "foundDate": "2026-10-27",
   "spread": 12280,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "2721 Medora St, Lake Charles, LA 70615",
@@ -2082,7 +2082,7 @@
   "note": "Pitched as a fix-and-flip project, sold as-is where-is, on a spacious lot. Built 1935. Repair guess $25k. Listing now shows $40k (was $28k).",
   "foundDate": "2026-10-27",
   "spread": -8398,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "3000 S Arch St, Little Rock, AR 72206",
@@ -2112,7 +2112,7 @@
   "note": "HUD-owned, sold as-is, built 1920, 2-car detached garage. HUD sales usually give owner-occupants first priority and HUD contracts generally can't be assigned, so confirm with the listing agent before pursuing. Repair guess $20k.",
   "foundDate": "2026-10-27",
   "spread": 10397,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "819 Mulberry St, Hammond, IN 46324",
@@ -2127,7 +2127,7 @@
   "note": "Listing calls out investors and flippers; home is cleaned out and ready for rehab. Built 1917. Value estimates vary widely, so check comps. Repair guess $30k.",
   "foundDate": "2026-10-27",
   "spread": 4102,
-  "status": "Active"
+  "status": "Gone \u2013 closed/sold"
  },
  {
   "address": "710 2nd St, Evansdale, IA 50707",
@@ -2202,7 +2202,7 @@
   "note": "Small 1942 ranch, post-foreclosure (sold at sheriff sale June 2026). Listing says it \"needs updates and repairs to make move-in ready.\" Listed by an REO services firm and may use online-auction offer terms. Repair guess $20k.",
   "foundDate": "2026-10-28",
   "spread": 12253,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "902 Emory Ct, Fayetteville, NC 28311",
@@ -2217,7 +2217,7 @@
   "note": "Investor special 1976 brick ranch that \"needs work inside and out.\" Sold strictly as-is, utilities off. Court-ordered sale with an upset-bid process and a 5% deposit to the Clerk of Court, so confirm assignment is allowed. Repair guess $35k.",
   "foundDate": "2026-10-28",
   "spread": 8152,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "7027 Upland St, Philadelphia, PA 19142",
@@ -2247,7 +2247,7 @@
   "note": "1970 brick ranch on 0.62 ac near SC State University. Listing says it needs \"a little TLC\" and is \"priced to sell, property being sold AS-IS.\" Listed 8/22/26. Repair guess $20k.",
   "foundDate": "2026-10-28",
   "spread": 36976,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "235 Dupuis St, Bridge City, TX 77611",
@@ -2366,7 +2366,7 @@
   "type": "MLS \u2013 cash only, as-is",
   "note": "Cash only, sold as-is. Needs paint, some flooring, cabinets, bath updates and wall/ceiling repair. Raised on piers; check flood zone and insurability. Listed 10/8/26. Repair guess $15k.",
   "spread": -15952,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-28"
  },
  {
@@ -2381,7 +2381,7 @@
   "type": "MLS \u2013 as-is investor",
   "note": "Needs significant work, sold as-is and won't qualify for government-backed loans, so cash buyers fit. Estimates disagree a lot. Listed 10/1/26. Repair guess $35k.",
   "spread": -24147,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-28"
  },
  {
@@ -2456,7 +2456,7 @@
   "type": "MLS \u2013 as-is investor",
   "note": "Ranch sold as-is, pitched to investors and flippers for renovation; sun room with gas fireplace, big yard. Estimates ~$96k\u2013$102k. Listed 7/15/26. Repair guess $20k.",
   "spread": 847,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-29"
  },
  {
@@ -2561,7 +2561,7 @@
   "type": "MLS \u2013 fixer-upper",
   "note": "Downtown 4/2 fixer-upper, 2,600+ sq ft, pitched as a sweat-equity renovation. Estimates disagree a lot ($91k vs $265k), so verify comps. Repair guess $30k. Listing page showed asking $89,000 on Oct 30 (was recorded at $65,000).",
   "spread": -15576,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-29"
  },
  {
@@ -2696,7 +2696,7 @@
   "type": "MLS \u2013 cash-only duplex",
   "note": "Price reduced. Two 1/1 units (624 sq ft each) sold together, cash offers only, strictly as-is. Needs roof and flooring; listing says do not enter (safety). No value estimate shown. Repair guess $15k.",
   "spread": null,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-29"
  },
  {
@@ -2771,7 +2771,7 @@
   "type": "MLS \u2013 needs TLC",
   "note": "Needs TLC, pitched to investors. Main stack already replaced; outbuilding could become an apartment or workshop. Estimates disagree ($21k vs $45k). Repair guess $10k.",
   "spread": -6964,
-  "status": "Active",
+  "status": "Gone \u2013 off market",
   "foundDate": "2026-10-29"
  },
  {
@@ -2846,7 +2846,7 @@
   "type": "MLS \u2013 fixer-upper",
   "note": "Foreclosure-tagged, needs work, pitched to flippers and investors. Built 1975. Repair guess $15k.",
   "spread": -16914,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-29"
  },
  {
@@ -2892,7 +2892,7 @@
   "note": "2/1 mobile home on a private wooded acre; needs TLC and updating. Only one estimate (Cotality) and it likely includes land. Repair guess $25k.",
   "foundDate": "2026-10-30",
   "spread": 100,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "788 County Road 3456, Clarksville, AR 72830",
@@ -2982,7 +2982,7 @@
   "note": "Two-story shell: total rehab, no utilities, sold as-is. Repair guess $30k.",
   "foundDate": "2026-10-30",
   "spread": -12558,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "314 Madison St, Roanoke Rapids, NC 27870",
@@ -3027,7 +3027,7 @@
   "note": "Mobile home in poor condition (used only for storage) with 2-car detached garage on 0.69 ac. Sold as-is. Repair guess $25k.",
   "foundDate": "2026-10-30",
   "spread": -16006,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "118 Brown St, Reynoldsville, PA 15851",
@@ -3072,7 +3072,7 @@
   "note": "Handyman special 2/1 ready for renovation. Estimates disagree a lot ($37k vs $99k). Repair guess $30k.",
   "foundDate": "2026-10-30",
   "spread": -17264,
-  "status": "Active"
+  "status": "Gone \u2013 off market"
  },
  {
   "address": "1343 New St, Franklin, PA 16323",
@@ -3117,7 +3117,7 @@
   "note": "4-bed single with 2-car garage; roof, electric and water heater updated in the last 10 years; needs cosmetics. Sold as-is, pre-approval needed to offer. Repair guess $15k.",
   "foundDate": "2026-10-30",
   "spread": -19209,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "1646 E Wood St, Decatur, IL 62521",
@@ -3282,7 +3282,7 @@
   "note": "Bungalow with detached garage pitched to investors and flippers. Estimates $46k\u2013$94k. Repair guess $20k.",
   "foundDate": "2026-10-30",
   "spread": -11469,
-  "status": "Active"
+  "status": "Gone \u2013 under contract"
  },
  {
   "address": "9621 Petoskey Ave, Detroit, MI 48204",
@@ -3312,7 +3312,7 @@
   "note": "Investor's special fixer-upper. Estimates tight ($84k\u2013$93k). Repair guess $25k.",
   "foundDate": "2026-10-30",
   "spread": -13186,
-  "status": "Active"
+  "status": "Gone \u2013 closed/sold"
  },
  {
   "address": "406 S Jackson St, Youngstown, OH 44506",
@@ -3327,7 +3327,7 @@
   "note": "Classic two-story needing renovation; price cut to $32k in July. Estimates very spread ($32k\u2013$93k). Repair guess $25k.",
   "foundDate": "2026-10-30",
   "spread": -14854,
-  "status": "Active"
+  "status": "Gone \u2013 closed/sold"
  },
  {
   "address": "1665 Jonesboro Rd, Arcadia, LA 71001",
@@ -3626,7 +3626,7 @@
   "type": "MLS \u2013 handyman special",
   "note": "Handyman special pitched as a flip; roof (unpermitted) and HVAC from 2011. Estimates very spread ($88k\u2013$253k), so verify comps. Repair guess $20k.",
   "spread": 42385,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-31"
  },
  {
@@ -3776,7 +3776,7 @@
   "type": "MLS \u2013 as-is fixer-upper",
   "note": "3/1.5 on corner double lot, ready for full rehab, sold as-is; storm shelter, carport, sheds. Only one estimate ($128k, range $101k\u2013$156k, dated May 2026). Repair guess $30k.",
   "spread": -3090,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-10-31"
  },
  {
@@ -3821,7 +3821,7 @@
   "type": "MLS \u2013 as-is",
   "note": "3/2 with garage on oversized corner lot; needs flooring, paint, appliances. Sold as-is; buyers must view in person and use seller addendum. Estimates very spread ($40k\u2013$88k). Repair guess $20k.",
   "spread": -5275,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-10-31"
  },
  {
@@ -3926,7 +3926,7 @@
   "type": "MLS \u2013 needs TLC",
   "note": "1890 3/1 single with off-street parking; 'fully functional, just needs a little TLC'. Estimates $79k\u2013$126k (wide). Repair guess $15k; thin spread.",
   "spread": -6820,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-11-01"
  },
  {
@@ -3971,7 +3971,7 @@
   "type": "MLS \u2013 as-is, fix-and-flip",
   "note": "1940s 2/1 farmhouse plus 22x54 detached shop on ~0.5 ac; 'diamond in the rough' investment opportunity, priced below Aug 2026 appraisal for a quick as-is sale. Estimates $78k\u2013$79k. Repair guess $15k; thin spread.",
   "spread": -20055,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-11-01"
  },
  {
@@ -4016,7 +4016,7 @@
   "type": "MLS \u2013 fixer-upper, as-is",
   "note": "Corner-lot 3/1 sold as-is, needs repairs and updates; ~10-yr-old roof; pitched to investors/contractors. Single estimate (Cotality) $108.7k. Repair guess $30k.",
   "spread": 6190,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-11-01"
  },
  {
@@ -4076,7 +4076,7 @@
   "type": "MLS \u2013 needs work throughout",
   "note": "Needs work throughout, priced to reflect it; brand-new roof, detached garage. Estimates $102k\u2013$134k. Repair guess $30k; thin spread.",
   "spread": -2796,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-11-01"
  },
  {
@@ -4106,7 +4106,7 @@
   "type": "MLS \u2013 investor special, as-is",
   "note": "Needs TLC, sold as-is, pitched to investors/flippers; corner lot, detached garage. Estimates $98k\u2013$139k. Repair guess $15k; thin spread.",
   "spread": -3466,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-11-01"
  },
  {
@@ -4151,7 +4151,7 @@
   "type": "MLS \u2013 priced for flip",
   "note": "Agent says lowest-priced in zip with flip margin; not auction/foreclosure/short sale; condition not described. Single estimate (Cotality) $109.4k. Repair guess $35k; negative at list.",
   "spread": -8320,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-11-01"
  },
  {
@@ -4181,7 +4181,7 @@
   "type": "MLS \u2013 as-is, live in or flip",
   "note": "4/1 two-story on .58 ac, sold as-is; garage roof needs immediate attention. Estimates $232k\u2013$241k (2 sources). Priced far below estimates, so verify comps before relying on spread. Repair guess $20k.",
   "spread": 70615,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-11-01"
  },
  {
@@ -4316,7 +4316,7 @@
   "type": "MLS \u2013 needs updates/TLC",
   "note": "4-bed with barn; could use updates and TLC. Estimates $91k\u2013$141k (2 sources). Repair guess $15k.",
   "spread": 11173,
-  "status": "Active",
+  "status": "Gone \u2013 under contract",
   "foundDate": "2026-11-01"
  },
  {
@@ -4466,7 +4466,7 @@
   "type": "MLS \u2013 fixer-upper, as-is",
   "note": "True fixer-upper, flooring removed to subfloor, pre-listing inspection available. Estimates $146k\u2013$156k. Repair guess $30k; thin margin.",
   "spread": 777,
-  "status": "Active",
+  "status": "Gone \u2013 closed/sold",
   "foundDate": "2026-11-01"
  },
  {
@@ -4572,7 +4572,7 @@
   "note": "Investor special: half-acre with three residences across two buildings (SFH + duplex), newer roof 2024, recent sewer work. Estimates $39k\u2013$94.7k (2 sources, wide range). Repair guess $15k.",
   "foundDate": "2026-11-02",
   "spread": -6586,
-  "status": "Active"
+  "status": "Gone \u2013 closed/sold"
  },
  {
   "address": "11 Lance Dr, Charleston, WV 25311",
@@ -4617,7 +4617,7 @@
   "note": "Sold as-is, cash only, serious cash buyers only; no repairs or warranties. Estimates $28.2k\u2013$59.4k (2 sources, wide range). Repair guess $20k.",
   "foundDate": "2026-11-02",
   "spread": -11340,
-  "status": "Active"
+  "status": "Gone \u2013 closed/sold"
  },
  {
   "address": "937 W 3rd St, Erie, PA 16507",
@@ -4647,7 +4647,7 @@
   "note": "1949 house pitched to investors to renovate or rent; price cut from $30k to $25k. Estimates $72k\u2013$74k (2 sources). Repair guess $15k (1,105 sqft).",
   "foundDate": "2026-11-02",
   "spread": 11089,
-  "status": "Active"
+  "status": "Gone \u2013 off market"
  },
  {
   "address": "2236 Highland Ave, Wheeling, WV 26003",
@@ -4752,7 +4752,7 @@
   "note": "Former Section 8 rental ($1,500/mo); selling as-is, cash or commercial loans only; 'minimal work' to rent-ready, updated electrical. Single estimate $126.8k (range $103.4k\u2013$150.1k). Repair guess $5k.",
   "foundDate": "2026-11-03",
   "spread": 3860,
-  "status": "Active"
+  "status": "Gone \u2013 off market"
  },
  {
   "address": "123 White St, Flint, MI 48505",
@@ -4812,6 +4812,126 @@
   "note": "Brick bungalow renovation project, sold as-is; seller makes no repairs or inspections. Estimates $52.2k / $26.8k / $54k. Repair guess $10k.",
   "foundDate": "2026-11-03",
   "spread": 1039,
+  "status": "Active"
+ },
+ {
+  "address": "1816 Virgin Ave, Ashland, KY 41101",
+  "url": "https://usdaproperties.com/property/ky/41101/3509417275/",
+  "price": 67500,
+  "value": 150410,
+  "valueSource": "Avg of Quantarium, Cotality, Collateral Analytics (usdaproperties.com)",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1356,
+  "type": "MLS \u2013 HUD, as-is",
+  "note": "HUD home (Case #201-742769), as-is with all faults, bid process. Estimates $148.8k / $134.4k / $168k. HUD contracts usually can't be assigned, so a double close may be needed. Repair guess $15k.",
+  "foundDate": "2026-11-03",
+  "spread": 22787,
+  "status": "Active"
+ },
+ {
+  "address": "209 W Berard St, Saint Martinville, LA 70582",
+  "url": "https://usdaproperties.com/property/la/70582/8255568878/",
+  "price": 69000,
+  "value": 137000,
+  "valueSource": "Collateral Analytics (usdaproperties.com)",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1914,
+  "type": "MLS \u2013 investor, flip/rental",
+  "note": "Marketed to investors and flippers as a renovation project; most recently a rental. Only one estimate (Collateral Analytics $137k). Repair guess $15k.",
+  "foundDate": "2026-11-03",
+  "spread": 11900,
+  "status": "Active"
+ },
+ {
+  "address": "2018 North St, Logansport, IN 46947",
+  "url": "https://usdaproperties.com/property/in/46947/3755509118/",
+  "price": 59900,
+  "value": 156310,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 4,
+  "baths": 1,
+  "sqft": 3948,
+  "type": "MLS \u2013 as-is, cash/reno financing only",
+  "note": "Victorian restoration project, not habitable (no kitchen, no bathroom), sold as-is; cash or renovation financing only. Estimates $126.9k / $218k / $124k (Quantarium high). Large home, so bigger repair guess. Repair guess $40k.",
+  "foundDate": "2026-11-03",
+  "spread": 9517,
+  "status": "Active"
+ },
+ {
+  "address": "1802 Stanford St, Alexandria, LA 71301",
+  "url": "https://usdaproperties.com/property/la/71301/9932008374/",
+  "price": 49999,
+  "value": 103079,
+  "valueSource": "Avg of Quantarium, Cotality, Collateral Analytics (usdaproperties.com)",
+  "beds": 2,
+  "baths": 2,
+  "sqft": 1500,
+  "type": "MLS \u2013 as-is, investor",
+  "note": "Investment opportunity sold as-is; needs foundation work and cosmetic updates. Estimates $99.1k / $89.1k / $121k. Repair guess $15k.",
+  "foundDate": "2026-11-03",
+  "spread": 7156,
+  "status": "Active"
+ },
+ {
+  "address": "805 W Montgomery St, Creston, IA 50801",
+  "url": "https://usdaproperties.com/property/ia/50801/8951451595/",
+  "price": 80000,
+  "value": 154795,
+  "valueSource": "Avg of Quantarium, Cotality, Collateral Analytics (usdaproperties.com)",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 2906,
+  "type": "MLS \u2013 as-is, major rehab",
+  "note": "1885 home needing significant rehab, sold as-is; plumbing not working after freeze damage and boiler not operational. Estimates $157.7k / $158.7k / $148k. Repair guess may be low. Repair guess $25k.",
+  "foundDate": "2026-11-03",
+  "spread": 3356,
+  "status": "Active"
+ },
+ {
+  "address": "966 Ferry Ave, Camden, NJ 08104",
+  "url": "https://usdaproperties.com/property/nj/08104/6459786793/",
+  "price": 60000,
+  "value": 103979,
+  "valueSource": "Avg of Cotality, Quantarium, Collateral Analytics (usdaproperties.com)",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1096,
+  "type": "MLS \u2013 as-is, investor duplex",
+  "note": "Investor alert: semi-detached twin set up as a duplex (studio + 2BD/1BA), strictly as-is; buyer handles township certifications. Estimates $110.5k / $86.4k / $115k. Repair guess $10k.",
+  "foundDate": "2026-11-03",
+  "spread": 2785,
+  "status": "Active"
+ },
+ {
+  "address": "9705 Dunlap Ave, Cleveland, OH 44105",
+  "url": "https://usdaproperties.com/property/oh/44105/3910023836/",
+  "price": 29900,
+  "value": 58484,
+  "valueSource": "Avg of Collateral Analytics, Quantarium, Cotality (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 880,
+  "type": "MLS \u2013 as-is, investor",
+  "note": "Cleveland bungalow, blank canvas for investors/renovators, sold as-is, where-is. Estimates $57k / $46.8k / $71.7k. Repair guess $10k.",
+  "foundDate": "2026-11-03",
+  "spread": 1039,
+  "status": "Active"
+ },
+ {
+  "address": "29 Clark St, Battle Creek, MI 49014",
+  "url": "https://usdaproperties.com/property/mi/49014/4014015595/",
+  "price": 26000,
+  "value": 60000,
+  "valueSource": "Collateral Analytics (usdaproperties.com)",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1365,
+  "type": "MLS \u2013 investor, needs updates",
+  "note": "Corner-lot home needing updates; agent pitches it to investors (paired with a Kalamazoo property). Only one estimate (Collateral Analytics $60k). Repair guess $15k.",
+  "foundDate": "2026-11-03",
+  "spread": 1000,
   "status": "Active"
  }
 ]
