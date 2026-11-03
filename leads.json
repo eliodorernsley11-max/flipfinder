@@ -4933,5 +4933,50 @@
   "foundDate": "2026-11-03",
   "spread": 1000,
   "status": "Active"
+ },
+ {
+  "address": "719 W Florence Ave, Blackwell, OK 74631",
+  "url": "https://usdaproperties.com/property/ok/74631/8805910819/",
+  "price": 25000,
+  "value": 55016,
+  "valueSource": "Avg of Cotality, Collateral Analytics, Quantarium (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 1068,
+  "type": "MLS \u2013 investor special, as-is",
+  "note": "1925 bungalow with detached garage; listing says it needs cleaning, updates and TLC, sold as-is. Estimates $50.2k / $65k / $49.8k. Repair guess $8k.",
+  "foundDate": "2026-11-03",
+  "spread": 5511,
+  "status": "Active"
+ },
+ {
+  "address": "222 S Hitchcock St, Hobart, OK 73651",
+  "url": "https://usdaproperties.com/property/ok/73651/8806046033/",
+  "price": 44900,
+  "value": 79321,
+  "valueSource": "Avg of Quantarium, Cotality, Collateral Analytics (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1.5,
+  "sqft": 1300,
+  "type": "MLS \u2013 investor special, as-is",
+  "note": "1920 home on 3 lots with carport, cellar and workshop; sold as-is, needs TLC. Estimates $89.6k / $74.4k / $74k. Repair guess $8k.",
+  "foundDate": "2026-11-03",
+  "spread": 2625,
+  "status": "Active"
+ },
+ {
+  "address": "50 Bland St, Welch, WV 24801",
+  "url": "https://usdaproperties.com/property/wv/24801/4634837948/",
+  "price": 36000,
+  "value": 64103,
+  "valueSource": "Avg of Quantarium, Cotality, Collateral Analytics (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1,
+  "sqft": 1210,
+  "type": "MLS \u2013 as-is, investor",
+  "note": "Sold as-is, cash or conventional only; pitched to investors. Estimates $60.6k / $53.7k / $78k. Thin margin. Repair guess $8k.",
+  "foundDate": "2026-11-03",
+  "spread": 872,
+  "status": "Active"
  }
 ]
