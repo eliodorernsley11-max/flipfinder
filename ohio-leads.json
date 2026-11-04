@@ -1,5 +1,21 @@
 [
  {
+  "address": "1341 E Fulton St, Columbus, OH 43205",
+  "url": "https://www.realtor.com/realestateandhomes-detail/1341-E-Fulton-St_Columbus_OH_43205_M33070-57035",
+  "price": 69000,
+  "value": 200116,
+  "valueSource": "realtor.com estimate (1 source)",
+  "beds": 3,
+  "baths": 3.0,
+  "sqft": 1594,
+  "type": "MLS – Single Family",
+  "note": "Bank-owned Olde Towne East house with an unfinished renovation: gutted, parts at the studs, mold present, construction inactive; sold strictly as-is, cash only. Listed today. Only one value estimate on the page. Repair guess $60k.",
+  "spread": 11081,
+  "status": "Active",
+  "foundDate": "2026-11-04",
+  "metro": "Columbus"
+ },
+ {
   "address": "1243 N Main St, Akron, OH 44310",
   "url": "https://www.realtor.com/realestateandhomes-detail/1243-N-Main-St_Akron_OH_44310_M34102-61440",
   "price": 99900,
@@ -2843,7 +2859,7 @@
   "type": "MLS – Single Family",
   "note": "Corner lot. Pitched to investors and flippers; interior is a clean slate for renovation. A bit over $120k. Repair guess $25k.",
   "spread": -15874,
-  "status": "Active",
+  "status": "Gone – off market",
   "foundDate": "2026-10-23",
   "metro": "Youngstown"
  },
