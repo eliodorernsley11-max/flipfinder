@@ -12,7 +12,7 @@
   "note": "1900 two-story on a 0.16-acre lot; listing says needs rehab. Listed 2026-08-19 at $29,900, cut to $26,900, now $19,900. Sold for $30,000 in 2019. Only one value estimate shown (range $55k–$102k), so verify comps. Repair guess $25k.",
   "foundDate": "2026-11-05",
   "spread": 10180,
-  "status": "Active"
+  "status": "Gone – off market"
  },
  {
   "address": "220 S 4th St, Cambridge City, IN 47327",
@@ -2109,10 +2109,10 @@
   "baths": 1.0,
   "sqft": 1102,
   "type": "MLS – cash only",
-  "note": "Cash-only, AS-IS, quick close. Light rehab per listing; 3-car detached garage. Price cut from $84,900. AVMs spread wide, so verify comps. Repair guess $15k.",
+  "note": "Cash-only, AS-IS, quick close. Light rehab per listing; 3-car detached garage. Price cut from $84,900. AVMs spread wide, so verify comps. Repair guess $15k. Re-checked 2026-11-09: listing page loads and shows Active again.",
   "foundDate": "2026-10-27",
   "spread": 305,
-  "status": "Gone – off market"
+  "status": "Active"
  },
  {
   "address": "117 Smith Ave, Lansing, MI 48910",
@@ -5232,6 +5232,21 @@
   "note": "1993 manufactured home on a 0.18-acre corner lot, listed 2026-10-08. Needs work; sold as-is, seller makes no repairs, all offers considered. Buyer must sign mobile home title paperwork (HHA) and handle the title. Seven-day hold before offers are reviewed. Only one value estimate shown, so verify comps. Repair guess $10k.",
   "foundDate": "2026-11-04",
   "spread": 8850,
+  "status": "Active"
+ },
+ {
+  "address": "249 Air St, Dayton, OH 45404",
+  "url": "https://usdaproperties.com/property/oh/45404/4058518957/",
+  "price": 49900,
+  "value": 69048,
+  "valueSource": "Avg of 3 AVMs, $60.7k–$79k (usdaproperties.com)",
+  "beds": 1,
+  "baths": 1.0,
+  "sqft": 776,
+  "type": "MLS – as-is, handyman special",
+  "note": "1898 1BR/1BA, sold AS-IS, ready for renovation, 1-car garage; listed 2026-10-05, Dayton MLS via Coldwell Banker Heritage. Asking is 27.7% below AVM average but 70% math is negative, so only works at a lower contract price. Repair guess $15k.",
+  "foundDate": "2026-11-09",
+  "spread": -16566,
   "status": "Active"
  }
 ]

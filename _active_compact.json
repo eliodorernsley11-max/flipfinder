@@ -1,0 +1,1374 @@
+[
+ {
+  "address": "2938 E Michigan St, Indianapolis, IN 46201",
+  "price": 50000,
+  "status": "Active",
+  "metro": "Indianapolis",
+  "url": "https://www.realtor.com/realestateandhomes-detail/2938-E-Michigan-St_Indianapolis_IN_46201_M46824-49119"
+ },
+ {
+  "address": "31 Wyoming St, Pittsburgh, PA 15211",
+  "price": 100000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://www.realtor.com/realestateandhomes-detail/31-Wyoming-St_Pittsburgh_PA_15211_M45917-56256"
+ },
+ {
+  "address": "1031 Edgewater Ave, Fort Wayne, IN 46805",
+  "price": 69900,
+  "status": "Active",
+  "metro": "Fort Wayne",
+  "url": "https://www.realtor.com/realestateandhomes-detail/1031-Edgewater-Ave_Fort-Wayne_IN_46805_M36620-14891"
+ },
+ {
+  "address": "118 Sumner Ave, Wilkinsburg, PA 15221",
+  "price": 110000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://www.realtor.com/realestateandhomes-detail/118-Sumner-Ave_Wilkinsburg_PA_15221_M49521-34918"
+ },
+ {
+  "address": "2527 16th St NE, Canton, OH 44705",
+  "price": 59950,
+  "status": "Active",
+  "metro": "Akron",
+  "url": "https://www.realtor.com/realestateandhomes-detail/2527-16th-St-NE_Canton_OH_44705_M43738-03352"
+ },
+ {
+  "address": "224 E Northern Ave, Springfield, OH 45503",
+  "price": 54900,
+  "status": "Active",
+  "metro": "Dayton",
+  "url": "https://www.realtor.com/realestateandhomes-detail/224-E-Northern-Ave_Springfield_OH_45503_M39408-77071"
+ },
+ {
+  "address": "5778 Woodrow St, Detroit, MI 48210",
+  "price": 30000,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://www.realtor.com/realestateandhomes-detail/5778-Woodrow-St_Detroit_MI_48210_M47551-89548"
+ },
+ {
+  "address": "314 Atlantic St, Indianapolis, IN 46227",
+  "price": 40000,
+  "status": "Active",
+  "metro": "Indianapolis",
+  "url": "https://www.realtor.com/realestateandhomes-detail/314-Atlantic-St_Indianapolis_IN_46227_M42192-46050"
+ },
+ {
+  "address": "4014 E 10th St, Indianapolis, IN 46201",
+  "price": 89900,
+  "status": "Active",
+  "metro": "Indianapolis",
+  "url": "https://www.realtor.com/realestateandhomes-detail/4014-E-10th-St_Indianapolis_IN_46201_M34024-18930"
+ },
+ {
+  "address": "201 N Central Ave, Columbus, OH 43222",
+  "price": 75000,
+  "status": "Active",
+  "metro": "Columbus",
+  "url": "https://www.realtor.com/realestateandhomes-detail/201-N-Central-Ave_Columbus_OH_43222_M42443-70021"
+ },
+ {
+  "address": "2380 E 40th St, Cleveland, OH 44104",
+  "price": 39900,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://www.realtor.com/realestateandhomes-detail/2380-E-40th-St_Cleveland_OH_44104_M40420-11764"
+ },
+ {
+  "address": "4853 N Katherine Dr, Indianapolis, IN 46226",
+  "price": 98000,
+  "status": "Active",
+  "metro": "Indianapolis",
+  "url": "https://www.realtor.com/realestateandhomes-detail/4853-N-Katherine-Dr_Indianapolis_IN_46226_M47701-08062"
+ },
+ {
+  "address": "453 S Glenwood Ave, Columbus, OH 43223",
+  "price": 105000,
+  "status": "Active",
+  "metro": "Columbus",
+  "url": "https://www.realtor.com/realestateandhomes-detail/453-S-Glenwood-Ave_Columbus_OH_43223_M46945-05340"
+ },
+ {
+  "address": "3113 Hovey St, Indianapolis, IN 46218",
+  "price": 85000,
+  "status": "Active",
+  "metro": "Indianapolis",
+  "url": "https://www.realtor.com/realestateandhomes-detail/3113-Hovey-St_Indianapolis_IN_46218_M46075-59096"
+ },
+ {
+  "address": "11961 Ohio St, Detroit, MI 48204",
+  "price": 49999,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://www.realtor.com/realestateandhomes-detail/11961-Ohio-St_Detroit_MI_48204_M34668-90996"
+ },
+ {
+  "address": "1341 E Fulton St, Columbus, OH 43205",
+  "price": 69000,
+  "status": "Active",
+  "metro": "Columbus",
+  "url": "https://www.realtor.com/realestateandhomes-detail/1341-E-Fulton-St_Columbus_OH_43205_M33070-57035"
+ },
+ {
+  "address": "1243 N Main St, Akron, OH 44310",
+  "price": 99900,
+  "status": "Active",
+  "metro": "Akron",
+  "url": "https://www.realtor.com/realestateandhomes-detail/1243-N-Main-St_Akron_OH_44310_M34102-61440"
+ },
+ {
+  "address": "4818 Hanna St, Fort Wayne, IN 46806",
+  "price": 59900,
+  "status": "Active",
+  "metro": "Fort Wayne",
+  "url": "https://usdaproperties.com/property/in/46806/4768310124/"
+ },
+ {
+  "address": "317 Dexter St, Toledo, OH 43608",
+  "price": 39500,
+  "status": "Active",
+  "metro": "Toledo",
+  "url": "https://usdaproperties.com/property/oh/43608/4578220344/"
+ },
+ {
+  "address": "1227 Davis Ave, Washington, PA 15301",
+  "price": 75000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15301/3652006097/"
+ },
+ {
+  "address": "2013 50th St NW, Canton, OH 44709",
+  "price": 109900,
+  "status": "Active",
+  "metro": "Akron",
+  "url": "https://usdaproperties.com/property/oh/44709/4193221519/"
+ },
+ {
+  "address": "320 W Euclid Ave, Springfield, OH 45506",
+  "price": 79900,
+  "status": "Active",
+  "metro": "Dayton",
+  "url": "https://www.realtor.com/realestateandhomes-detail/320-W-Euclid-Ave_Springfield_OH_45506_M47787-75894"
+ },
+ {
+  "address": "44 Wisconsin Ave, Columbus, OH 43222",
+  "price": 115000,
+  "status": "Active",
+  "metro": "Columbus",
+  "url": "https://www.realtor.com/realestateandhomes-detail/44-Wisconsin-Ave_Columbus_OH_43222_M38841-57420"
+ },
+ {
+  "address": "611 S Main St, Pittsburgh, PA 15220",
+  "price": 64900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://www.realtor.com/realestateandhomes-detail/611-S-Main-St_Pittsburgh_PA_15220_M46565-20643"
+ },
+ {
+  "address": "3916 Winthrop Ave, Indianapolis, IN 46205",
+  "price": 119900,
+  "status": "Active",
+  "metro": "Indianapolis",
+  "url": "https://www.realtor.com/realestateandhomes-detail/3916-Winthrop-Ave_Indianapolis_IN_46205_M41926-44464"
+ },
+ {
+  "address": "1363 Waverly Rd, Eastlake, OH 44095",
+  "price": 77000,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://www.realtor.com/realestateandhomes-detail/1363-Waverly-Rd_Eastlake_OH_44095_M45706-26315"
+ },
+ {
+  "address": "97 99 Fernwood Ave, Dayton, OH 45405",
+  "price": 50000,
+  "status": "Active",
+  "metro": "Dayton",
+  "url": "https://www.realtor.com/realestateandhomes-detail/97-Fernwood-Ave_Dayton_OH_45405_M35857-00202"
+ },
+ {
+  "address": "1727 Morgan St, Springfield, OH 45503",
+  "price": 50000,
+  "status": "Active",
+  "metro": "Dayton",
+  "url": "https://www.realtor.com/realestateandhomes-detail/1727-Morgan-St_Springfield_OH_45503_M42176-25332"
+ },
+ {
+  "address": "269 E 150th St, Cleveland, OH 44110",
+  "price": 40000,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://www.realtor.com/realestateandhomes-detail/269-E-150th-St_Cleveland_OH_44110_M38553-62921"
+ },
+ {
+  "address": "3509 E 46th St, Cleveland, OH 44105",
+  "price": 19900,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://www.realtor.com/realestateandhomes-detail/3509-E-46th-St_Cleveland_OH_44105_M37711-63230"
+ },
+ {
+  "address": "3261 W 58th St, Cleveland, OH 44102",
+  "price": 59900,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://www.realtor.com/realestateandhomes-detail/3261-W-58th-St_Cleveland_OH_44102_M31448-34198"
+ },
+ {
+  "address": "569 Corwin Ave, Dayton, OH 45410",
+  "price": 69900,
+  "status": "Active",
+  "metro": "Dayton",
+  "url": "https://www.realtor.com/realestateandhomes-detail/569-Corwin-St_Dayton_OH_45410_M98373-39880"
+ },
+ {
+  "address": "8480 Dixie Hwy, Ira Township, MI 48023",
+  "price": 124900,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48023/3881999235/"
+ },
+ {
+  "address": "130 Clemens St, Mount Clemens, MI 48043",
+  "price": 69000,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48043/4825493202/"
+ },
+ {
+  "address": "10830 Silica Rd, North Jackson, OH 44451",
+  "price": 115000,
+  "status": "Active",
+  "metro": "Youngstown",
+  "url": "https://usdaproperties.com/property/oh/44451/4113058627/"
+ },
+ {
+  "address": "419 W Lincoln Way, Lisbon, OH 44432",
+  "price": 75000,
+  "status": "Active",
+  "metro": "Youngstown",
+  "url": "https://usdaproperties.com/property/oh/44432/3524297546/"
+ },
+ {
+  "address": "6771 Warren Sharon Rd, Brookfield, OH 44403",
+  "price": 129900,
+  "status": "Active",
+  "metro": "Youngstown",
+  "url": "https://usdaproperties.com/property/oh/44403/3897737234/"
+ },
+ {
+  "address": "821 Cree Ave, Akron, OH 44305",
+  "price": 59900,
+  "status": "Active",
+  "metro": "Akron",
+  "url": "https://usdaproperties.com/property/oh/44305/4659650800/"
+ },
+ {
+  "address": "13732 Route 8 89 Hwy, Wattsburg, PA 16442",
+  "price": 49900,
+  "status": "Active",
+  "metro": "Erie",
+  "url": "https://usdaproperties.com/property/pa/16442/4864126397/"
+ },
+ {
+  "address": "1676 Lee Rd, Cleveland Heights, OH 44118",
+  "price": 125000,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://usdaproperties.com/property/oh/44118/3572605397/"
+ },
+ {
+  "address": "103 Kennedy Rd, Prospect, PA 16052",
+  "price": 49900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/16052/4258062303/"
+ },
+ {
+  "address": "1015 6th Ave, Brackenridge, PA 15014",
+  "price": 69900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15014/4875627418/"
+ },
+ {
+  "address": "7823 E US Highway 223, Blissfield, MI 49228",
+  "price": 42500,
+  "status": "Active",
+  "metro": "Toledo",
+  "url": "https://usdaproperties.com/property/mi/49228/3608387886/"
+ },
+ {
+  "address": "4148 Sycamore St, Palmyra, MI 49268",
+  "price": 40000,
+  "status": "Active",
+  "metro": "Toledo",
+  "url": "https://usdaproperties.com/property/mi/49268/4498028224/"
+ },
+ {
+  "address": "9000 Water St, Orient, OH 43146",
+  "price": 100000,
+  "status": "Active",
+  "metro": "Columbus",
+  "url": "https://usdaproperties.com/property/oh/43146/9997533537/"
+ },
+ {
+  "address": "207 Wood St, Lynnwood-Pricedale, PA 15012",
+  "price": 15000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15012/3619922933/"
+ },
+ {
+  "address": "259 Pump Station Rd, New Alexandria, PA 15670",
+  "price": 85000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15670/3016047410/"
+ },
+ {
+  "address": "2388 Zinow St, Hamtramck, MI 48212",
+  "price": 119900,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48212/3372304655/"
+ },
+ {
+  "address": "1919 Parkman Rd NW, Warren, OH 44485",
+  "price": 59900,
+  "status": "Active",
+  "metro": "Youngstown",
+  "url": "https://usdaproperties.com/property/oh/44485/3647708653/"
+ },
+ {
+  "address": "7662 Commerce St, Negley, OH 44441",
+  "price": 80000,
+  "status": "Active",
+  "metro": "Youngstown",
+  "url": "https://usdaproperties.com/property/oh/44441/3051782300/"
+ },
+ {
+  "address": "239 S Main St Lot 0, Bethel, OH 45106",
+  "price": 69900,
+  "status": "Active",
+  "metro": "Cincinnati",
+  "url": "https://usdaproperties.com/property/oh/45106/3850701223/"
+ },
+ {
+  "address": "427 Agatha St, Pitcairn, PA 15140",
+  "price": 54900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15140/3696291549/"
+ },
+ {
+  "address": "442 Rose St, Follansbee, WV 26037",
+  "price": 32000,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/wv/26037/4885632666/"
+ },
+ {
+  "address": "721 Monongahela Ave, Glassport, PA 15045",
+  "price": 40000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15045/4361903073/"
+ },
+ {
+  "address": "16681 State Route 152, Toronto, OH 43964",
+  "price": 94500,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/oh/43964/4202568576/"
+ },
+ {
+  "address": "1918 Laketon Rd, Pittsburgh, PA 15221",
+  "price": 20000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15221/4854507381/"
+ },
+ {
+  "address": "1240 Maple Ave, Atwater, OH 44201",
+  "price": 78000,
+  "status": "Active",
+  "metro": "Akron",
+  "url": "https://usdaproperties.com/property/oh/44201/4288363918/"
+ },
+ {
+  "address": "236 Cadwallader St, Brownsville, PA 15417",
+  "price": 20000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15417/4670272448/"
+ },
+ {
+  "address": "426 High St, California, PA 15417",
+  "price": 45000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15417/4441983730/"
+ },
+ {
+  "address": "2236 Highland Ave, Wheeling, WV 26003",
+  "price": 20000,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/wv/26003/3732316832/"
+ },
+ {
+  "address": "125 Hopwood-Clsprg Rd, Hopwood, PA 15445",
+  "price": 65000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15445/4328394326/"
+ },
+ {
+  "address": "1280 Monterey Blvd NW, North Canton, OH 44720",
+  "price": 30000,
+  "status": "Active",
+  "metro": "Akron",
+  "url": "https://usdaproperties.com/property/oh/44720/3233723925/"
+ },
+ {
+  "address": "125 Elm Ave, Monessen, PA 15062",
+  "price": 54900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15062/9934386559/"
+ },
+ {
+  "address": "16410 Manning St, Detroit, MI 48205",
+  "price": 29900,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48205/3771157146/"
+ },
+ {
+  "address": "9445 Ravenswood St, Detroit, MI 48204",
+  "price": 34900,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48204/4992068846/"
+ },
+ {
+  "address": "443 Market St, Leechburg, PA 15656",
+  "price": 73000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15656/4198119072/"
+ },
+ {
+  "address": "3152 S Byrne Rd, Toledo, OH 43614",
+  "price": 89900,
+  "status": "Active",
+  "metro": "Toledo",
+  "url": "https://usdaproperties.com/property/oh/43614/3450813786/"
+ },
+ {
+  "address": "1134 Race St, McKees Rocks, PA 15136",
+  "price": 45000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15136/3197655842/"
+ },
+ {
+  "address": "17556 Riopelle St, Highland Park, MI 48203",
+  "price": 11000,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48203/4587904658/"
+ },
+ {
+  "address": "7611 Linwood Ave, Cleveland, OH 44103",
+  "price": 89000,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://usdaproperties.com/property/oh/44103/3166291157/"
+ },
+ {
+  "address": "71 Pilgrim St, Highland Park, MI 48203",
+  "price": 40000,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48203/4636515191/"
+ },
+ {
+  "address": "7 Locust St, Clarksville, PA 15322",
+  "price": 29900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15322/3435341907/"
+ },
+ {
+  "address": "8574 N High St, Mineral City, OH 44656",
+  "price": 39900,
+  "status": "Active",
+  "metro": "Akron",
+  "url": "https://usdaproperties.com/property/oh/44656/4413932166/"
+ },
+ {
+  "address": "660 5th Ave, Freedom, PA 15042",
+  "price": 57900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15042/4177253293/"
+ },
+ {
+  "address": "1023 Raspberry St, Erie, PA 16502",
+  "price": 64000,
+  "status": "Active",
+  "metro": "Erie",
+  "url": "https://usdaproperties.com/property/pa/16502/4770473231/"
+ },
+ {
+  "address": "505 N High St, Caledonia, OH 43314",
+  "price": 60000,
+  "status": "Active",
+  "metro": "Columbus",
+  "url": "https://usdaproperties.com/property/oh/43314/4785063595/"
+ },
+ {
+  "address": "11209 Spencer Mills Rd, Spencer, OH 44275",
+  "price": 69900,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://usdaproperties.com/property/oh/44275/4634120112/"
+ },
+ {
+  "address": "1717 Root Ave NE, Canton, OH 44705",
+  "price": 34900,
+  "status": "Active",
+  "metro": "Akron",
+  "url": "https://usdaproperties.com/property/oh/44705/4872794321/"
+ },
+ {
+  "address": "670 5th Ave, Freedom, PA 15042",
+  "price": 51900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15042/3415286716/"
+ },
+ {
+  "address": "12801 Riverview St, Detroit, MI 48223",
+  "price": 30000,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48223/3521829618/"
+ },
+ {
+  "address": "2399 Bonna Dr, Uniontown, OH 44685",
+  "price": 55000,
+  "status": "Active",
+  "metro": "Akron",
+  "url": "https://usdaproperties.com/property/oh/44685/4295622553/"
+ },
+ {
+  "address": "1803 State St, Natrona Heights, PA 15065",
+  "price": 99900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15065/3014330395/"
+ },
+ {
+  "address": "7126 River Rd, Cincinnati, OH 45233",
+  "price": 100000,
+  "status": "Active",
+  "metro": "Cincinnati",
+  "url": "https://usdaproperties.com/property/oh/45233/3918884173/"
+ },
+ {
+  "address": "133 Highland St, Rayland, OH 43943",
+  "price": 9900,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/oh/43943/3545147458/"
+ },
+ {
+  "address": "39 Walnut Ave, Dunbar, PA 15431",
+  "price": 29900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15431/3597718025/"
+ },
+ {
+  "address": "5875 Bonnie Brae St, Indianapolis, IN 46228",
+  "price": 114900,
+  "status": "Active",
+  "metro": "Indianapolis",
+  "url": "https://usdaproperties.com/property/in/46228/4296257815/"
+ },
+ {
+  "address": "13710 Mann Ave, Cleveland, OH 44112",
+  "price": 14900,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://usdaproperties.com/property/oh/44112/3212263848/"
+ },
+ {
+  "address": "1745 Bower Hill Rd, Pittsburgh, PA 15243",
+  "price": 119900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15243/3725129794/"
+ },
+ {
+  "address": "317 Arch St, Follansbee, WV 26037",
+  "price": 99900,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/wv/26037/4181125802/"
+ },
+ {
+  "address": "819 S 4th St, Greenfield, OH 45123",
+  "price": 65000,
+  "status": "Active",
+  "metro": "Columbus",
+  "url": "https://usdaproperties.com/property/oh/45123/4585532078/"
+ },
+ {
+  "address": "504 E Main St, East Palestine, OH 44413",
+  "price": 69900,
+  "status": "Active",
+  "metro": "Youngstown",
+  "url": "https://usdaproperties.com/property/oh/44413/3206731705/"
+ },
+ {
+  "address": "382 Ohio Ave, Midland, PA 15059",
+  "price": 34900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15059/4219511649/"
+ },
+ {
+  "address": "20971 Peoria Loop Rd, Raymond, OH 43067",
+  "price": 69900,
+  "status": "Active",
+  "metro": "Columbus",
+  "url": "https://usdaproperties.com/property/oh/43067/3864436002/"
+ },
+ {
+  "address": "2202 Westford Rd, Jamestown, PA 16134",
+  "price": 79000,
+  "status": "Active",
+  "metro": "Youngstown",
+  "url": "https://usdaproperties.com/property/pa/16134/3632696804/"
+ },
+ {
+  "address": "1028 Grand Ave, Pittsburgh, PA 15212",
+  "price": 50000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15212/3187536351/"
+ },
+ {
+  "address": "227 Floral Ave, Leechburg, PA 15656",
+  "price": 40000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15656/4204752410/"
+ },
+ {
+  "address": "446 Main St, Follansbee, WV 26037",
+  "price": 15000,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/wv/26037/3048988914/"
+ },
+ {
+  "address": "5566 State Route 152, Dillonvale, OH 43917",
+  "price": 34000,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/oh/43917/3916760807/"
+ },
+ {
+  "address": "202 Clark St, Saltsburg, PA 15681",
+  "price": 64900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15681/4938841186/"
+ },
+ {
+  "address": "7350 Bennett St, Pittsburgh, PA 15208",
+  "price": 25000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15208/3055222690/"
+ },
+ {
+  "address": "118 Kenric Ave, Donora, PA 15033",
+  "price": 36000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15033/4311998228/"
+ },
+ {
+  "address": "1210 Lawrence Rd NE, Canton, OH 44705",
+  "price": 40000,
+  "status": "Active",
+  "metro": "Akron",
+  "url": "https://usdaproperties.com/property/oh/44705/4489439570/"
+ },
+ {
+  "address": "5166 Mountain Top Ln, Elizabeth, PA 15037",
+  "price": 100000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15037/4945771184/"
+ },
+ {
+  "address": "2423 Vance Ave, Wheeling, WV 26003",
+  "price": 69900,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/wv/26003/4011169656/"
+ },
+ {
+  "address": "211 Main St, Bentleyville, PA 15314",
+  "price": 30000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15314/3905121117/"
+ },
+ {
+  "address": "331 James St, Turtle Creek, PA 15145",
+  "price": 49900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15145/3500489989/"
+ },
+ {
+  "address": "1556 Bryson St, Youngstown, OH 44505",
+  "price": 29900,
+  "status": "Active",
+  "metro": "Youngstown",
+  "url": "https://usdaproperties.com/property/oh/44505/4223403082/"
+ },
+ {
+  "address": "107 Louthan Rd, Darlington, PA 16115",
+  "price": 49900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/16115/3260674692/"
+ },
+ {
+  "address": "2417 Osgood St, Pittsburgh, PA 15214",
+  "price": 20000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15214/4822865111/"
+ },
+ {
+  "address": "54 April St, Dillonvale, OH 43917",
+  "price": 44900,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/oh/43917/3326731768/"
+ },
+ {
+  "address": "16909 Harvard Ave, Cleveland, OH 44128",
+  "price": 95000,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://usdaproperties.com/property/oh/44128/4410225506/"
+ },
+ {
+  "address": "266 W Clark St, East Palestine, OH 44413",
+  "price": 69900,
+  "status": "Active",
+  "metro": "Youngstown",
+  "url": "https://usdaproperties.com/property/oh/44413/4832157690/"
+ },
+ {
+  "address": "304 W Vine St, Van Buren, IN 46991",
+  "price": 39000,
+  "status": "Active",
+  "metro": "Fort Wayne",
+  "url": "https://usdaproperties.com/property/in/46991/3140512418/"
+ },
+ {
+  "address": "1921 Amiott Ln, Mount Orab, OH 45154",
+  "price": 119900,
+  "status": "Active",
+  "metro": "Cincinnati",
+  "url": "https://usdaproperties.com/property/oh/45154/3709252882/"
+ },
+ {
+  "address": "1046 Wallis Ave, Farrell, PA 16121",
+  "price": 20000,
+  "status": "Active",
+  "metro": "Youngstown",
+  "url": "https://usdaproperties.com/property/pa/16121/9400191716/"
+ },
+ {
+  "address": "22 Sprague St, Wilmerding, PA 15148",
+  "price": 39900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15148/3103037340/"
+ },
+ {
+  "address": "805 Oak St, Duquesne, PA 15110",
+  "price": 17900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15110/3029188990/"
+ },
+ {
+  "address": "960 Delhi Ave, Cincinnati, OH 45204",
+  "price": 40000,
+  "status": "Active",
+  "metro": "Cincinnati",
+  "url": "https://usdaproperties.com/property/oh/45204/3770416658/"
+ },
+ {
+  "address": "1703 30th St NW, Canton, OH 44709",
+  "price": 69900,
+  "status": "Active",
+  "metro": "Akron",
+  "url": "https://usdaproperties.com/property/oh/44709/4895675610/"
+ },
+ {
+  "address": "4038 Pingree St, Detroit, MI 48204",
+  "price": 40000,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48204/4672900049/"
+ },
+ {
+  "address": "19170 Greeley St, Highland Park, MI 48203",
+  "price": 25000,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48203/3503064733/"
+ },
+ {
+  "address": "207-209 N 2nd St, West Newton, PA 15089",
+  "price": 30000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15089/9016566561/"
+ },
+ {
+  "address": "2962 Pingree St, Detroit, MI 48206",
+  "price": 34999,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48206/4738586088/"
+ },
+ {
+  "address": "512 Glenn St, Wilmerding, PA 15148",
+  "price": 34900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15148/3848447658/"
+ },
+ {
+  "address": "7766 Stewart Rd, Masury, OH 44438",
+  "price": 25000,
+  "status": "Active",
+  "metro": "Youngstown",
+  "url": "https://usdaproperties.com/property/oh/44438/3795665817/"
+ },
+ {
+  "address": "2183 E 31st St, Cleveland, OH 44115",
+  "price": 49000,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://usdaproperties.com/property/oh/44115/4770013842/"
+ },
+ {
+  "address": "1385 6th Ave, Freedom, PA 15042",
+  "price": 59900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15042/3418826980/"
+ },
+ {
+  "address": "249 Air St, Dayton, OH 45404",
+  "price": 49900,
+  "status": "Active",
+  "metro": "Dayton",
+  "url": "https://usdaproperties.com/property/oh/45404/4058518957/"
+ },
+ {
+  "address": "20257 Omira St, Highland Park, MI 48203",
+  "price": 23000,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48203/3959514964/"
+ },
+ {
+  "address": "335 Euclid Ave, Saegertown, PA 16433",
+  "price": 99900,
+  "status": "Active",
+  "metro": "Erie",
+  "url": "https://usdaproperties.com/property/pa/16433/4528320083/"
+ },
+ {
+  "address": "641 Thompson Ave, Clairton, PA 15025",
+  "price": 34900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15025/3229267940/"
+ },
+ {
+  "address": "26901 County Road MN, Fayette, OH 43521",
+  "price": 78000,
+  "status": "Active",
+  "metro": "Toledo",
+  "url": "https://usdaproperties.com/property/oh/43521/3315679743/"
+ },
+ {
+  "address": "606 Scott Ave, Scottdale, PA 15683",
+  "price": 109900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15683/4730346584/"
+ },
+ {
+  "address": "156 Byron St, McGrann, PA 16236",
+  "price": 75000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/16236/4020356704/"
+ },
+ {
+  "address": "810 N 6th Ave, Steubenville, OH 43952",
+  "price": 19000,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/oh/43952/4942408078/"
+ },
+ {
+  "address": "106 S Beverly Ave, Youngstown, OH 44515",
+  "price": 110000,
+  "status": "Active",
+  "metro": "Youngstown",
+  "url": "https://usdaproperties.com/property/oh/44515/3698673175/"
+ },
+ {
+  "address": "12707 Harvard Ave, Cleveland, OH 44105",
+  "price": 42900,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://usdaproperties.com/property/oh/44105/3483970538/"
+ },
+ {
+  "address": "379 Locust St, New Martinsville, WV 26155",
+  "price": 39000,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/wv/26155/4569578985/"
+ },
+ {
+  "address": "122 E Caroline St, Union City, OH 45390",
+  "price": 39900,
+  "status": "Active",
+  "metro": "Dayton",
+  "url": "https://usdaproperties.com/property/oh/45390/9184314892/"
+ },
+ {
+  "address": "5665 Venice Rd, Newport, MI 48166",
+  "price": 125000,
+  "status": "Active",
+  "metro": "Toledo",
+  "url": "https://usdaproperties.com/property/mi/48166/3657014897/"
+ },
+ {
+  "address": "1826 Chestnut St, Erie, PA 16502",
+  "price": 39900,
+  "status": "Active",
+  "metro": "Erie",
+  "url": "https://usdaproperties.com/property/pa/16502/4792948966/"
+ },
+ {
+  "address": "344 Shenango Blvd, Farrell, PA 16121",
+  "price": 19900,
+  "status": "Active",
+  "metro": "Youngstown",
+  "url": "https://usdaproperties.com/property/pa/16121/3467657898/"
+ },
+ {
+  "address": "101 Highland Ave, Avella, PA 15312",
+  "price": 65000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15312/4429257793/"
+ },
+ {
+  "address": "221 S 4th St, West Newton, PA 15089",
+  "price": 94900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15089/4529526015/"
+ },
+ {
+  "address": "1203 6th Ave, Ford City, PA 16226",
+  "price": 44900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/16226/4065638646/"
+ },
+ {
+  "address": "456 W New York Ave, Sebring, OH 44672",
+  "price": 60000,
+  "status": "Active",
+  "metro": "Youngstown",
+  "url": "https://usdaproperties.com/property/oh/44672/3994303440/"
+ },
+ {
+  "address": "354 Garrett Ave, Brooksville, KY 41004",
+  "price": 32000,
+  "status": "Active",
+  "metro": "Cincinnati",
+  "url": "https://usdaproperties.com/property/ky/41004/3425135868/"
+ },
+ {
+  "address": "5121 Atchison Rd, Bellaire, OH 43906",
+  "price": 50000,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/oh/43906/3757113237/"
+ },
+ {
+  "address": "322 Cedar St, Duquesne, PA 15110",
+  "price": 19900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15110/3882625114/"
+ },
+ {
+  "address": "205 McCormick Ave, Bentleyville, PA 15314",
+  "price": 54900,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15314/4225487620/"
+ },
+ {
+  "address": "39150 Jewett Scio Rd, Jewett, OH 43986",
+  "price": 49000,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/oh/43986/9615127408/"
+ },
+ {
+  "address": "118 Jefferson St, Saint Paris, OH 43072",
+  "price": 90000,
+  "status": "Active",
+  "metro": "Dayton",
+  "url": "https://usdaproperties.com/property/oh/43072/4684097623/"
+ },
+ {
+  "address": "9754 County Road N, Delta, OH 43515",
+  "price": 90000,
+  "status": "Active",
+  "metro": "Toledo",
+  "url": "https://usdaproperties.com/property/oh/43515/3394832605/"
+ },
+ {
+  "address": "1317 Center St, Pittsburgh, PA 15221",
+  "price": 45000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15221/3472372881/"
+ },
+ {
+  "address": "3487 Harvey Ave Lot 0, Cincinnati, OH 45229",
+  "price": 125000,
+  "status": "Active",
+  "metro": "Cincinnati",
+  "url": "https://usdaproperties.com/property/oh/45229/3012203792/"
+ },
+ {
+  "address": "708 Broadway Ave, Wellsville, OH 43968",
+  "price": 64900,
+  "status": "Active",
+  "metro": "Youngstown",
+  "url": "https://usdaproperties.com/property/oh/43968/3892081431/"
+ },
+ {
+  "address": "1446 Jones Rd, Jefferson, OH 44047",
+  "price": 114900,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://usdaproperties.com/property/oh/44047/3344700129/"
+ },
+ {
+  "address": "310 S State St, Crooksville, OH 43731",
+  "price": 23900,
+  "status": "Active",
+  "metro": "Columbus",
+  "url": "https://usdaproperties.com/property/oh/43731/3503256839/"
+ },
+ {
+  "address": "4207 E 146th St, Cleveland, OH 44128",
+  "price": 49900,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://usdaproperties.com/property/oh/44128/3094970961/"
+ },
+ {
+  "address": "105 Penn Ave, Bentleyville, PA 15314",
+  "price": 30000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15314/4729194275/"
+ },
+ {
+  "address": "409 Ohio Ave, Salem, OH 44460",
+  "price": 99000,
+  "status": "Active",
+  "metro": "Youngstown",
+  "url": "https://usdaproperties.com/property/oh/44460/3188259170/"
+ },
+ {
+  "address": "103 Willow St, Bethesda, OH 43719",
+  "price": 39900,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/oh/43719/4130707549/"
+ },
+ {
+  "address": "643 Rockford Ave, Dayton, OH 45405",
+  "price": 59000,
+  "status": "Active",
+  "metro": "Dayton",
+  "url": "https://usdaproperties.com/property/oh/45405/3235588781/"
+ },
+ {
+  "address": "2865 NW Palomino Rd, Somerset, OH 43150",
+  "price": 155000,
+  "status": "Active",
+  "metro": "Columbus",
+  "url": "https://usdaproperties.com/property/oh/43150/4782299924/"
+ },
+ {
+  "address": "937 W 3rd St, Erie, PA 16507",
+  "price": 69900,
+  "status": "Active",
+  "metro": "Erie",
+  "url": "https://usdaproperties.com/property/pa/16507/4198446976/"
+ },
+ {
+  "address": "67 E Pleasant St, River Rouge, MI 48218",
+  "price": 74900,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48218/4014057079/"
+ },
+ {
+  "address": "14112 Mayfair Ave, East Cleveland, OH 44112",
+  "price": 25000,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://usdaproperties.com/property/oh/44112/4797402903/"
+ },
+ {
+  "address": "305 E Main St, Junction City, OH 43748",
+  "price": 99900,
+  "status": "Active",
+  "metro": "Columbus",
+  "url": "https://usdaproperties.com/property/oh/43748/4308675934/"
+ },
+ {
+  "address": "156 Colony Cres, Akron, OH 44305",
+  "price": 65000,
+  "status": "Active",
+  "metro": "Akron",
+  "url": "https://usdaproperties.com/property/oh/44305/3764522862/"
+ },
+ {
+  "address": "2386 Rhoads Ave, Columbus, OH 43207",
+  "price": 115000,
+  "status": "Active",
+  "metro": "Columbus",
+  "url": "https://usdaproperties.com/property/oh/43207/4174447740/"
+ },
+ {
+  "address": "2563 Trevor Pl Lot 0, Cincinnati, OH 45225",
+  "price": 55000,
+  "status": "Active",
+  "metro": "Cincinnati",
+  "url": "https://usdaproperties.com/property/oh/45225/4852396032/"
+ },
+ {
+  "address": "629 West Blvd, Marine City, MI 48039",
+  "price": 96999,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48039/4101916934/"
+ },
+ {
+  "address": "1738 Superior Ave NE, Canton, OH 44705",
+  "price": 67600,
+  "status": "Active",
+  "metro": "Akron",
+  "url": "https://usdaproperties.com/property/oh/44705/4954667597/"
+ },
+ {
+  "address": "1533 Fourth St, Moundsville, WV 26041",
+  "price": 104000,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/wv/26041/3516381514/"
+ },
+ {
+  "address": "11975 Hamburg St, Detroit, MI 48205",
+  "price": 29900,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48205/3812532612/"
+ },
+ {
+  "address": "619 W Main St, Geneva, OH 44041",
+  "price": 110000,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://usdaproperties.com/property/oh/44041/3252544419/"
+ },
+ {
+  "address": "310 S Pleasant St, Edinburgh, IN 46124",
+  "price": 79500,
+  "status": "Active",
+  "metro": "Indianapolis",
+  "url": "https://usdaproperties.com/property/in/46124/4050234667/"
+ },
+ {
+  "address": "643 Warren Ave, Indianapolis, IN 46221",
+  "price": 76900,
+  "status": "Active",
+  "metro": "Indianapolis",
+  "url": "https://usdaproperties.com/property/in/46221/4270425487/"
+ },
+ {
+  "address": "92 Eason St, Highland Park, MI 48203",
+  "price": 115000,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48203/3242593801/"
+ },
+ {
+  "address": "737 Tecumseh St, Toledo, OH 43604",
+  "price": 84900,
+  "status": "Active",
+  "metro": "Toledo",
+  "url": "https://usdaproperties.com/property/oh/43604/3216746401/"
+ },
+ {
+  "address": "419 Barker St, Wellington, OH 44090",
+  "price": 114900,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://usdaproperties.com/property/oh/44090/3100131331/"
+ },
+ {
+  "address": "8110 Melrose Ave, Cleveland, OH 44103",
+  "price": 95000,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://usdaproperties.com/property/oh/44103/3061169344/"
+ },
+ {
+  "address": "22725 Quinn Rd, Clinton Township, MI 48035",
+  "price": 110000,
+  "status": "Active",
+  "metro": "Detroit",
+  "url": "https://usdaproperties.com/property/mi/48035/4093604613/"
+ },
+ {
+  "address": "104 E Church Ave, Masontown, PA 15461",
+  "price": 25000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15461/3957151006/"
+ },
+ {
+  "address": "701 Chicora Rd, Chicora, PA 16025",
+  "price": 110000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/16025/4661102457/"
+ },
+ {
+  "address": "222 Jamestown Rd, South Charleston, OH 45368",
+  "price": 119900,
+  "status": "Active",
+  "metro": "Dayton",
+  "url": "https://usdaproperties.com/property/oh/45368/3498451703/"
+ },
+ {
+  "address": "3363 E 134th St, Cleveland, OH 44120",
+  "price": 47300,
+  "status": "Active",
+  "metro": "Cleveland",
+  "url": "https://usdaproperties.com/property/oh/44120/3911874537/"
+ },
+ {
+  "address": "209 N Chester St, New Cumberland, WV 26047",
+  "price": 67500,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/wv/26047/4885648317/"
+ },
+ {
+  "address": "22253 Herd McIlroy Rd, Raymond, OH 43067",
+  "price": 119900,
+  "status": "Active",
+  "metro": "Columbus",
+  "url": "https://usdaproperties.com/property/oh/43067/3821803764/"
+ },
+ {
+  "address": "1010 Second Ave, New Cumberland, WV 26047",
+  "price": 75000,
+  "status": "Active",
+  "metro": "WV Panhandle",
+  "url": "https://usdaproperties.com/property/wv/26047/4279105485/"
+ },
+ {
+  "address": "5841 N Sugar St, Uniondale, IN 46791",
+  "price": 104900,
+  "status": "Active",
+  "metro": "Fort Wayne",
+  "url": "https://usdaproperties.com/property/in/46791/4039225438/"
+ },
+ {
+  "address": "164 N Avon Ave, Wadsworth, OH 44281",
+  "price": 100000,
+  "status": "Active",
+  "metro": "Akron",
+  "url": "https://usdaproperties.com/property/oh/44281/4832056348/"
+ },
+ {
+  "address": "2944 N Graytown Rd, Graytown, OH 43432",
+  "price": 109000,
+  "status": "Active",
+  "metro": "Toledo",
+  "url": "https://usdaproperties.com/property/oh/43432/3245495409/"
+ },
+ {
+  "address": "26305 Storms Rd, West Mansfield, OH 43358",
+  "price": 119900,
+  "status": "Active",
+  "metro": "Columbus",
+  "url": "https://usdaproperties.com/property/oh/43358/4045921142/"
+ },
+ {
+  "address": "906 Broadway Ave, McKees Rocks, PA 15136",
+  "price": 135000,
+  "status": "Active",
+  "metro": "Pittsburgh",
+  "url": "https://usdaproperties.com/property/pa/15136/3450177115/"
+ },
+ {
+  "address": "616 Durango Dr, Toledo, OH 43609",
+  "price": 119999,
+  "status": "Active",
+  "metro": "Toledo",
+  "url": "https://usdaproperties.com/property/oh/43609/3004889518/"
+ }
+]
