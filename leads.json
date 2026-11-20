@@ -5368,5 +5368,35 @@
   "foundDate": "2026-11-19",
   "spread": null,
   "status": "Active"
+ },
+ {
+  "address": "164 4th Ave, Chickasaw, AL 36611",
+  "url": "https://www.zillow.com/homedetails/164-4th-Ave-Chickasaw-AL-36611/50965247_zpid/",
+  "price": 36100,
+  "value": null,
+  "valueSource": null,
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 884,
+  "type": "Probate \u2013 as-is, cash buyers only",
+  "note": "1989 3BR/1BA fixer-upper cottage, probate sale subject to court approval. No value estimate shown, spread not calculated.",
+  "foundDate": "2026-11-20",
+  "spread": null,
+  "status": "Active"
+ },
+ {
+  "address": "158 Hylton Loop Rd, Coal City, WV 25823",
+  "url": "https://usdaproperties.com/property/wv/25823/9120239751/",
+  "price": 59000,
+  "value": null,
+  "valueSource": null,
+  "beds": 4,
+  "baths": 1.0,
+  "sqft": 1456,
+  "type": "USDA site \u2013 cash only, as-is",
+  "note": "Needs roof, HVAC, plumbing; no utilities. Listed 2026-05-11. No value estimate shown, spread not calculated.",
+  "foundDate": "2026-11-20",
+  "spread": null,
+  "status": "Active"
  }
 ]
