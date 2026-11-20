@@ -5353,5 +5353,20 @@
   "foundDate": "2026-11-18",
   "spread": null,
   "status": "Active"
+ },
+ {
+  "address": "2716 E Water St, Rock Creek, OH 44084",
+  "url": "https://www.redfin.com/OH/Rock-Creek/2716-E-Water-St-44084/home/76359935",
+  "price": 50000,
+  "value": null,
+  "valueSource": null,
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": null,
+  "type": "MLS \u2013 investor special, cash only, as-is",
+  "note": "3BR/1BA colonial on ~1 acre, price cut by $10K. No value estimate shown, spread not calculated.",
+  "foundDate": "2026-11-19",
+  "spread": null,
+  "status": "Active"
  }
 ]
