@@ -5473,5 +5473,35 @@
   "foundDate": "2026-11-22",
   "spread": null,
   "status": "Active"
+ },
+ {
+  "address": "716 N 10th St, Decatur, IN 46733",
+  "url": "https://usdaproperties.com/property/in/46733/3623605352/",
+  "price": 34900,
+  "value": 36341,
+  "valueSource": "Quantarium (usdaproperties.com)",
+  "beds": 1,
+  "baths": 1,
+  "sqft": 450,
+  "type": "MLS \u2013 as-is, cash offers preferred",
+  "note": "Bath needs renovation, flooring needs replacing; buyer clears contents. Thin margin. Repair guess $15k.",
+  "foundDate": "2026-11-22",
+  "spread": -24461,
+  "status": "Active"
+ },
+ {
+  "address": "1033 Scott Center Rd, Susquehanna, PA 18847",
+  "url": "https://usdaproperties.com/property/pa/18847/4265714906/",
+  "price": 35000,
+  "value": 78660,
+  "valueSource": "Avg of 3 estimates (usdaproperties.com); Quantarium $168k outlier, other two ~ $34k",
+  "beds": 3,
+  "baths": 1,
+  "sqft": 1458,
+  "type": "MLS \u2013 handyman special, as-is, cash only",
+  "note": "2 acres, 2-car garage. Estimates conflict wildly (\\$34k vs \\$168k), verify comps. Repair guess $25k.",
+  "foundDate": "2026-11-22",
+  "spread": -4938,
+  "status": "Active"
  }
 ]
