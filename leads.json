@@ -5398,5 +5398,50 @@
   "foundDate": "2026-11-20",
   "spread": null,
   "status": "Active"
+ },
+ {
+  "address": "1511 S Stanton Ave, Roswell, NM 88203",
+  "url": "https://www.assetcolumn.com/for-sale/nm/roswell/1511-s-stanton-ave/7430",
+  "price": 20000,
+  "value": 76464,
+  "valueSource": "Seller-stated ARV (AssetColumn)",
+  "beds": 3,
+  "baths": 1,
+  "sqft": 1416,
+  "type": "Investor special \u2013 cash only, as-is",
+  "note": "Fixer-upper, seller says ~$10k repairs; $2,500 non-refundable EMD. Value is seller's ARV, not an independent estimate.",
+  "foundDate": "2026-11-21",
+  "spread": 23500,
+  "status": "Active"
+ },
+ {
+  "address": "15 Chester St, Alexandria, LA 71301",
+  "url": "https://cashofferorterms.com/louisiana/alexandria-fixer-upper-15-chester-st",
+  "price": 38000,
+  "value": 190000,
+  "valueSource": "Seller-stated ARV midpoint $180-200K (Cash Offer Or Terms)",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 2425,
+  "type": "Deep-discount fixer \u2013 cash buyers only, as-is",
+  "note": "1942 build, nonprofit seller; seller est. rehab $60-80K. Verify comps; ARV is the marketer's figure.",
+  "foundDate": "2026-11-21",
+  "spread": 25000,
+  "status": "Active"
+ },
+ {
+  "address": "109B County Ave, Dunn, NC 28334",
+  "url": "https://americanpriderealtors.com/home-search/listings/7907901254294993438-109B-County-Ave",
+  "price": 65000,
+  "value": null,
+  "valueSource": null,
+  "beds": 2,
+  "baths": 1,
+  "sqft": null,
+  "type": "Cash only, as-is fixer (Commissioner's Deed)",
+  "note": "Needs full renovation. No value estimate shown, spread not calculated.",
+  "foundDate": "2026-11-21",
+  "spread": null,
+  "status": "Active"
  }
 ]
