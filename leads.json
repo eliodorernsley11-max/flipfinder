@@ -5443,5 +5443,35 @@
   "foundDate": "2026-11-21",
   "spread": null,
   "status": "Active"
+ },
+ {
+  "address": "626 Todd Ave, Ellwood City, PA 16117",
+  "url": "https://usdaproperties.com/property/pa/16117/4266236904/",
+  "price": 39900,
+  "value": 42711,
+  "valueSource": "Avg of Quantarium, Collateral Analytics, Cotality (usdaproperties.com)",
+  "beds": 2,
+  "baths": 1,
+  "sqft": null,
+  "type": "MLS \u2013 cash only, as-is, extensive renovation",
+  "note": "2BR/1BA, off-street parking; price reduced. Thin margin: estimates $39.7k-$48.4k. Repair guess $25k.",
+  "foundDate": "2026-11-22",
+  "spread": -35002,
+  "status": "Active"
+ },
+ {
+  "address": "6 W Walnut St, Middleport, PA 17953",
+  "url": "https://usdaproperties.com/property/pa/17953/3886603765/",
+  "price": 19900,
+  "value": null,
+  "valueSource": null,
+  "beds": 2,
+  "baths": 1,
+  "sqft": null,
+  "type": "MLS \u2013 full rehab, cash only, as-is",
+  "note": "1926 townhome, 3 stories; owner never occupied. Reduced to $19,900 per search snippet. No value estimate on listing, so spread not calculated; verify comps.",
+  "foundDate": "2026-11-22",
+  "spread": null,
+  "status": "Active"
  }
 ]
