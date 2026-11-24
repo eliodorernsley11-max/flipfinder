@@ -5563,5 +5563,50 @@
   "foundDate": "2026-11-23",
   "spread": null,
   "status": "Active"
+ },
+ {
+  "address": "2971 Sunset Dr, Marianna, FL 32448",
+  "url": "https://usdaproperties.com/property/fl/32448/6177187200/",
+  "price": 60000,
+  "value": 58274,
+  "valueSource": "Avg of 3 estimates (usdaproperties.com: Quantarium $60.5k, Collateral Analytics $59.0k, Cotality $55.3k)",
+  "beds": 3,
+  "baths": 1,
+  "sqft": 924,
+  "type": "MLS \u2013 investor/cash only, sold as-is",
+  "note": "1951 block ranch, Jackson Co. Listed 2026-04-11; ask is above estimates, no discount. Repair guess $20k.",
+  "foundDate": "2026-11-24",
+  "spread": -39208,
+  "status": "Active"
+ },
+ {
+  "address": "Single Family (address not shown), McGehee, AR 71654",
+  "url": "https://usdaproperties.com/property/ar/71654/8173219338/",
+  "price": 26000,
+  "value": 27596,
+  "valueSource": "Avg of 3 estimates (usdaproperties.com: Quantarium $27.0k, Collateral Analytics $26.0k, Cotality $29.8k)",
+  "beds": 3,
+  "baths": 1,
+  "sqft": 1300,
+  "type": "MLS \u2013 investor, strictly as-is, cash preferred",
+  "note": "1978 slab home, may need foundation work and full cosmetics. Listed 2026-06-29; price history shows a change to $24,900 on 2026-08-26 while page header shows $26,000 - verify. Repair guess $15k.",
+  "foundDate": "2026-11-24",
+  "spread": -21683,
+  "status": "Active"
+ },
+ {
+  "address": "4233 Riverpoint Dr, Fayetteville, NC 28306",
+  "url": "https://www.coldwellbanker.com/nc/fayetteville/4233-riverpoint-dr/lid-P00800000HItXQnat51k1SP7itxjQBFzpMoHK9rL",
+  "price": 48000,
+  "value": null,
+  "valueSource": null,
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1400,
+  "type": "MLS \u2013 investor special, cash only, strictly as-is",
+  "note": "1996 manufactured home on 0.46 ac, extreme fixer (no flooring/appliances/HVAC); occupied - buyer handles eviction. Listing updated 2026-11-23, Active. No value estimate on page, spread not calculated.",
+  "foundDate": "2026-11-24",
+  "spread": null,
+  "status": "Active"
  }
 ]
