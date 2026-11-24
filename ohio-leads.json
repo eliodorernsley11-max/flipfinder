@@ -4782,5 +4782,37 @@
   "status": "Active",
   "foundDate": "2026-11-24",
   "metro": "Cincinnati"
+ },
+ {
+  "address": "809 Faulkner Ave, Dayton, OH 45402",
+  "url": "https://www.coldwellbankerhomes.com/oh/dayton/809-faulkner-ave/pid_72194446/",
+  "price": 25000,
+  "value": null,
+  "valueSource": "No estimate on listing",
+  "beds": 4,
+  "baths": 2.0,
+  "sqft": 1485,
+  "type": "MLS – Single Family, as-is",
+  "note": "Built 1910; sold AS-IS, needs full rehab, dated fixtures. Relisted several times (since Jul 2025) – check why. No assignment restriction stated. No value estimate on listing, so spread not calculated; verify comps.",
+  "spread": null,
+  "status": "Active",
+  "foundDate": "2026-11-24",
+  "metro": "Dayton"
+ },
+ {
+  "address": "764 Sayre Ave, Dayton, OH 45417",
+  "url": "https://www.coldwellbanker.com/oh/dayton/764-sayre-ave/lid-P00800000HJWhuQRqhrz2MmLZvu3xnEsWaaOASB0",
+  "price": 55000,
+  "value": 64468,
+  "valueSource": "ComeHome estimate",
+  "beds": 2,
+  "baths": 1.0,
+  "sqft": 727,
+  "type": "MLS – Single Family, as-is",
+  "note": "Priced to sell as-is, won't qualify for financing (cash/investor). Price shows $55k on Coldwell Banker (updated Nov 20), $65k on some other sites. Thin spread vs estimate; verify comps. No assignment restriction stated.",
+  "spread": null,
+  "status": "Active",
+  "foundDate": "2026-11-24",
+  "metro": "Dayton"
  }
 ]
