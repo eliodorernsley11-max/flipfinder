@@ -4686,5 +4686,21 @@
   "status": "Active",
   "foundDate": "2026-11-19",
   "metro": "Dayton"
+ },
+ {
+  "address": "5117 University Pl, Detroit, MI 48224",
+  "url": "https://www.remax.com/mi/detroit/home-details/5117-university-pl-detroit-mi-48224/5811115684503029047/M00000316/20261045731",
+  "price": 27000,
+  "value": null,
+  "valueSource": "No estimate on listing",
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 1336,
+  "type": "MLS \u2013 Single Family, cash only, as-is",
+  "note": "Fire-damaged, needs full renovation; cash buyers only, sold as-is. Detached 2-car garage. No assignment restriction stated. No value estimate on listing, so spread not calculated; verify comps.",
+  "spread": null,
+  "status": "Active",
+  "foundDate": "2026-11-24",
+  "metro": "Detroit"
  }
 ]
