@@ -4814,5 +4814,53 @@
   "status": "Active",
   "foundDate": "2026-11-24",
   "metro": "Dayton"
+ },
+ {
+  "address": "12215 Guardian Blvd, Cleveland, OH 44135",
+  "url": "https://www.remax.com/oh/cleveland/home-details/12215-guardian-blvd-cleveland-oh-44135/6751565464409979089/M00000830/5194416",
+  "price": 63500,
+  "value": null,
+  "valueSource": null,
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 816,
+  "type": "MLS – cash/as-is investor special",
+  "note": "Investor special, cash/hard money only, strictly as-is. Needs drywall, flooring, furnace, plumbing. No value estimate on listing, so spread not calculated; verify comps.",
+  "spread": null,
+  "status": "Active",
+  "foundDate": "2026-11-25",
+  "metro": "Cleveland"
+ },
+ {
+  "address": "945 E 149th St, Cleveland, OH 44110",
+  "url": "https://www.innovateonline.com/homes-for-sale/945-E-149th-Street-Cleveland-OH-44110-436427578",
+  "price": 60000,
+  "value": null,
+  "valueSource": null,
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": null,
+  "type": "MLS – cash/as-is investor special",
+  "note": "Value-add; missing mechanical systems, won't qualify for traditional financing; cash or renovation financing. No value estimate on listing, so spread not calculated; verify comps.",
+  "spread": null,
+  "status": "Active",
+  "foundDate": "2026-11-25",
+  "metro": "Cleveland"
+ },
+ {
+  "address": "4372 E 146th St, Cleveland, OH 44128",
+  "url": "https://nancybartlebaugh.com/home-search/listings/5282598626369293231-4372-E-146",
+  "price": 59000,
+  "value": null,
+  "valueSource": null,
+  "beds": 4,
+  "baths": 2.0,
+  "sqft": 1008,
+  "type": "MLS – cash/as-is investor special",
+  "note": "Investor special, sold strictly as-is; furnace and hot water tank missing. No value estimate on listing, so spread not calculated; verify comps.",
+  "spread": null,
+  "status": "Active",
+  "foundDate": "2026-11-25",
+  "metro": "Cleveland"
  }
 ]
