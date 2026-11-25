@@ -939,7 +939,7 @@
   "type": "MLS – Single Family",
   "note": "Franklinton value-add rental, leased $1,000/mo through 3/1/2027; also offered as part of a 16-property package. New today. Repair guess $15k.",
   "spread": -3448,
-  "status": "Active",
+  "status": "Gone – pending (contingent)",
   "foundDate": "2026-11-04",
   "metro": "Columbus"
  },
@@ -971,7 +971,7 @@
   "type": "MLS – Multi Family",
   "note": "\"Attention investors\" Victorian duplex (two 2 bd/1 ba units), \"sweat equity\", priced for potential. New today; estimates differ ($72k vs $103k). Repair guess $25k.",
   "spread": -3678,
-  "status": "Active",
+  "status": "Gone – pending (contingent)",
   "foundDate": "2026-11-04",
   "metro": "Cleveland"
  },
@@ -1819,7 +1819,7 @@
   "type": "MLS – Single Family",
   "note": "Vacant Westside 3 bd pitched for BRRRR/fix-and-flip; part of a 16-property package (sold individually too). New today. Repair guess $30k.",
   "spread": -15458,
-  "status": "Active",
+  "status": "Gone – pending (contingent)",
   "foundDate": "2026-11-04",
   "metro": "Columbus"
  },
@@ -4958,5 +4958,21 @@
   "status": "Active",
   "foundDate": "2026-11-25",
   "metro": "Other Ohio"
+ },
+ {
+  "address": "16 Knox Ave, Dayton, OH 45417",
+  "url": "https://www.coldwellbankerhomes.com/oh/dayton/16-knox-ave/pid_74891204/",
+  "price": 35000,
+  "value": null,
+  "valueSource": "No value estimate available (county 2025 market value ~$36,990)",
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 1460,
+  "type": "MLS – Single Family",
+  "note": "Jefferson Twp brick ranch on 0.59 ac, sold strictly as-is, cash offers preferred; needs work, strong after-repair value per listing. Active on Coldwell Banker page (MLS 973793). Verify ARV with comps; wholesaler terms not stated.",
+  "spread": null,
+  "status": "Active",
+  "foundDate": "2026-11-25",
+  "metro": "Dayton"
  }
 ]
