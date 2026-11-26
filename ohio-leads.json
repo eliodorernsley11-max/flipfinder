@@ -4974,5 +4974,21 @@
   "status": "Active",
   "foundDate": "2026-11-25",
   "metro": "Dayton"
+ },
+ {
+  "address": "2229 Parkwood Ave, Toledo, OH 43620",
+  "url": "https://www.leadingre.com/property/toledo-properties/nwj1j",
+  "price": 90000,
+  "value": null,
+  "valueSource": null,
+  "beds": 4,
+  "baths": 2.0,
+  "sqft": 3434,
+  "type": "MLS – as-is, CASH only, proof of funds",
+  "note": "Needs roof, porch, plumbing, electrical and heating work; offers subject to City of Toledo approval. No value estimate on listing, so spread not calculated; verify comps.",
+  "spread": null,
+  "status": "Active",
+  "foundDate": "2026-11-26",
+  "metro": "Toledo"
  }
 ]
