@@ -5833,5 +5833,20 @@
   "foundDate": "2026-11-25",
   "spread": null,
   "status": "Active"
+ },
+ {
+  "address": "1140 E 113th St, Cleveland, OH 44108",
+  "url": "https://www.coldwellbanker.com/oh/cleveland/1140-e-113th-st/lid-P00800000HKZkGPqrHrr3gKd3rs4DGbUqUhb7M0X",
+  "price": 39000,
+  "value": null,
+  "valueSource": null,
+  "beds": 3,
+  "baths": 1,
+  "sqft": 2265,
+  "type": "MLS \u2013 fixer-upper, priced for work needed",
+  "note": "1912 colonial, listed ~11 days ago, active per Coldwell Banker page (updated 11/25/26). Listing doesn't say cash-only/as-is; no value estimate, verify comps.",
+  "foundDate": "2026-11-25",
+  "spread": null,
+  "status": "Active"
  }
 ]
