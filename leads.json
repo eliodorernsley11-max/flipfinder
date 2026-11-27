@@ -5938,5 +5938,20 @@
   "foundDate": "2026-11-26",
   "spread": null,
   "status": "Active"
+ },
+ {
+  "address": "408 Bellview Ave S, Fayetteville, TN 37334",
+  "url": "https://usdaproperties.com/property/tn/37334/9892509310/",
+  "price": 40810,
+  "value": null,
+  "valueSource": null,
+  "beds": 2,
+  "baths": 1,
+  "sqft": 900,
+  "type": "MLS \u2013 sold as-is, substantial rehab needed",
+  "note": "1930 single-story, listed 2026-10-09, seller via attorney in fact. Page loads, USDA eligible. No value estimate on listing, so spread not calculated; verify comps.",
+  "foundDate": "2026-11-27",
+  "spread": null,
+  "status": "Active"
  }
 ]
