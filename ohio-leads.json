@@ -5166,5 +5166,53 @@
   "status": "Active",
   "foundDate": "2026-11-27",
   "metro": "Detroit"
+ },
+ {
+  "address": "19403 Mound Rd, Detroit, MI 48234",
+  "url": "https://usdaproperties.com/property/mi/48234/3419647107/",
+  "price": 45000,
+  "value": 55240,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 3,
+  "baths": 1.0,
+  "sqft": 1728,
+  "type": "MLS – Single Family",
+  "note": "Listed 2026-10-08, sold as-is, tenant-occupied at $1,000/mo; seller aware of basement condition and willing to negotiate; signed purchase agreement required before showing. Confirm assignment is OK. Repair guess $10k.",
+  "spread": -16332,
+  "status": "Active",
+  "foundDate": "2026-11-27",
+  "metro": "Detroit"
+ },
+ {
+  "address": "1003 Spring St, Braddock, PA 15104",
+  "url": "https://usdaproperties.com/property/pa/15104/4396996249/",
+  "price": 85000,
+  "value": 100697,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 4,
+  "baths": 1.0,
+  "sqft": 1472,
+  "type": "MLS – Single Family",
+  "note": "Listed 2026-04-08, price reduced; sold as-is, 'seller motivated', tenant-occupied, needs some TLC. Built 1890. Repair guess $10k.",
+  "spread": -24512,
+  "status": "Active",
+  "foundDate": "2026-11-27",
+  "metro": "Pittsburgh"
+ },
+ {
+  "address": "1398 E 91st St, Cleveland, OH 44106",
+  "url": "https://www.usdaproperties.com/property/oh/44106/3309807713/",
+  "price": 49900,
+  "value": 52224,
+  "valueSource": "Avg of AVMs (usdaproperties.com)",
+  "beds": 6,
+  "baths": 4.0,
+  "sqft": null,
+  "type": "MLS – Multi-family (duplex)",
+  "note": "Hough/University Circle duplex, investor special needing complete renovation, sold as-is, cash or renovation financing only. Gap to value estimate is thin (4.5%). Also on Compass (active). Repair guess $30k.",
+  "spread": -43343,
+  "status": "Active",
+  "foundDate": "2026-11-27",
+  "metro": "Cleveland"
  }
 ]
