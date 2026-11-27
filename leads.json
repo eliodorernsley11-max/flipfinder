@@ -5953,5 +5953,35 @@
   "foundDate": "2026-11-27",
   "spread": null,
   "status": "Active"
+ },
+ {
+  "address": "2720 S Cherry St, Pine Bluff, AR 71603",
+  "url": "https://chris-marsh.capitalsir.com/home-search/listings/6979254145693262738-2720-S-Cherry",
+  "price": 37500,
+  "value": null,
+  "valueSource": null,
+  "beds": 3,
+  "baths": 1,
+  "sqft": 1588,
+  "type": "MLS \u2013 investor special, as-is, needs significant repairs",
+  "note": "1934 brick 3BR/1BA, kitchen and bath partly gutted. Listed 2026-11-04. No value estimate on listing, so spread not calculated; verify comps.",
+  "foundDate": "2026-11-27",
+  "spread": null,
+  "status": "Active"
+ },
+ {
+  "address": "2404 Main St, Selma, AL 36703",
+  "url": "https://www.estately.com/listings/info/2404-main-street-selma-al-36703",
+  "price": 12600,
+  "value": null,
+  "valueSource": null,
+  "beds": 2,
+  "baths": 1,
+  "sqft": 731,
+  "type": "MLS \u2013 fixer-upper, as-is, cash or conventional only",
+  "note": "1972 2BR/1BA, investor opportunity; MLS 590124. No value estimate on listing, so spread not calculated; verify comps.",
+  "foundDate": "2026-11-27",
+  "spread": null,
+  "status": "Active"
  }
 ]
